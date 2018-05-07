@@ -8,7 +8,19 @@
         "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
     },
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\intro_layout2.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\layout-v21\\intro_layout2.xml"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\intro_layout2.xml",
         "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\layout-v21\\intro_layout2.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\intro_layout.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\layout-v21\\intro_layout.xml"
     }
 ]

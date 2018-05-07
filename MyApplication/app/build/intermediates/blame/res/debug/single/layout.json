@@ -4,12 +4,8 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\pager_button.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\merge_camera_preview_view_finder.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\0d082607a9a81c3814dacec4cf7d8d3babfdc1f3\\output\\res\\layout\\merge_camera_preview_view_finder.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filter.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_filter.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_validate_map.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\popup_validate_map.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_check_stock.xml",
@@ -20,20 +16,12 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_gridview_single_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_home_gridview_single_item.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_review.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_review.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_paket_data.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_paket_data.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_passenger.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_passenger.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_review_write.xml",
@@ -44,24 +32,16 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar6.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_menu_hotel.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_menu_hotel.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_passenger.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_passenger.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filter_category.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_filter_category.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_history_single.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_order_history_single.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_promo_payment.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\listview_promo_payment.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\layout\\mr_media_route_chooser_dialog.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_paket_data.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_paket_data.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wishlist.xml",
@@ -72,68 +52,20 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\home_category_1.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_ipp.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_ipp.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar4.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar4.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cek_ticket.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cek_ticket.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\messenger_button_send_white_small.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_validate_map.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\popup_validate_map.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\nav_header_main.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\day_single_item.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\day_single_item.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_layout_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\header_layout_kai.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_intro.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\layout\\fragment_intro.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_add_coupon.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart_add_coupon.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activation_account.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_activation_account.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_refund.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_refund.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\contact.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verification_phone.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_verification_phone.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brand_single_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\brand_single_item.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
@@ -152,32 +84,48 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart_single_product_listview.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_list_time.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping_list_time.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_button.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\pager_button.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notification.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_notification.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_ticket.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\my_ticket.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_listview_single_item.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_home_listview_single_item.xml"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main_hotel.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\app_bar_main_hotel.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\app_bar_main_kai.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\count_down_payment.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\count_down_payment.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\default_indicator.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\layout\\default_indicator.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_address_list.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_address_list.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragmen_notification.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragmen_notification.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_layout_hotel.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\header_layout_hotel.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_info.xml",
@@ -188,56 +136,60 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_tes.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indosat_xl_emoney_layout.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\indosat_xl_emoney_layout.xml"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_passenger_baby_summary.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_passenger_baby_summary.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_menu_hotel.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_menu_hotel.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_passenger_adult.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_passenger_adult.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_product_list.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping_product_list.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_summary.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_order_summary.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_postcode_coverage.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_postcode_coverage.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filter_brand.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_filter_brand.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_passenger_dialog.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_passenger_dialog.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_first.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\row_first.xml"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_status.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_order_status.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_profile_kai.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_new_profile_kai.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_time_detail.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping_time_detail.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_ticket_list.xml",
@@ -248,24 +200,40 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\header_layout_kai.xml"
     },
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_list_card.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_payment_list_card.xml"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_related_single.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_product_related_single.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_filter.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_filter.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar2.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar2.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wishlist_single_item.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_wishlist_single_item.xml"
     },
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\full_image_product.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\full_image_product.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\promo_banner.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\promo_banner.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\count_down_payment.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\count_down_payment.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_promo_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_promo_item.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\specification_item.xml",
@@ -280,88 +248,116 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brand_single_item.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\brand_single_item.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scanner.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_scanner.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_promo_single_list_item.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart_promo_single_list_item.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_product_list.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping_product_list.xml"
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brand_single_item.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\brand_single_item.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_electronic.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_payment_electronic.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\merge_camera_preview_view_finder.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\0d082607a9a81c3814dacec4cf7d8d3babfdc1f3\\output\\res\\layout\\merge_camera_preview_view_finder.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verification_phone.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_verification_phone.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_info_countdown.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\dialog_info_countdown.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_third_party.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_payment_third_party.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_navigation_item.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_merge_cart_product.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_merge_cart_product.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_search_view.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_layout.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\footer_layout.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_seat_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_seat_kai.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notification.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_notification.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_promo_single_list_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart_promo_single_list_item.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_promo_item.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_promo_item.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thankyou_page.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_thankyou_page.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_description.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_product_description.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_passenger_adult_summary.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_passenger_adult_summary.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hotel.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_hotel.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_info_promo.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_product_info_promo.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_time_store.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping_time_store.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_direct_login.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_direct_login.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_ticket.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\my_ticket.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thankyou_page.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_thankyou_page.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_menu_item_action_area.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_success_verifivation.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_success_verifivation.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_full_screen_image.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_full_screen_image.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category_level1.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_category_level1.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_layout.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\header_layout.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timeout_kai.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\timeout_kai.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\promo_banner.xml",
@@ -372,20 +368,16 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_profile.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_time.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping_time.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_template_media.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\address_item_layout.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\address_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_kai.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rkpon_emoney_layout.xml",
@@ -400,20 +392,40 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_review_notes.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar6.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar6.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cod_layout.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\cod_layout.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_refund.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_refund.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cek_ticket.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cek_ticket.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customised_header.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\customised_header.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_ipp.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_ipp.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_virtual_category.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_virtual_category.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_promo_payment_single_list_item.xml",
@@ -424,20 +436,24 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\footer_layout_kai.xml"
     },
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_intro.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\layout\\fragment_intro.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_product.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_retur.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_retur.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_layout_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\footer_layout_kai.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tracking.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\item_tracking.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brand_item.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\brand_item.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pulsa.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_pulsa.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_electronic_kai.xml",
@@ -452,20 +468,28 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_success_verifivation.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_media_action.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
         "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_coupon.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart_coupon.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_item_product.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\pager_item_product.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_coupon.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart_coupon.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
@@ -480,24 +504,32 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\header_layout.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\content_main.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_second.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\row_second.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_region.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\popup_region.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_profile.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_kai.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_payment_kai.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragmen_notification.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragmen_notification.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_single_product_listview.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart_single_product_listview.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filter.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_filter.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\address_layout.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\address_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_info_promo_single.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_product_info_promo_single.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_list.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_payment_list.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\info_list_store.xml",
@@ -512,12 +544,1104 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\dialog_fragment.xml"
     },
     {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_store_list.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_store_list.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thankyou_page_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_thankyou_page_kai.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scanner.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_scanner.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_summary_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_order_summary_kai.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_search_address.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\item_search_address.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\intro_layout.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\layout\\intro_layout.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile_kai_single.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\profile_kai_single.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile_kai_single.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\profile_kai_single.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_info_promo_single.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_product_info_promo_single.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_electronic.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_payment_electronic.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brand_filter_single_item.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\brand_filter_single_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_adress.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_add_adress.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\date_picker.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_promo_single_grid_item.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart_promo_single_grid_item.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\intro_layout2.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\layout\\intro_layout2.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_layout_hotel.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\footer_layout_hotel.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shipping_address_layout.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\shipping_address_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wishlist_single_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_wishlist_single_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_passenger_adult.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_passenger_adult.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main_kai.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\app_bar_main_kai.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intro.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\count_down.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\count_down.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\tab_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\intro_layout.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\layout\\intro_layout.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_item.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\contact_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rkpon_emoney_layout.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\rkpon_emoney_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_promo_payment_single_list_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart_promo_payment_single_list_item.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_postcode_coverage_single_store_item.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_postcode_coverage_single_store_item.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_review_greeting_cards.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_review_greeting_cards.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_hotel.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\content_hotel.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_notification.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_item_notification.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_ticket_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_ticket_kai.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_full_screen_image.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_full_screen_image.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_time_store.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping_time_store.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar3.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar3.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_voucher.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_voucher.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_review_single.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_review_single.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_review_single.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_review_single.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_review_notes.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_review_notes.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_coupon.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart_coupon.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_ticket_kai.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_ticket_kai.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_layout.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\map_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\promo_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\promo_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\marker_map.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\marker_map.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addressctivity.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_addressctivity.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_summary.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_order_summary.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activation_account.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_activation_account.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pulsa.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_pulsa.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_view.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_item.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\data_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_history.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_order_history.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_price.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\popup_price.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_summary_store_product.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_order_summary_store_product.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addressctivity.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_addressctivity.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\default_indicator.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\layout\\default_indicator.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_gridview_single_item.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\category_gridview_single_item.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_postcode_coverage.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_postcode_coverage.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_history.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_order_history.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_postcode_coverage_autocomplete.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_postcode_coverage_autocomplete.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_error_page.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_error_page.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_summary_store_product.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_order_summary_store_product.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_layout_hotel.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\header_layout_hotel.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_merge_cart.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_merge_cart.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_layout.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\footer_layout.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar8.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar8.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_virtual_category.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_virtual_category.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filter_price.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_filter_price.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_category_item.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_history_single.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_order_history_single.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\promo_payment.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\promo_payment.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_brand.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_brand.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indosat_xl_emoney_layout.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\indosat_xl_emoney_layout.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_payment_kai.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_payment_kai.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_postcode_coverage_single_store_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_postcode_coverage_single_store_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\contact.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar4.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar4.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\autocomplete.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\autocomplete.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_passenger_baby.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_passenger_baby.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_facebook.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_facebook.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category_hero.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_category_hero.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category_hero.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_category_hero.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_pager_header.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\view_pager_header.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_direct_login.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_direct_login.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_pager_header.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\view_pager_header.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_third_party.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_payment_third_party.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category_item.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_category_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_retur.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_retur.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_facebook.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_facebook.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shipping_address_layout.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\shipping_address_layout.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\address_layout.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\address_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intro.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filter.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_filter.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\merge_camera_preview_view_finder.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\0d082607a9a81c3814dacec4cf7d8d3babfdc1f3\\output\\res\\layout\\merge_camera_preview_view_finder.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgot_password.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile_change_password.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_profile_change_password.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\pager_item.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_paket_data.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_paket_data.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_passenger.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_passenger.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filter_price.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_filter_price.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_menu_hotel.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_menu_hotel.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_category_1.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\home_category_1.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filter_category.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_filter_category.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_promo_payment.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\listview_promo_payment.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_promo_payment.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\listview_promo_payment.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_layout.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\map_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_history_tabbed.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_order_history_tabbed.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_status.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_order_status.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar4.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar4.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cek_ticket.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cek_ticket.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tracking.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\item_tracking.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_validate_map.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\popup_validate_map.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\day_single_item.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\day_single_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_promo_single_grid_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart_promo_single_grid_item.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_intro.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\layout\\fragment_intro.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\info_list_store.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\info_list_store.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_add_coupon.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart_add_coupon.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_refund.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_refund.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activation_account.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_activation_account.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\contact.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verification_phone.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_verification_phone.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_related_single.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_product_related_single.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_region.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\popup_region.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_review.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_review.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_list_time.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping_list_time.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_listview_single_item.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_home_listview_single_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_item_menu.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\data_item_menu.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\count_down_payment.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\count_down_payment.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_ticket_list.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_my_ticket_list.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_payment.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\category_payment.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indosat_xl_emoney_layout.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\indosat_xl_emoney_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_passenger_dialog.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_passenger_dialog.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main_hotel.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\app_bar_main_hotel.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_review_write.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_review_write.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_first.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\row_first.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_ticket_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_list_ticket_kai.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_profile_kai.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_new_profile_kai.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_filter.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_filter.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_passenger_baby_summary.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_passenger_baby_summary.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_second.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\row_second.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_notification.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_item_notification.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_view.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_price.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\popup_price.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_address_list.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_address_list.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_product_list.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping_product_list.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_payment.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_payment.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_electronic.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_payment_electronic.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\data_item.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_third_party.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_payment_third_party.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_merge_cart.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_merge_cart.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar7.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar7.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_gridview_single_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\category_gridview_single_item.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\full_image_product.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\full_image_product.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notification.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_promo_item.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_promo_item.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_store_list.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_store_list.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hotel.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_hotel.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_time.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping_time.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\specification_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\specification_item.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_full_screen_image.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_full_screen_image.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timeout_kai.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\timeout_kai.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filter_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_filter_kai.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_time.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping_time.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_review_greeting_cards.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_review_greeting_cards.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_electronic_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_payment_electronic_kai.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_check_stock.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart_check_stock.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_listview_single_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_home_listview_single_item.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timeout_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\timeout_kai.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_add_coupon.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart_add_coupon.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_fragment.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\dialog_fragment.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_retur.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_retur.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\info_delivery.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\info_delivery.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tracking.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\item_tracking.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_status_single.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_order_status_single.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brand_item.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\brand_item.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\date_picker.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\count_down.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\count_down.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_profile.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_menu_profile.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_second.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\row_second.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_profile_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_new_profile_kai.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_region.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\popup_region.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_filter.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_filter.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customised_header.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\customised_header.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragmen_notification.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragmen_notification.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_item.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\pager_item.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_store_list.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_store_list.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_postcode_coverage_autocomplete.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_postcode_coverage_autocomplete.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_hotel.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\content_hotel.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_item_product.xml",
@@ -528,12 +1652,8 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\layout\\place_autocomplete_progress.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scanner.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_scanner.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_sit.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_choose_sit.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_adress.xml",
@@ -560,16 +1680,20 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\home_category_2.xml"
     },
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category_level1.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_category_level1.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile_kai_single.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\profile_kai_single.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_navigation_menu.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar5.xml",
@@ -578,10 +1702,6 @@
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thankyou_page_kai.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_thankyou_page_kai.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_info_promo_single.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_product_info_promo_single.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
@@ -600,20 +1720,20 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_product_info_promo.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brand_filter_single_item.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\brand_filter_single_item.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_passenger_baby.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_passenger_baby.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
         "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\date_picker.xml"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
         "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_list_time.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping_list_time.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
@@ -628,14 +1748,6 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_product_description.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart_promo_single_grid_item.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_cart_promo_single_grid_item.xml"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
@@ -648,8 +1760,8 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping_time_detail.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\intro_layout2.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\layout\\intro_layout2.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar3.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar3.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_result.xml",
@@ -660,20 +1772,20 @@
         "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\messenger_button_send_blue_round.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main_kai.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\app_bar_main_kai.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_indicator.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\layout\\progress_indicator.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar7.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar7.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intro.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_intro.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\count_down.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\count_down.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
@@ -684,56 +1796,80 @@
         "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
         "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\messenger_button_send_white_small.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile_kai.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_profile_kai.xml"
     },
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_menu.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_menu.xml"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_footer_main_drawer.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\new_footer_main_drawer.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\intro_layout.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\layout\\intro_layout.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_footer_main_drawer.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\new_footer_main_drawer.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_item.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\contact_item.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_category_2.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\home_category_2.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_postcode_coverage_single_store_item.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_postcode_coverage_single_store_item.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brand_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\brand_item.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_review_greeting_cards.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_review_greeting_cards.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_hotel.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\content_hotel.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_payment_kai.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\autocomplete.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\autocomplete.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_notification.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_item_notification.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cod_layout.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\cod_layout.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_top.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\view_top.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_time_store.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping_time_store.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_merge_cart_product.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_merge_cart_product.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar8.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar8.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar5.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar5.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\address_item_layout.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\address_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_indicator.xml",
@@ -744,68 +1880,60 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_home_kai.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_item_menu.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\data_item_menu.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_chat.xml"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_yellow.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar_yellow.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\info_delivery.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\info_delivery.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar3.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar3.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_home_kai.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
         "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_bottom.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\view_bottom.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_seat_kai.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_seat_kai.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_review_single.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_review_single.xml"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_date.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping_date.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\layout\\place_autocomplete_fragment.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_date.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_shipping_date.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_status_single.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_order_status_single.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_ticket_kai.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_ticket_kai.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_first.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\row_first.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_layout.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\map_layout.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hotel.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_hotel.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_profile.xml",
@@ -820,6 +1948,18 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_filter_kai.xml"
     },
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filter_brand.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_filter_brand.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_profile_kai.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\contact_item.xml"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_summary.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_order_summary.xml"
     },
@@ -832,48 +1972,32 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_description.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addressctivity.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_addressctivity.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_summary.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_order_summary.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filter_category.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_filter_category.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pulsa.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_pulsa.xml"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\promo_payment.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\promo_payment.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_view.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_item.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\data_item.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wishlist.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_wishlist.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_price.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\popup_price.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_description_single.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_product_description_single.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_summary_store_product.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_order_summary_store_product.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\layout\\design_navigation_menu_item.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\default_indicator.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\layout\\default_indicator.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
@@ -884,44 +2008,20 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_payment_list_card.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_gridview_single_item.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\category_gridview_single_item.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_postcode_coverage.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_postcode_coverage.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_history.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_order_history.xml"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
         "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\com_facebook_activity_layout.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_postcode_coverage_autocomplete.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_postcode_coverage_autocomplete.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_payment_kai.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_payment_kai.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_layout_hotel.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\header_layout_hotel.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_merge_cart.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_merge_cart.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brand_filter_single_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\brand_filter_single_item.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
@@ -932,24 +2032,8 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_list_ticket_kai.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar8.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar8.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_layout.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\footer_layout.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_virtual_category.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_virtual_category.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filter_price.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_filter_price.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_history_single.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_order_history_single.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_result.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_search_result.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_list.xml",
@@ -964,8 +2048,8 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_payment_kai.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_payment_kai.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_payment.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -980,40 +2064,68 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\category_payment.xml"
     },
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_passenger_adult_summary.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_passenger_adult_summary.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_media_action.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_bottom.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\view_bottom.xml"
     },
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map_plaza.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_map_plaza.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_layout_hotel.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\footer_layout_hotel.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wishlist.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_wishlist.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_summary.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_order_summary.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\day_single_item.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\day_single_item.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_retur_product.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_retur_product.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_passenger_baby.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_passenger_baby.xml"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_history_tabbed.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_order_history_tabbed.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_facebook.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_facebook.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_retur_product.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_retur_product.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_item.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar2.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\toolbar2.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_info_countdown.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\dialog_info_countdown.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_payment.xml",
@@ -1024,16 +2136,16 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_wishlist.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category_hero.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_category_hero.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_menu.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\list_menu.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_pager_header.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\view_pager_header.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_description.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\fragment_description.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map_plaza.xml",
@@ -1044,8 +2156,8 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_direct_login.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_direct_login.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\intro_layout2.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\layout\\intro_layout2.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
@@ -1060,12 +2172,12 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\promo_item.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_summary_kai.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_order_summary_kai.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_info.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\dialog_info.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category_item.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_category_item.xml"
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_summary_kai.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_order_summary_kai.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
@@ -1076,27 +2188,11 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\marker_map.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\layout\\messenger_button_send_white_round.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_payment.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_category.xml"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shipping_address_layout.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\shipping_address_layout.xml"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_item.xml",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\tab_item.xml"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\address_layout.xml",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\address_layout.xml"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_profile.xml",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\layout\\activity_change_profile.xml"
     }
 ]

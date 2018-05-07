@@ -1,29 +1,29 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:2:1-349:12
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:2:1-349:12
 	package
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:3:5-42
-		INJECTED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:5:5-79
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:5:5-79
 MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\USER\.android\build-cache\7beaa4b931e3d7bb028d394fa2440c6d9df6f5c1\output\AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\USER\.android\build-cache\85232a59c0070e3dade85737f888b8f665426c7f\output\AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\USER\.android\build-cache\46a41c1c0ff53e89b711b4993947649032194c23\output\AndroidManifest.xml:19:5-79
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\USER\.android\build-cache\07f60011e67a6347f459d67ed56ac0425c71707e\output\AndroidManifest.xml:20:5-78
 MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\USER\.android\build-cache\9a4ebaa4cda6a60714ae33c16a749151079286ed\output\AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:5:22-76
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:5:22-76
 uses-permission#android.permission.INTERNET
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:6:5-67
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:6:5-67
 MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\USER\.android\build-cache\7beaa4b931e3d7bb028d394fa2440c6d9df6f5c1\output\AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\USER\.android\build-cache\85232a59c0070e3dade85737f888b8f665426c7f\output\AndroidManifest.xml:21:5-67
 MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\USER\.android\build-cache\acba37fe938f70bbf74412fe9dd7b98e9d95842c\output\AndroidManifest.xml:19:5-67
@@ -31,90 +31,90 @@ MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\USER\.andr
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\USER\.android\build-cache\07f60011e67a6347f459d67ed56ac0425c71707e\output\AndroidManifest.xml:21:5-66
 MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\USER\.android\build-cache\9a4ebaa4cda6a60714ae33c16a749151079286ed\output\AndroidManifest.xml:21:5-67
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:7:5-71
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:7:5-71
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:7:22-68
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:7:22-68
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:8:5-98
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:8:5-98
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:8:22-95
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:8:22-95
 uses-permission#android.permission.CALL_PHONE
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:9:5-69
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:9:5-69
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:9:22-66
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:9:22-66
 uses-permission#android.permission.CAMERA
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:10:5-65
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:10:5-65
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:10:22-62
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:10:22-62
 uses-permission#android.permission.GET_TASKS
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:11:5-68
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:11:5-68
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:11:22-65
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:11:22-65
 uses-permission#android.permission.WAKE_LOCK
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:12:5-68
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:12:5-68
 MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\USER\.android\build-cache\9a4ebaa4cda6a60714ae33c16a749151079286ed\output\AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:12:22-65
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:12:22-65
 uses-permission#android.permission.READ_CONTACTS
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:13:5-72
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:13:5-72
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:13:22-69
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:13:22-69
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:14:5-79
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:14:5-79
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:14:22-76
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:14:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:15:5-81
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:15:5-81
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:15:22-78
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:15:22-78
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:16:5-81
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:16:5-81
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:16:22-78
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:16:22-78
 uses-feature#android.hardware.location.gps
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:18:5-66
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:18:5-66
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:18:19-63
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:18:19-63
 permission#com.indomaret.klikindomaret.permission.C2D_MESSAGE
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:20:5-22:47
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:20:5-22:47
 	android:protectionLevel
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:22:9-44
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:22:9-44
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:21:9-74
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:21:9-74
 permission#com.indomaret.klikindomaret.permission.DEADLY_ACTIVITY
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:23:5-26:47
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:23:5-26:47
 	android:protectionLevel
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:26:9-44
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:26:9-44
 	android:permissionGroup
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:25:9-70
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:25:9-70
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:24:9-78
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:24:9-78
 uses-permission#com.indomaret.klikindomaret.permission.C2D_MESSAGE
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:28:5-90
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:28:5-90
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:28:22-87
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:28:22-87
 uses-permission#android.permission.VIBRATE
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:29:5-66
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:29:5-66
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:29:22-63
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:29:22-63
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:30:5-75
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:30:5-75
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:30:22-72
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:30:22-72
 uses-permission#android.permission.RECEIVE_SMS
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:31:5-70
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:31:5-70
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:31:22-67
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:31:22-67
 uses-permission#android.permission.READ_SMS
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:32:5-67
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:32:5-67
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:32:22-64
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:32:22-64
 application
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:34:5-347:19
-MERGED from [com.android.volley:volley:unspecified] D:\Project\KlikIDM\MyApplication\volley\build\intermediates\bundles\default\AndroidManifest.xml:9:5-20
-MERGED from [MyApplication:multi-level-listview:unspecified] D:\Project\KlikIDM\MyApplication\multi-level-listview\build\intermediates\bundles\default\AndroidManifest.xml:11:5-53
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:34:5-347:19
+MERGED from [com.android.volley:volley:unspecified] D:\android\KlikIDM\MyApplication\volley\build\intermediates\bundles\default\AndroidManifest.xml:9:5-20
+MERGED from [MyApplication:multi-level-listview:unspecified] D:\android\KlikIDM\MyApplication\multi-level-listview\build\intermediates\bundles\default\AndroidManifest.xml:11:5-53
 MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] C:\Users\USER\.android\build-cache\577091452ee51f16dc10b83321ae42c274ac55a9\output\AndroidManifest.xml:28:5-20
 MERGED from [com.android.support:design:23.4.0] C:\Users\USER\.android\build-cache\417b2093178601a04d9c69e9b0fa42418404ce2b\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\USER\.android\build-cache\5b1991e129efafb887e9874553b33375f10908d1\output\AndroidManifest.xml:22:5-20
@@ -151,587 +151,587 @@ MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\US
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\USER\.android\build-cache\612f1843d12b6a005c60f5b5cf9562a9b116e8e9\output\AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\USER\.android\build-cache\88baea9bcf81e4a1553c23bd2010dc2dad24a29c\output\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:38:9-41
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:38:9-41
 	android:supportsRtl
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:41:9-35
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:41:9-35
 	android:allowBackup
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:36:9-35
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:36:9-35
 	android:icon
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:37:9-40
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:37:9-40
 	android:largeHeap
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:39:9-33
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:39:9-33
 	android:persistent
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:40:9-34
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:40:9-34
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:42:9-52
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:42:9-52
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:35:9-42
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:35:9-42
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:43:9-45:55
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:43:9-45:55
 	android:value
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:45:13-52
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:45:13-52
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:44:13-58
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:44:13-58
 activity#com.facebook.FacebookActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:47:9-50:48
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:47:9-50:48
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:50:13-45
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:50:13-45
 	android:configChanges
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:49:13-96
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:49:13-96
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:48:13-57
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:48:13-57
 activity#com.facebook.CustomTabActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:51:9-62:20
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:51:9-62:20
 	android:exported
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:53:13-36
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:53:13-36
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:52:13-58
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:52:13-58
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:54:13-61:29
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:54:13-61:29
 action#android.intent.action.VIEW
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:55:17-69
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:55:17-69
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:55:25-66
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:55:25-66
 category#android.intent.category.DEFAULT
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:57:17-76
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:57:17-76
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:57:27-73
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:57:27-73
 category#android.intent.category.BROWSABLE
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:58:17-78
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:58:17-78
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:58:27-75
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:58:27-75
 data
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:60:17-75
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:60:17-75
 	android:scheme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:60:23-72
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:60:23-72
 service#com.indomaret.klikindomaret.helper.KeepRunning
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:64:9-66:38
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:64:9-66:38
 	android:enabled
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:66:13-35
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:66:13-35
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:65:13-47
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:65:13-47
 meta-data#com.google.android.geo.API_KEY
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:68:9-70:71
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:68:9-70:71
 	android:value
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:70:13-68
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:70:13-68
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:69:13-58
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:69:13-58
 activity#com.indomaret.klikindomaret.MainActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:77:9-103:20
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:77:9-103:20
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:81:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:81:13-49
 	android:exported
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:79:13-36
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:79:13-36
 	android:icon
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:80:13-44
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:80:13-44
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:82:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:82:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:78:13-41
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:78:13-41
 activity#com.indomaret.klikindomaret.activity.LoginActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:104:9-108:63
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:104:9-108:63
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:107:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:107:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:106:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:106:13-29
 	android:windowSoftInputMode
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:108:13-60
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:108:13-60
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:105:13-51
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:105:13-51
 activity#com.indomaret.klikindomaret.activity.ForgotPasswordActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:109:9-113:63
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:109:9-113:63
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:112:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:112:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:111:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:111:13-29
 	android:windowSoftInputMode
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:113:13-60
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:113:13-60
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:110:13-60
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:110:13-60
 activity#com.indomaret.klikindomaret.activity.ProfileActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:114:9-118:63
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:114:9-118:63
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:117:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:117:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:116:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:116:13-29
 	android:windowSoftInputMode
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:118:13-60
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:118:13-60
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:115:13-53
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:115:13-53
 activity#com.indomaret.klikindomaret.activity.ChangeProfileActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:119:9-123:63
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:119:9-123:63
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:122:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:122:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:121:13-40
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:121:13-40
 	android:windowSoftInputMode
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:123:13-60
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:123:13-60
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:120:13-59
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:120:13-59
 activity#com.indomaret.klikindomaret.activity.ChangePasswordActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:124:9-128:63
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:124:9-128:63
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:127:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:127:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:126:13-42
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:126:13-42
 	android:windowSoftInputMode
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:128:13-60
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:128:13-60
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:125:13-60
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:125:13-60
 activity#com.indomaret.klikindomaret.activity.AddAdressActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:129:9-133:63
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:129:9-133:63
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:132:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:132:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:131:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:131:13-29
 	android:windowSoftInputMode
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:133:13-60
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:133:13-60
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:130:13-55
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:130:13-55
 activity#com.indomaret.klikindomaret.activity.HotelActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:134:9-137:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:134:9-137:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:137:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:137:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:136:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:136:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:135:13-51
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:135:13-51
 activity#com.indomaret.klikindomaret.activity.PostcodeCoverageActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:138:9-142:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:138:9-142:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:142:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:142:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:140:13-45
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:140:13-45
 	android:launchMode
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:141:13-43
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:141:13-43
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:139:13-62
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:139:13-62
 activity#com.indomaret.klikindomaret.activity.ScannerActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:143:9-146:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:143:9-146:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:146:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:146:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:145:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:145:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:144:13-53
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:144:13-53
 activity#com.indomaret.klikindomaret.activity.SearchResultActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:147:9-150:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:147:9-150:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:150:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:150:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:149:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:149:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:148:13-58
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:148:13-58
 activity#com.indomaret.klikindomaret.activity.IntroActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:151:9-154:58
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:151:9-154:58
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:153:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:153:13-49
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:154:13-55
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:154:13-55
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:152:13-51
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:152:13-51
 activity#com.indomaret.klikindomaret.activity.FullScreenImageActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:155:9-70
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:155:9-70
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:155:19-67
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:155:19-67
 activity#com.indomaret.klikindomaret.activity.ChatActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:156:9-159:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:156:9-159:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:159:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:159:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:158:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:158:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:157:13-50
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:157:13-50
 receiver#com.google.android.gms.gcm.GcmReceiver
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:162:9-171:20
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:162:9-171:20
 	android:exported
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:164:13-36
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:164:13-36
 	android:permission
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:165:13-73
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:165:13-73
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:163:13-66
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:163:13-66
 intent-filter#com.google.android.c2dm.intent.RECEIVE+info.androidhive.gcm
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:166:13-170:29
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:166:13-170:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:167:17-81
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:167:17-81
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:167:25-78
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:167:25-78
 category#info.androidhive.gcm
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:169:17-65
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:169:17-65
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:169:27-62
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:169:27-62
 service#com.indomaret.klikindomaret.gcm.MyGcmPushReceiver
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:173:9-179:19
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:173:9-179:19
 	android:exported
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:175:13-37
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:175:13-37
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:174:13-50
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:174:13-50
 intent-filter#com.google.android.c2dm.intent.RECEIVE
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:176:13-178:29
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:176:13-178:29
 service#com.indomaret.klikindomaret.gcm.GcmIntentService
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:180:9-186:19
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:180:9-186:19
 	android:exported
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:182:13-37
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:182:13-37
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:181:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:181:13-49
 intent-filter#com.google.android.gms.iid.InstanceID
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:183:13-185:29
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:183:13-185:29
 action#com.google.android.gms.iid.InstanceID
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:184:17-80
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:184:17-80
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:184:25-77
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:184:25-77
 meta-data#com.google.android.gms.version
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:189:9-191:69
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:189:9-191:69
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\USER\.android\build-cache\612f1843d12b6a005c60f5b5cf9562a9b116e8e9\output\AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:191:13-66
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:191:13-66
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:190:13-58
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:190:13-58
 activity#com.indomaret.klikindomaret.activity.SplashActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:193:9-202:20
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:193:9-202:20
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:195:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:195:13-49
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:196:13-55
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:196:13-55
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:194:13-52
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:194:13-52
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:197:13-201:29
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:197:13-201:29
 action#android.intent.action.MAIN
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:198:17-69
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:198:17-69
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:198:25-66
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:198:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:200:17-77
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:200:17-77
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:200:27-74
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:200:27-74
 activity#com.indomaret.klikindomaret.activity.BrandActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:203:9-206:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:203:9-206:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:206:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:206:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:205:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:205:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:204:13-51
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:204:13-51
 activity#com.indomaret.klikindomaret.activity.RegisterActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:207:9-210:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:207:9-210:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:210:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:210:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:209:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:209:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:208:13-54
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:208:13-54
 activity#com.indomaret.klikindomaret.activity.CategoryActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:211:9-214:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:211:9-214:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:214:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:214:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:213:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:213:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:212:13-54
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:212:13-54
 activity#com.indomaret.klikindomaret.activity.ProductActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:215:9-219:55
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:215:9-219:55
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:218:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:218:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:217:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:217:13-29
 	android:windowSoftInputMode
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:219:13-52
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:219:13-52
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:216:13-53
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:216:13-53
 activity#com.indomaret.klikindomaret.activity.WishlistActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:220:9-223:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:220:9-223:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:223:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:223:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:222:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:222:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:221:13-54
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:221:13-54
 activity#com.indomaret.klikindomaret.activity.VirtualCategoryActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:224:9-227:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:224:9-227:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:227:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:227:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:226:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:226:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:225:13-61
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:225:13-61
 activity#com.indomaret.klikindomaret.activity.CategoryHeroActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:228:9-230:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:228:9-230:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:230:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:230:13-49
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:229:13-58
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:229:13-58
 activity#com.indomaret.klikindomaret.activity.CartActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:231:9-235:55
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:231:9-235:55
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:234:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:234:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:233:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:233:13-29
 	android:windowSoftInputMode
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:235:13-52
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:235:13-52
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:232:13-50
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:232:13-50
 activity#com.indomaret.klikindomaret.activity.OrderSummaryActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:236:9-239:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:236:9-239:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:239:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:239:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:238:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:238:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:237:13-58
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:237:13-58
 activity#com.indomaret.klikindomaret.activity.PaymentListActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:240:9-243:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:240:9-243:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:243:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:243:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:242:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:242:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:241:13-57
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:241:13-57
 activity#com.indomaret.klikindomaret.activity.PaymentElectronicActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:244:9-247:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:244:9-247:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:247:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:247:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:246:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:246:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:245:13-63
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:245:13-63
 activity#com.indomaret.klikindomaret.activity.ReviewActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:248:9-251:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:248:9-251:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:251:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:251:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:250:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:250:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:249:13-52
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:249:13-52
 activity#com.indomaret.klikindomaret.activity.MergeCartActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:252:9-255:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:252:9-255:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:255:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:255:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:254:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:254:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:253:13-55
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:253:13-55
 activity#com.indomaret.klikindomaret.activity.ShippingTimeActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:256:9-259:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:256:9-259:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:259:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:259:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:258:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:258:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:257:13-58
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:257:13-58
 activity#com.indomaret.klikindomaret.activity.StoreListActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:260:9-263:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:260:9-263:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:263:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:263:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:262:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:262:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:261:13-55
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:261:13-55
 activity#com.indomaret.klikindomaret.activity.PaymentThirdPartyActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:264:9-267:52
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:264:9-267:52
 	android:screenOrientation
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:267:13-49
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:267:13-49
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:266:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:266:13-29
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:265:13-63
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:265:13-63
 activity#com.indomaret.klikindomaret.activity.FilterActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:268:9-61
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:268:9-61
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:268:19-58
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:268:19-58
 activity#com.indomaret.klikindomaret.activity.VerificationPhoneActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:269:9-272:59
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:269:9-272:59
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:271:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:271:13-29
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:272:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:272:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:270:13-63
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:270:13-63
 activity#com.indomaret.klikindomaret.activity.ActivationAccountActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:273:9-276:59
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:273:9-276:59
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:275:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:275:13-29
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:276:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:276:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:274:13-63
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:274:13-63
 activity#com.indomaret.klikindomaret.activity.DirectLoginActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:277:9-66
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:277:9-66
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:277:19-63
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:277:19-63
 activity#com.indomaret.klikindomaret.activity.SuccessVerifivationActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:278:9-281:59
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:278:9-281:59
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:280:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:280:13-29
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:281:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:281:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:279:13-65
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:279:13-65
 activity#com.indomaret.klikindomaret.activity.HomeKAIActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:282:9-285:59
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:282:9-285:59
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:284:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:284:13-29
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:285:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:285:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:283:13-53
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:283:13-53
 activity#com.indomaret.klikindomaret.activity.ListTicketKAIActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:286:9-289:59
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:286:9-289:59
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:288:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:288:13-29
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:289:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:289:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:287:13-59
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:287:13-59
 activity#com.indomaret.klikindomaret.activity.ProfileKAIActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:290:9-293:59
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:290:9-293:59
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:292:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:292:13-29
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:293:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:293:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:291:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:291:13-56
 activity#com.indomaret.klikindomaret.activity.NewProfileKAIActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:294:9-297:59
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:294:9-297:59
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:296:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:296:13-29
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:297:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:297:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:295:13-59
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:295:13-59
 activity#com.indomaret.klikindomaret.activity.PassengerActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:298:9-301:59
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:298:9-301:59
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:300:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:300:13-29
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:301:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:301:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:299:13-55
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:299:13-55
 activity#com.indomaret.klikindomaret.activity.ChooseSeatActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:302:9-305:59
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:302:9-305:59
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:304:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:304:13-29
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:305:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:305:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:303:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:303:13-56
 activity#com.indomaret.klikindomaret.activity.OrderSummaryKAIActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:306:9-309:59
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:306:9-309:59
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:308:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:308:13-29
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:309:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:309:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:307:13-61
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:307:13-61
 activity#com.indomaret.klikindomaret.activity.PaymentKAIActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:310:9-313:59
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:310:9-313:59
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:312:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:312:13-29
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:313:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:313:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:311:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:311:13-56
 activity#com.indomaret.klikindomaret.activity.ThankyouPageKAIActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:314:9-317:59
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:314:9-317:59
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:316:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:316:13-29
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:317:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:317:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:315:13-61
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:315:13-61
 activity#com.indomaret.klikindomaret.activity.MyTicketListActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:318:9-321:59
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:318:9-321:59
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:320:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:320:13-29
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:321:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:321:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:319:13-58
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:319:13-58
 activity#com.indomaret.klikindomaret.activity.FilterKAIActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:322:9-325:59
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:322:9-325:59
 	android:label
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:324:13-29
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:324:13-29
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:325:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:325:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:323:13-55
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:323:13-55
 activity#com.indomaret.klikindomaret.activity.CekTicketActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:326:9-328:59
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:326:9-328:59
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:328:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:328:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:327:13-55
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:327:13-55
 activity#com.indomaret.klikindomaret.activity.CategoryLevel1Activity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:329:9-69
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:329:9-69
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:329:19-66
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:329:19-66
 activity#com.indomaret.klikindomaret.activity.ThankyouPageActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:330:9-67
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:330:9-67
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:330:19-64
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:330:19-64
 activity#com.indomaret.klikindomaret.activity.ErrorPageActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:331:9-64
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:331:9-64
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:331:19-61
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:331:19-61
 activity#com.indomaret.klikindomaret.activity.NotificationActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:332:9-67
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:332:9-67
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:332:19-64
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:332:19-64
 activity#com.indomaret.klikindomaret.activity.ReturActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:333:9-60
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:333:9-60
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:333:19-57
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:333:19-57
 activity#com.indomaret.klikindomaret.activity.RefundActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:334:9-61
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:334:9-61
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:334:19-58
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:334:19-58
 activity#com.indomaret.klikindomaret.activity.YahooActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:335:9-60
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:335:9-60
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:335:19-57
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:335:19-57
 activity#com.indomaret.klikindomaret.activity.MenuProfileActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:336:9-66
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:336:9-66
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:336:19-63
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:336:19-63
 activity#com.indomaret.klikindomaret.activity.WebViewActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:337:9-62
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:337:9-62
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:337:19-59
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:337:19-59
 activity#com.indomaret.klikindomaret.activity.PromoItemActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:338:9-340:59
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:338:9-340:59
 	android:theme
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:340:13-56
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:340:13-56
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:339:13-55
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:339:13-55
 activity#com.indomaret.klikindomaret.activity.MapActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:341:9-58
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:341:9-58
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:341:19-55
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:341:19-55
 activity#com.indomaret.klikindomaret.activity.MapPlazaActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:342:9-63
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:342:9-63
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:342:19-60
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:342:19-60
 activity#com.indomaret.klikindomaret.activity.ShippingActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:343:9-63
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:343:9-63
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:343:19-60
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:343:19-60
 activity#com.indomaret.klikindomaret.activity.PaymentActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:344:9-62
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:344:9-62
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:344:19-59
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:344:19-59
 activity#com.indomaret.klikindomaret.activity.AddressActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:345:9-62
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:345:9-62
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:345:19-59
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:345:19-59
 activity#com.indomaret.klikindomaret.activity.ShippingListTimeActivity
-ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:346:9-71
+ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:346:9-71
 	android:name
-		ADDED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:346:19-68
+		ADDED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml:346:19-68
 uses-sdk
-INJECTED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:multidex:1.0.1] C:\Users\USER\.android\build-cache\ac50c02ddfaeb5c7b5823d140d4a02f674efdf01\output\AndroidManifest.xml:18:5-42
-MERGED from [com.android.volley:volley:unspecified] D:\Project\KlikIDM\MyApplication\volley\build\intermediates\bundles\default\AndroidManifest.xml:7:5-43
-MERGED from [MyApplication:multi-level-listview:unspecified] D:\Project\KlikIDM\MyApplication\multi-level-listview\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.volley:volley:unspecified] D:\android\KlikIDM\MyApplication\volley\build\intermediates\bundles\default\AndroidManifest.xml:7:5-43
+MERGED from [MyApplication:multi-level-listview:unspecified] D:\android\KlikIDM\MyApplication\multi-level-listview\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] C:\Users\USER\.android\build-cache\577091452ee51f16dc10b83321ae42c274ac55a9\output\AndroidManifest.xml:24:5-26:41
 MERGED from [com.android.support:design:23.4.0] C:\Users\USER\.android\build-cache\417b2093178601a04d9c69e9b0fa42418404ce2b\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\USER\.android\build-cache\fae84d9f10f5fd9778f9be1b0022365e4b60c458\output\AndroidManifest.xml:20:5-43
@@ -776,11 +776,11 @@ MERGED from [com.android.support:support-v4:23.4.0] C:\Users\USER\.android\build
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\USER\.android\build-cache\1be958c5998a424c84864acc2a7a289f05093a30\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\KlikIDM\MyApplication\app\src\main\AndroidManifest.xml
 activity#com.google.android.gms.ads.AdActivity
 ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\USER\.android\build-cache\7beaa4b931e3d7bb028d394fa2440c6d9df6f5c1\output\AndroidManifest.xml:26:9-29:64
 	android:configChanges

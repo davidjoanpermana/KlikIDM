@@ -1,43 +1,39 @@
 [
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_search.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_search.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_show.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_show.png"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_back_arrow.png",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_back_arrow.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\launcher.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\launcher.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\launcher.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_barcode_search.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_barcode_search.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_delete_black.png",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_delete_black.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\logo_idm.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_idm.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_delete_black.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_delete_black.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_close.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_close.png"
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\logo_idm.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_idm.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_action_plus.png",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_action_plus.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_hide.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_hide.png"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_edit.png",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_edit.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_edit.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_back.png",
@@ -56,8 +52,76 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_delete_blue.png"
     },
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_action_plus.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_action_plus.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_search.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\splash_image.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\splash_image.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_show.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_show.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_filter.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_filter.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_search.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_show.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_show.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_hide.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_hide.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\launcher.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\logo_idm.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_idm.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_close.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_close.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_hide.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_hide.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_delete_blue.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_delete_blue.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_back_arrow.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_back_arrow.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_add.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_add.png"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\splash_image.png",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\splash_image.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_close.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_close.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_filter.png",
@@ -66,5 +130,9 @@
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_barcode_search.png",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_barcode_search.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_back.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_back.png"
     }
 ]

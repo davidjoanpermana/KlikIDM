@@ -4,24 +4,16 @@
         "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_focused.9.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_pressed.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_pressed.9.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_full_open_on_phone.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\akunsaya.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\akunsaya.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_idm.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\logo_idm.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_focused.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_normal.9.png",
@@ -32,32 +24,32 @@
         "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_light.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_button_send_icon.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_button_send_icon.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_normal.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\riwayat_pesanan.png",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\riwayat_pesanan.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_pressed.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_pressed.9.png"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_off_mono_dark.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_route_off_mono_dark.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wish_list.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\wish_list.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_back_arrow.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\icon_back_arrow.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_normal.9.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_black_background.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\layanan_pelanggan.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\layanan_pelanggan.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_standard_off_client.png",
@@ -68,11 +60,471 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\cari.png"
     },
     {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\messenger_bubble_large_white.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\messenger_bubble_large_white.png"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_2_light.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_on_2_light.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\messenger_bubble_large_white.png",
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\places_ic_clear.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\drawable-xhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\messenger_button_send_round_shadow.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cast_ic_notification_on.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\d2509563c250f312cf42d8a8e97273ff58a559e2\\output\\res\\drawable-xhdpi\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_disabled_light.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_back_arrow.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\icon_back_arrow.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_black_xout.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_dark.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_play_dark.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cari.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\cari.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_0_mono_dark.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\357cc75d47460b9a39b098d09f5e56fbb9b8dff4\\output\\res\\drawable-xhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cast_ic_notification_on.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\d2509563c250f312cf42d8a8e97273ff58a559e2\\output\\res\\drawable-xhdpi\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_play.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_close.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_close.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_blue_background.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\powered_by_google_light.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\drawable-xhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_edit.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_edit.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow_up.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\arrow_up.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_blue_background.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_button_icon.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_button_icon.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\357cc75d47460b9a39b098d09f5e56fbb9b8dff4\\output\\res\\drawable-xhdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_blue_topnub.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mrek_pilihan.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\mrek_pilihan.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_search.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_black_background.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_light.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_pause_light.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sitemap.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\sitemap.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_disabled_light.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_2_mono_dark.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tanya_jawab.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\tanya_jawab.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_black_xout.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\357cc75d47460b9a39b098d09f5e56fbb9b8dff4\\output\\res\\drawable-xhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_1_light.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_1_mono_dark.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\layanan_pelanggan.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\layanan_pelanggan.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_blue_xout.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cast_ic_notification_2.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\d2509563c250f312cf42d8a8e97273ff58a559e2\\output\\res\\drawable-xhdpi\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_black_topnub.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\promo_bulan_ini.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\promo_bulan_ini.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cara_memesan.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\cara_memesan.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_blue_xout.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_bantuan.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\chat_bantuan.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\357cc75d47460b9a39b098d09f5e56fbb9b8dff4\\output\\res\\drawable-xhdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_edit.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_light.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_play_light.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\messenger_bubble_large_blue.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cara_memesan.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\cara_memesan.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cast_ic_notification_1.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\d2509563c250f312cf42d8a8e97273ff58a559e2\\output\\res\\drawable-xhdpi\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cast_ic_notification_2.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\d2509563c250f312cf42d8a8e97273ff58a559e2\\output\\res\\drawable-xhdpi\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\places_ic_search.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\drawable-xhdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_off_light.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_idm.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\logo_idm.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_plus.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_plus.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_plus.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_plus.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_dark.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_dark.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mrek_pilihan.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\mrek_pilihan.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\riwayat_pesanan.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\riwayat_pesanan.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cakupan_kode_pos.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\cakupan_kode_pos.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\messenger_bubble_small_blue.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_mono_dark.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_0_light.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_dark.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_pause_dark.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_edit.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\akun_saya_top.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\akun_saya_top.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_2_light.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tentang_kami.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\tentang_kami.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_dark.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_play_dark.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_cross.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\icon_cross.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cakupan_kode_pos.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\cakupan_kode_pos.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_idm.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\logo_idm.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\kebijakan_pengembaliani.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\kebijakan_pengembaliani.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_button_send_icon.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\beranda.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\beranda.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\kebijakan.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\kebijakan.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wish_list.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\wish_list.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_pause.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\messenger_bubble_large_white.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\messenger_bubble_large_white.png"
     },
     {
@@ -92,76 +544,80 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\akun_saya.png"
     },
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_bantuan.png",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\chat_bantuan.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_disabled_light.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_disabled_light.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_back_arrow.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\icon_back_arrow.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_dark.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_dark.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\beranda.png",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\beranda.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_dark.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_play_dark.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\powered_by_google_dark.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\drawable-xhdpi\\powered_by_google_dark.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_pause.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_pause.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_small_off_client.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\357cc75d47460b9a39b098d09f5e56fbb9b8dff4\\output\\res\\drawable-xhdpi\\ic_plusone_small_off_client.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cast_ic_notification_on.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\d2509563c250f312cf42d8a8e97273ff58a559e2\\output\\res\\drawable-xhdpi\\cast_ic_notification_on.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_mono_dark.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_route_on_mono_dark.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_disabled.9.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_play.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_play.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_off_mono_dark.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\keranjang.png",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\keranjang.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_blue_background.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_blue_background.9.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\akun_saya.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\akun_saya.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sitemap.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\sitemap.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash.png",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
     },
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tentang_kami.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\tentang_kami.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_setting_light.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_setting_light.png"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\places_ic_search.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\drawable-xhdpi\\places_ic_search.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_focused.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_focused.9.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_edit.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_edit.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_close.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_close.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_focused.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_focused.9.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cast_ic_notification_0.png",
@@ -172,40 +628,52 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\icon_cross.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_normal.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_normal.9.png"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\messenger_bubble_large_blue.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\messenger_bubble_large_blue.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_button_icon.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_button_icon.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\keranjang.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\keranjang.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_0_mono_dark.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_route_on_0_mono_dark.png"
     },
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_2_mono_dark.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_light.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_on_light.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_light.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_pause_light.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\promo_bulan_ini.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\promo_bulan_ini.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_button_like_icon_selected.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cast_ic_notification_1.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\d2509563c250f312cf42d8a8e97273ff58a559e2\\output\\res\\drawable-xhdpi\\cast_ic_notification_1.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_normal.9.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\promo_bulan_ini.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\promo_bulan_ini.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_focused.9.png",
@@ -216,36 +684,36 @@
         "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_black_bottomnub.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_medium_off_client.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\357cc75d47460b9a39b098d09f5e56fbb9b8dff4\\output\\res\\drawable-xhdpi\\ic_plusone_medium_off_client.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wish_list.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\wish_list.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_black_background.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_black_background.9.png"
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\357cc75d47460b9a39b098d09f5e56fbb9b8dff4\\output\\res\\drawable-xhdpi\\ic_plusone_medium_off_client.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_disabled_mono_dark.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_route_disabled_mono_dark.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_light.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_pause_light.png"
-    },
-    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_normal.9.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sitemap.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\sitemap.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow_down.png",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\arrow_down.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_1_light.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_focused.9.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\powered_by_google_light.png",
@@ -256,24 +724,8 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\kebijakan.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_2_mono_dark.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_route_on_2_mono_dark.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tanya_jawab.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\tanya_jawab.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_disabled.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_disabled.9.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_black_xout.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_black_xout.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_1_light.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_on_1_light.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_play.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_play.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_setting_dark.png",
@@ -284,24 +736,24 @@
         "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_button_like_icon_selected.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\layanan_pelanggan.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\layanan_pelanggan.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_focused.9.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cast_ic_notification_0.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\d2509563c250f312cf42d8a8e97273ff58a559e2\\output\\res\\drawable-xhdpi\\cast_ic_notification_0.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_blue_xout.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_blue_xout.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\messenger_bubble_small_white.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\messenger_bubble_small_white.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_tall_off_client.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\357cc75d47460b9a39b098d09f5e56fbb9b8dff4\\output\\res\\drawable-xhdpi\\ic_plusone_tall_off_client.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_blue_bottomnub.png",
@@ -312,52 +764,68 @@
         "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_black_topnub.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_dark_pressed.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tanya_jawab.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\tanya_jawab.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_pressed.9.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\status_pesanan.png",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\status_pesanan.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_edit.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\icon_edit.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_setting_light.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_setting_light.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cara_memesan.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\cara_memesan.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_dark.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_pause_dark.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cast_ic_notification_1.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\d2509563c250f312cf42d8a8e97273ff58a559e2\\output\\res\\drawable-xhdpi\\cast_ic_notification_1.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\akun_saya_top.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\akun_saya_top.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\messenger_bubble_small_blue.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\messenger_bubble_small_blue.png"
     },
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_button_send_icon.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_button_send_icon.png"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cast_ic_notification_2.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\d2509563c250f312cf42d8a8e97273ff58a559e2\\output\\res\\drawable-xhdpi\\cast_ic_notification_2.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_focused.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_focused.9.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_button_icon.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_button_icon.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_off_light.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_off_light.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\messenger_bubble_small_white.png",
@@ -368,32 +836,24 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\kebijakan_pengembaliani.png"
     },
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_off_light.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_off_light.png"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_1_mono_dark.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_route_on_1_mono_dark.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_plus.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_plus.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\messenger_button_send_round_shadow.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\messenger_button_send_round_shadow.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_dark.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_dark.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_light.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_light.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mrek_pilihan.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\mrek_pilihan.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cakupan_kode_pos.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\cakupan_kode_pos.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow_down.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\arrow_down.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_pressed.9.png",
@@ -404,32 +864,28 @@
         "source": "C:\\Users\\USER\\.android\\build-cache\\3573be2f7afa089b0d04deab13f34f4edd8b3c22\\output\\res\\drawable-xhdpi\\places_ic_clear.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_mono_dark.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_route_on_mono_dark.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable-xhdpi\\com_facebook_tooltip_black_bottomnub.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_focused.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\357cc75d47460b9a39b098d09f5e56fbb9b8dff4\\output\\res\\drawable-xhdpi\\ic_plusone_tall_off_client.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_dark.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_pause_dark.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_light.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_on_light.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_text_light_normal.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_text_light_normal.9.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_setting_dark.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_setting_dark.png"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_0_light.png",
         "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_cast_on_0_light.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\akun_saya_top.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\akun_saya_top.png"
-    },
-    {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_google_signin_btn_icon_light_disabled.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\com_facebook_tooltip_blue_topnub.png",
@@ -444,15 +900,15 @@
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tentang_kami.png",
-        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\tentang_kami.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_disabled_mono_dark.png",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable-xhdpi\\ic_media_route_disabled_mono_dark.png"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\akunsaya.png",
         "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\akunsaya.png"
     },
     {
-        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
-        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\status_pesanan.png",
+        "source": "D:\\android\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable-xhdpi\\status_pesanan.png"
     }
 ]

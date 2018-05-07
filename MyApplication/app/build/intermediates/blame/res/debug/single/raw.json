@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\85232a59c0070e3dade85737f888b8f665426c7f\\output\\res\\raw\\gtm_analytics"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
         "source": "C:\\Users\\USER\\.android\\build-cache\\85232a59c0070e3dade85737f888b8f665426c7f\\output\\res\\raw\\gtm_analytics"
     }

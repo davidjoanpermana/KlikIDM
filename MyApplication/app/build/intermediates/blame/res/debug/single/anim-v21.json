@@ -1,7 +1,15 @@
 [
     {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
         "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\android\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",

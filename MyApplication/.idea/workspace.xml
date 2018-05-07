@@ -107,9 +107,25 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/indomaret/klikindomaret/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="36907">
               <caret line="2315" column="50" selection-start-line="2315" selection-start-column="41" selection-end-line="2315" selection-end-column="50" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#17418#17419#0" expanded="false" />
+                <element signature="e#17463#17464#0" expanded="false" />
+                <element signature="e#45850#45851#0" expanded="false" />
+                <element signature="e#45892#45893#0" expanded="false" />
+                <element signature="e#46276#46277#0" expanded="false" />
+                <element signature="e#46314#46315#0" expanded="false" />
+                <element signature="e#46381#46382#0" expanded="false" />
+                <element signature="e#46439#46440#0" expanded="false" />
+                <element signature="e#46490#46491#0" expanded="false" />
+                <element signature="e#46541#46542#0" expanded="false" />
+                <element signature="e#67599#67600#0" expanded="false" />
+                <element signature="e#67647#67648#0" expanded="false" />
+                <element signature="e#126581#126582#0" expanded="false" />
+                <element signature="e#126637#126638#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,18 +133,28 @@
       <file leaf-file-name="CategoryActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/indomaret/klikindomaret/activity/CategoryActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
+            <state relative-caret-position="3349">
               <caret line="259" column="56" selection-start-line="259" selection-start-column="47" selection-end-line="259" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" column="31" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SplashActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/indomaret/klikindomaret/activity/SplashActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -150,7 +176,7 @@
       <file leaf-file-name="API.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/indomaret/klikindomaret/API.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="3111">
               <caret line="183" column="20" selection-start-line="183" selection-start-column="20" selection-end-line="183" selection-end-column="20" />
               <folding />
             </state>
@@ -3446,6 +3472,7 @@
         <entry key="D:\Bonobo\KlikIDM\KlikIDM\MyApplication" value="10557229201593" />
         <entry key="D:\Project\KlikIDM\MyApplication" value="10635906296839" />
         <entry key="D:\Project\Project\MyApplication" value="10523656368192" />
+        <entry key="D:\android\KlikIDM\MyApplication" value="10635906296839" />
         <entry key="D:\revamp\MyApplication" value="10634454989234" />
         <entry key="E:\Project\david2\MyApplication" value="10519793902000" />
         <entry key="E:\Project\david\MyApplication" value="10519793902000" />
@@ -4106,12 +4133,83 @@
       <pane id="ProjectPane">
         <subPane />
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="AndroidView">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyApplication" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyApplication" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyApplication" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyApplication" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="klikindomaret" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyApplication" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="klikindomaret" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -4120,7 +4218,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="device.picker.selection" value="4f2bf271" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="D:/Backup Project/revamp/MyApplication" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="ExportApk.ApkPath" value="D:\Project\KlikIDM\MyApplication\app" />
     <property name="ExportApk.Flavors" value="" />
     <property name="ExportApk.BuildType" value="release" />
@@ -4640,8 +4738,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6967632" sideWeight="0.5075643" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.62350935" sideWeight="0.48940998" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3237519" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="461" y="40" width="444" height="625" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -4651,8 +4750,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40545145" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24935733" sideWeight="0.5111421" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40545145" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -4663,7 +4762,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3237519" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="461" y="40" width="444" height="625" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31516185" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -5302,21 +5400,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/indomaret/klikindomaret/adapter/ProfileKAIAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="120" column="59" selection-start-line="120" selection-start-column="49" selection-end-line="120" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/indomaret/klikindomaret/activity/NewProfileKAIActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="151" column="47" selection-start-line="151" selection-start-column="47" selection-end-line="151" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_addressctivity.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -5324,7 +5407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5335,7 +5417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="40" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5343,7 +5424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
           <caret line="350" column="66" selection-start-line="350" selection-start-column="66" selection-end-line="350" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5351,7 +5431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="195" column="89" selection-start-line="195" selection-start-column="89" selection-end-line="196" selection-end-column="76" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5367,7 +5446,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="137" column="23" selection-start-line="137" selection-start-column="23" selection-end-line="137" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5383,7 +5461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="118" column="31" selection-start-line="118" selection-start-column="31" selection-end-line="118" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5394,7 +5471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
           <caret line="206" column="56" selection-start-line="205" selection-start-column="55" selection-end-line="206" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5412,7 +5488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="251" column="39" selection-start-line="251" selection-start-column="39" selection-end-line="251" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5423,11 +5498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="635" column="0" selection-start-line="635" selection-start-column="0" selection-end-line="635" selection-end-column="0" />
-          <folding>
-            <element signature="e#1196#10380#0" expanded="false" />
-            <element signature="e#10872#27548#0" expanded="false" />
-            <element signature="e#19121#22853#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -5445,7 +5515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="62" column="46" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5453,7 +5522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="188" column="16" selection-start-line="188" selection-start-column="16" selection-end-line="188" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5472,7 +5540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-748">
           <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5487,7 +5554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="485" column="97" selection-start-line="485" selection-start-column="92" selection-end-line="485" selection-end-column="97" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5495,7 +5561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="893" column="75" selection-start-line="893" selection-start-column="75" selection-end-line="893" selection-end-column="75" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5506,7 +5571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="59" column="36" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5529,7 +5593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5271">
           <caret line="76" column="11" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5540,7 +5603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
           <caret line="28" column="36" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5574,23 +5636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="1195" column="54" selection-start-line="1195" selection-start-column="41" selection-end-line="1195" selection-end-column="54" />
-          <folding>
-            <element signature="e#11352#12189#0" expanded="false" />
-            <element signature="e#12203#34540#0" expanded="false" />
-            <element signature="e#12542#15761#0" expanded="false" />
-            <element signature="e#15779#26060#0" expanded="false" />
-            <element signature="e#26078#30985#0" expanded="false" />
-            <element signature="e#31003#34512#0" expanded="false" />
-            <element signature="e#34554#35354#0" expanded="false" />
-            <element signature="e#35368#50964#0" expanded="false" />
-            <element signature="e#39019#41936#0" expanded="false" />
-            <element signature="e#41954#45215#0" expanded="false" />
-            <element signature="e#45233#50936#0" expanded="false" />
-            <element signature="e#55266#56390#0" expanded="false" />
-            <element signature="e#57751#57778#0" expanded="false" />
-            <element signature="e#58304#61025#0" expanded="false" />
-            <element signature="e#61073#61695#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -5608,9 +5653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="474">
           <caret line="107" column="27" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="27" />
-          <folding>
-            <element signature="e#4900#11967#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -5629,9 +5671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1751">
           <caret line="103" column="63" selection-start-line="103" selection-start-column="63" selection-end-line="103" selection-end-column="63" />
-          <folding>
-            <element signature="e#4956#12718#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -5704,7 +5743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
           <caret line="52" column="25" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5761,7 +5799,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/indomaret/klikindomaret/activity/CategoryActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
+        <state relative-caret-position="3349">
           <caret line="259" column="56" selection-start-line="259" selection-start-column="47" selection-end-line="259" selection-end-column="56" />
           <folding />
         </state>
@@ -5769,15 +5807,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/indomaret/klikindomaret/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="36907">
           <caret line="2315" column="50" selection-start-line="2315" selection-start-column="41" selection-end-line="2315" selection-end-column="50" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#17418#17419#0" expanded="false" />
+            <element signature="e#17463#17464#0" expanded="false" />
+            <element signature="e#45850#45851#0" expanded="false" />
+            <element signature="e#45892#45893#0" expanded="false" />
+            <element signature="e#46276#46277#0" expanded="false" />
+            <element signature="e#46314#46315#0" expanded="false" />
+            <element signature="e#46381#46382#0" expanded="false" />
+            <element signature="e#46439#46440#0" expanded="false" />
+            <element signature="e#46490#46491#0" expanded="false" />
+            <element signature="e#46541#46542#0" expanded="false" />
+            <element signature="e#67599#67600#0" expanded="false" />
+            <element signature="e#67647#67648#0" expanded="false" />
+            <element signature="e#126581#126582#0" expanded="false" />
+            <element signature="e#126637#126638#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/indomaret/klikindomaret/API.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="3111">
           <caret line="183" column="20" selection-start-line="183" selection-start-column="20" selection-end-line="183" selection-end-column="20" />
           <folding />
         </state>
@@ -5787,6 +5841,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="31" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/indomaret/klikindomaret/activity/SplashActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
           <folding />
         </state>
       </provider>

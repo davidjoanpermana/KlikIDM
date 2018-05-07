@@ -1,0 +1,9 @@
+*/.gradle
+*/.idea
+*/build
+*/app/build
+*/multi-level-listview/build
+*/volley/build
+
+*.iml
+*.apk
