@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "127505082637",
+    "project_id": "klik-indomaret"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127505082637:android:e1e733bed00e4882",
+        "android_client_info": {
+          "package_name": "com.indomaret.klikindomaret"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4W-7Dxlx55zn-gyws_ScOZWGbWxNxezc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-47733619-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

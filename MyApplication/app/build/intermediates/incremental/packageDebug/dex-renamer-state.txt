@@ -1,0 +1,7 @@
+#Mon May 07 08:44:06 ICT 2018
+base.0=D\:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1c735660864d7418f0530c464b1a6907d5a4e1e5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_01dbf464efd57c8f730b76a07541214e3446f745\\classes.dex
+base.1=D\:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_01dbf464efd57c8f730b76a07541214e3446f745
+file.0=D\:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1c735660864d7418f0530c464b1a6907d5a4e1e5\\classes.dex

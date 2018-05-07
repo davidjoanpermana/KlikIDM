@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.indomaret.klikindomaret.activity.ChangeProfileActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/change_profile_appbar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar">
+        </include>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@drawable/line" />
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/change_profile_appbar_layout">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="15dp"
+            android:paddingBottom="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Jenis Kelamin"
+                android:textStyle="bold"
+                android:textSize="14dp"
+                android:textColor="@android:color/black"/>
+
+            <Spinner
+                android:id="@+id/chage_profile_spinner_gendre"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:background="@drawable/spinner_style_1"
+                android:layout_marginTop="5dp"></Spinner>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nama Depan"
+                android:textSize="14dp"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"/>
+
+            <EditText
+                android:id="@+id/input_fist_name"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:background="@drawable/edittext_style_1"
+                android:layout_marginTop="5dp"
+                android:hint="Nama Depan"
+                android:textSize="12dp"
+                android:padding="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nama Belakang"
+                android:textSize="14dp"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"/>
+
+            <EditText
+                android:id="@+id/input_last_name"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:background="@drawable/edittext_style_1"
+                android:layout_marginTop="5dp"
+                android:hint="Nama Belakang"
+                android:textSize="12dp"
+                android:padding="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tanggal Lahir"
+                android:textSize="14dp"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"/>
+
+            <EditText
+                android:id="@+id/input_birthdate"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:background="@drawable/edittext_style_1"
+                android:layout_marginTop="5dp"
+                android:hint="Tanggal Lahir"
+                android:focusable="false"
+                android:textSize="12dp"
+                android:padding="10dp"
+                android:onClick="setDate"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HP"
+                android:textSize="14dp"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"/>
+
+            <EditText
+                android:id="@+id/input_phone_number"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:background="@drawable/edittext_style_1"
+                android:layout_marginTop="5dp"
+                android:hint="Nomor Handphone"
+                android:inputType="number"
+                android:textSize="12dp"
+                android:padding="10dp"
+                android:maxLength="15"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:weightSum="2">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/btn_cancel_change_profile"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_style_3"
+                    android:textColor="@color/colorAccent"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:minHeight="0dp"
+                    android:minWidth="0dp"
+                    android:textStyle="bold"
+                    android:textAllCaps="false"
+                    android:text="Batal"
+                    android:layout_weight="1"
+                    android:layout_marginRight="5dp"
+                    style="?android:attr/borderlessButtonStyle"/>
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/btn_cancel_change_profile"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_style_3"
+                    android:textColor="@color/colorAccent"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:minHeight="0dp"
+                    android:minWidth="0dp"
+                    android:textStyle="bold"
+                    android:textAllCaps="false"
+                    android:text="Simpan"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    style="?android:attr/borderlessButtonStyle"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

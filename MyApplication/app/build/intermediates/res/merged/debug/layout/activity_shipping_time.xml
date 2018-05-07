@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    tools:context="com.indomaret.klikindomaret.activity.ShippingTimeActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/shipping_time_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar" />
+    </android.support.design.widget.AppBarLayout>
+
+    <com.indomaret.klikindomaret.views.HeightAdjustableListView
+        android:id="@+id/days_ship"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/shipping_time_appbar"/>
+</RelativeLayout>

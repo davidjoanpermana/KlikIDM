@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:background="@color/backgroundGrey"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/date_delivery"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:textSize="12dp"
+            android:text="toko"/>
+
+        <TextView
+            android:id="@+id/position_delivery"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:text="alamat"
+            android:textColor="@android:color/black"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:layout_below="@id/linear"
+        android:background="@android:color/white"/>
+</RelativeLayout>

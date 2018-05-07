@@ -1,0 +1,10 @@
+int attr alwaysExtended 0x7f010001
+int attr list 0x7f010002
+int attr nestType 0x7f010000
+int id multiple 0x7f030000
+int id single 0x7f030001
+int string app_name 0x7f020000
+int[] styleable MultiLevelListView { 0x7f010000, 0x7f010001, 0x7f010002 }
+int styleable MultiLevelListView_alwaysExtended 1
+int styleable MultiLevelListView_list 2
+int styleable MultiLevelListView_nestType 0

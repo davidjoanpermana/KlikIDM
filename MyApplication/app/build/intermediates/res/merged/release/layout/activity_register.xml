@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.indomaret.klikindomaret.activity.RegisterActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/register_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar2" />
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/register_appbar"
+        android:scrollIndicators="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="10dp" >
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/logo_blue"
+                android:layout_gravity="center"/>
+
+            <EditText
+                android:id="@+id/input_first_name"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:background="@drawable/edittext_style_1"
+                android:layout_marginTop="5dp"
+                android:inputType="textNoSuggestions"
+                android:hint="Nama Depan"
+                android:textSize="@dimen/edittext_text_size"
+                android:padding="10dp"/>
+
+            <EditText
+                android:id="@+id/input_last_name"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:background="@drawable/edittext_style_1"
+                android:layout_marginTop="5dp"
+                android:inputType="textNoSuggestions"
+                android:hint="Nama Belakang"
+                android:textSize="@dimen/edittext_text_size"
+                android:padding="10dp"/>
+
+            <EditText
+                android:id="@+id/input_email"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:background="@drawable/edittext_style_1"
+                android:layout_marginTop="5dp"
+                android:inputType="textNoSuggestions"
+                android:hint="Email"
+                android:textSize="@dimen/edittext_text_size"
+                android:padding="10dp"/>
+
+            <TextView
+                android:id="@+id/validate_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="10dp"
+                android:text="*Alamat e-mail tidak sesuai dengan format seharusnya"
+                android:textColor="@android:color/holo_red_dark"
+                android:textStyle="italic"
+                android:visibility="gone"/>
+
+            <EditText
+                android:id="@+id/konf_email"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:background="@drawable/edittext_style_1"
+                android:layout_marginTop="5dp"
+                android:inputType="textNoSuggestions"
+                android:hint="Konfirmasi Email"
+                android:textSize="@dimen/edittext_text_size"
+                android:padding="10dp"/>
+
+            <EditText
+                android:id="@+id/input_phone_number"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:background="@drawable/edittext_style_1"
+                android:layout_marginTop="5dp"
+                android:inputType="number"
+                android:hint="Masukan No. Handphone. Contoh : 083833350005"
+                android:textSize="@dimen/edittext_text_size"
+                android:padding="10dp"
+                android:maxLength="15"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btn_man"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:text="Pria"
+                    android:textSize="13dp"
+                    android:textStyle="bold"
+                    android:textAllCaps="false"
+                    android:background="@drawable/button_style_5"
+                    android:layout_gravity="center"
+                    android:paddingLeft="40dp"
+                    android:paddingRight="40dp"/>
+
+                <Button
+                    android:id="@+id/btn_woman"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:text="Wanita"
+                    android:textSize="13dp"
+                    android:textStyle="bold"
+                    android:textAllCaps="false"
+                    android:background="@drawable/button_style_5"
+                    android:layout_gravity="center"
+                    android:paddingLeft="40dp"
+                    android:paddingRight="40dp"/>
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/edittext_profile_birthdate"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:background="@drawable/edittext_style_1"
+                android:inputType="date"
+                android:ems="10"
+                android:focusable="false"
+                android:hint="Tanggal Lahir"
+                android:textSize="@dimen/edittext_text_size"
+                android:padding="10dp"
+                android:onClick="birthDate"
+                android:layout_gravity="center_horizontal" />
+
+            <EditText
+                android:id="@+id/input_password"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/edittext_style_1"
+                android:fontFamily="sans-serif"
+                android:hint="Kata Sandi"
+                android:inputType="textPassword"
+                android:padding="10dp"
+                android:textSize="@dimen/edittext_text_size"
+                android:typeface="normal" />
+
+            <EditText
+                android:id="@+id/input_confirmation_password"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:background="@drawable/edittext_style_1"
+                android:layout_marginTop="5dp"
+                android:inputType="textPassword"
+                android:typeface="normal"
+                android:hint="Konfirmasi Kata Sandi"
+                android:textSize="@dimen/edittext_text_size"
+                android:padding="10dp"
+                android:fontFamily="sans-serif"/>
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:id="@+id/register_newsletter"
+                android:checked="true"
+                android:text="Berlangganan Newsletter"/>
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/register_policy"
+                android:text="Saya menyetujui semua persyaratan dan ketentuan"/>
+
+            <Button
+                android:id="@+id/btn_signup"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:background="@color/colorAccent"
+                android:textColor="@android:color/white"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="20dp"
+                android:textSize="13dp"
+                android:text="Simpan"
+                android:textAllCaps="false"
+                android:onClick="sendRegister"
+                style="?android:attr/borderlessButtonStyle"/>
+
+            <TextView
+                android:id="@+id/btn_home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:text="Kembali ke Beranda"
+                android:layout_gravity="center"
+                android:textColor="@android:color/holo_blue_dark"/>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

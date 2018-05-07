@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/transparent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:gravity="center"
+            android:text="Selamat! Kamu berhak mendapatkan produk promo dibawah ini"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"/>
+
+        <LinearLayout
+            android:layout_below="@id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:orientation="vertical">
+
+            <android.support.design.widget.TabLayout
+                android:id="@+id/promo_tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/border"
+                app:tabGravity="fill"
+                app:tabMode="scrollable"
+                app:tabTextAppearance="@style/TabLayoutTextStyle"
+                android:paddingBottom="3dp"
+                app:tabSelectedTextColor="@android:color/black"
+                app:tabTextColor="@android:color/black"/>
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/promo_viewpager"
+                android:layout_width="match_parent"
+                android:layout_marginTop="-2dp"
+                android:layout_height="320dp"
+                app:layout_behavior="@string/appbar_scrolling_view_behavior"  />
+        </LinearLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ok"
+            android:background="@drawable/button_style_1"/>
+    </LinearLayout>
+</RelativeLayout>

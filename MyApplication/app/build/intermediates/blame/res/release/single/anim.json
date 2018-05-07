@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\left_out.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\anim\\left_out.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\back_top_in.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\anim\\back_top_in.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\back_top_out.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\anim\\back_top_out.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\top_out.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\anim\\top_out.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\right_out.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\anim\\right_out.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\top_in.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\anim\\top_in.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\left_in.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\anim\\left_in.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\right_in.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\anim\\animation_move.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\anim\\animation_move.xml"
+    }
+]

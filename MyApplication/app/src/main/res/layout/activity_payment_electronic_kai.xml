@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context="com.indomaret.klikindomaret.activity.PaymentElectronicActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar4" />
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:orientation="vertical"
+        android:layout_below="@+id/appbar"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <ImageView
+            android:id="@+id/image_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/isaku_header"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:id="@+id/header_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Masukan kode iSaku anda untuk menyelesaikan pembayaran anda"
+            android:textSize="17dp"
+            android:textColor="@android:color/black"
+            android:gravity="center"
+            android:layout_marginBottom="30dp"/>
+
+        <EditText
+            android:id="@+id/code"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/edittext_style_1"/>
+
+        <Button
+            android:id="@+id/btn_buy"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_weight="1"
+            android:text="Bayar"
+            android:textColor="@color/colorWhite"
+            android:textAllCaps="false"
+            android:textSize="13dp"
+            android:textStyle="bold"
+            android:background="@drawable/button_style_2"
+            android:layout_gravity="center"
+            style="?android:attr/borderlessButtonStyle"/>
+
+        <TextView
+            android:id="@+id/back_payment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ganti pembayaran lainnya"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/colorPrimary"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/info_payment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:background="#e0e2e5"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/preloader"
+        android:layout_below="@id/list_kai_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/black"
+            android:alpha="0.5"/>
+
+        <ProgressBar
+            android:id="@+id/determinateBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

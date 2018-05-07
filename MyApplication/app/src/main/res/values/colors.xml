@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0079C2</color>
+    <color name="colorOrange">#f28418</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#0079C2</color>
+    <color name="colorIndomaretBased">#0079C2</color>
+    <color name="colorSideMenuTextButton">#656565</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#414141</color>
+    <color name="backgroundGrey">#F2F2F2</color>
+
+    <color name="level_0">#ffffff</color>
+    <color name="level_1">#e1e1e1</color>
+    <color name="level_2">#c9c9c9</color>
+    <color name="level_3">#a8a8a8</color>
+    <color name="level_4">#8d8d8d</color>
+    <color name="level_5">#717171</color>
+    <color name="level_default">#000000</color>
+
+    <color name="level_0a">#ffffffff</color>
+    <color name="level_1a">#ffe1e1e1</color>
+    <color name="level_2a">#ffc9c9c9</color>
+    <color name="level_3a">#ffa8a8a8</color>
+    <color name="level_4a">#ff8d8d8d</color>
+    <color name="level_5a">#ff717171</color>
+    <color name="level_defaulta">#ff000000</color>
+
+    <color name="header_normal">#ffe74c3c</color>
+    <color name="header_pressed">#ffc0392b</color>
+    <color name="menu_section_header">#FFDDDDDD</color>
+
+    <color name="fb_color">#095fc1</color>
+    <color name="gmail_color">#d83f3f</color>
+    <color name="yahoo_color">#5612e8</color>
+</resources>

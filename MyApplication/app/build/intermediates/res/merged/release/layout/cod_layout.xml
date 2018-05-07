@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/text_pilih"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pilih jam pengiriman"
+            android:textSize="17dp"
+            android:textColor="@android:color/black"/>
+
+        <Spinner
+            android:id="@+id/installment_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/spinner_style_1"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/cancel_xl_indPay"
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:layout_height="40dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/button_style_3"
+                android:text="Tutup"
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimary"
+                android:textAllCaps="false"/>
+
+            <Button
+                android:id="@+id/submit_xl_indPay"
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:layout_height="40dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/button_style_3"
+                android:text="Bayar"
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimary"
+                android:textAllCaps="false"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

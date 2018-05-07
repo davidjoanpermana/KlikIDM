@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.indomaret.klikindomaret.activity.PaymentThirdPartyActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/payment_third_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar2" />
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/payment_third_swipe_container"
+        android:layout_below="@id/payment_third_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <WebView
+            android:id="@+id/payment_third_webview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/edittext_style_1" />
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+    <RelativeLayout
+        android:id="@+id/preloader"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/black"
+            android:alpha="0.5"/>
+
+        <ProgressBar
+            android:id="@+id/determinateBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:autofit="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.indomaret.klikindomaret.views.SquareImageView
+        android:id="@+id/picture"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop"/>
+
+    <me.grantland.widget.AutofitTextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:singleLine="false"
+        android:maxLines="2"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        autofit:minTextSize="8sp"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp" />
+</LinearLayout>

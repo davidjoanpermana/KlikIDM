@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundGrey"
+    android:padding="5dp"
+    tools:context="com.indomaret.klikindomaret.activity.NotificationActivity">
+
+    <com.indomaret.klikindomaret.views.HeightAdjustableListView
+        android:layout_below="@id/notif_appbar"
+        android:id="@+id/list_notif"
+        android:layout_margin="10dp"
+        android:dividerHeight="5dp"
+        android:divider="@android:color/transparent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <RelativeLayout
+        android:id="@+id/cover"
+        android:layout_below="@id/notif_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:visibility="gone"></RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/preloader"
+        android:layout_below="@id/notif_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/black"
+            android:alpha="0.5"></RelativeLayout>
+
+        <ProgressBar
+            android:id="@+id/determinateBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

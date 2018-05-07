@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:background="@color/colorWhite">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        android:background="@android:color/white">
+
+        <LinearLayout
+            android:id="@+id/linearlayout_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/title_passenger"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dewasa 1"
+                android:textStyle="bold"
+                android:textSize="16dp"
+                android:textColor="@color/colorPrimary"/>
+
+            <LinearLayout
+                android:id="@+id/linear_check"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="right">
+
+                <CheckBox
+                    android:id="@+id/btn_check"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="10dp"
+                    android:text="Samakan dengan pemesan"
+                    android:gravity="left|center"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="sapaan"/>
+        <Spinner
+            android:id="@+id/input_gender"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/spinner_style_1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nama Lengkap"/>
+        <AutoCompleteTextView
+            android:id="@+id/input_name"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/edittext_height"
+            android:padding="10dp"
+            android:textSize="@dimen/edittext_text_size" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="(Sesuai dengan tanda pengenal)"
+            android:layout_marginTop="-5dp"
+            android:textSize="10dp"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="No. Identitas"/>
+        <EditText
+            android:id="@+id/input_identitas"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/edittext_height"
+            android:singleLine="true"
+            android:padding="12dp"
+            android:textSize="@dimen/edittext_text_size" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bila tidak ada, mohon memasukkan tanggal lahir (format: DDMMYYYY)."
+            android:layout_marginTop="-5dp"
+            android:textSize="12dp"
+            android:layout_marginBottom="10dp"/>
+    </LinearLayout>
+</RelativeLayout>

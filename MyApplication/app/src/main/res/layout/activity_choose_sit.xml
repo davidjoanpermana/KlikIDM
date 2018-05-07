@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundGrey"
+    tools:context="com.indomaret.klikindomaret.activity.ChooseSeatActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/choose_sit_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar5" />
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/choose_sit_appbar"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:layout_margin="10dp"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorWhite"
+                android:padding="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/icon_countdown"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Sisa waktu pemesanan"/>
+
+                <TextView
+                    android:id="@+id/text_countdown"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="45 menit 20 detik"
+                    android:textColor="@color/colorPrimary"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+        </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="3dp"
+                android:layout_marginBottom="5dp"
+                android:background="@color/backgroundGrey"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:id="@+id/original_station"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="15dp"
+                    android:textColor="@android:color/black"/>
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@drawable/r_sidearr_small"/>
+
+                <TextView
+                    android:id="@+id/destination_station"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="15dp"
+                    android:textColor="@android:color/black"/>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/train_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="13dp"
+                android:layout_marginLeft="10dp"
+                android:textColor="@android:color/black"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/backgroundGrey"/>
+
+            <Button
+                android:id="@+id/btn_data_passenger"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:text="Data Penumpang"
+                android:textColor="@color/colorPrimary"
+                android:textSize="13dp"
+                android:textStyle="bold"
+                android:background="@android:color/white"
+                android:gravity="left|center"
+                android:paddingLeft="5dp"
+                android:drawableRight="@drawable/arrow_up"
+                android:drawableTint="@color/colorPrimary"
+                android:drawablePadding="5dp"
+                android:textAllCaps="false"
+                style="?android:attr/borderlessButtonStyle"/>
+
+            <LinearLayout
+                android:id="@+id/linear_passenger"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <com.indomaret.klikindomaret.views.HeightAdjustableListView
+                    android:id="@+id/list_passenger_adult"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/backgroundGrey"/>
+
+                <com.indomaret.klikindomaret.views.HeightAdjustableListView
+                    android:id="@+id/list_passenger_baby"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp"
+                android:background="@color/backgroundGrey"/>
+
+            <Button
+                android:id="@+id/button2"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:background="@android:color/white"
+                android:drawablePadding="5dp"
+                android:gravity="left|center"
+                android:paddingLeft="5dp"
+                android:text="Pilih Kursi"
+                android:textAllCaps="false"
+                android:textColor="@color/colorPrimary"
+                android:textSize="13dp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:id="@+id/data_seat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:text="Gerbong"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:textColor="@color/colorPrimary"/>
+
+                <Spinner
+                    android:id="@+id/input_wagon"
+                    android:layout_width="300dp"
+                    android:layout_height="30dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:background="@drawable/spinner_style_1"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/checkbox_grey"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:text="Terisi"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:src="@drawable/checkbox_null"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:text="Kosong"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:src="@drawable/checkbox_filled"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:text="Dipilih"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical"
+                    android:visibility="visible">
+
+                    <com.indomaret.klikindomaret.views.WrapContentViewPager
+                        android:id="@+id/pager_introduction"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:scrollbars="none"
+                        android:layout_gravity="center"
+                        tools:listitem="@layout/pager_item" />
+
+                    <RelativeLayout
+                        android:id="@+id/viewPagerIndicator"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/pager_introduction"
+                        android:paddingBottom="10dp"
+                        android:paddingTop="20dp"
+                        android:gravity="center">
+
+                        <LinearLayout
+                            android:id="@+id/viewPagerCountDots"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:gravity="center"
+                            android:orientation="horizontal" />
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="5dp"
+                    android:layout_margin="10dp"
+                    android:background="@color/backgroundGrey"/>
+
+                <Button
+                    android:id="@+id/btn_to_payment"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginBottom="20dp"
+                    android:text="Lanjut Pembayaran"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="13dp"
+                    android:textStyle="bold"
+                    android:background="@drawable/button_style_1"
+                    android:textAllCaps="false"
+                    style="?android:attr/borderlessButtonStyle"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/preloader"
+        android:layout_below="@id/choose_sit_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/black"
+            android:alpha="0.5"/>
+
+        <ProgressBar
+            android:id="@+id/determinateBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

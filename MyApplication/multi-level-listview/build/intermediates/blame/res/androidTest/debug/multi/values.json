@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\Project\\KlikIDM\\MyApplication\\multi-level-listview\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 337,
+                    "endColumn": 57,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "D:\\Project\\KlikIDM\\MyApplication\\multi-level-listview\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 57,
+                        "endOffset": 390
+                    }
+                }
+            }
+        ]
+    }
+]

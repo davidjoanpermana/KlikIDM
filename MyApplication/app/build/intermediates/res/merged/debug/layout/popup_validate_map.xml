@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@android:color/white"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="Anda belum menandai lokasi alamat pada peta"
+            android:textSize="16dp"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:text="Untuk meningkatkan akurasi pengiriman, apakah anda ingin menandai lokasi pengiriman anda pada peta sekarang ?"
+            android:gravity="center"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/btn_cancel"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:layout_marginRight="5dp"
+                android:text="Nanti saja"
+                android:textColor="@color/colorPrimary"
+                android:textAllCaps="false"/>
+
+            <Button
+                android:id="@+id/btn_ok"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_style_1"
+                android:text="Tandai Sekarang"
+                android:textColor="@color/colorWhite"
+                android:textAllCaps="false"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

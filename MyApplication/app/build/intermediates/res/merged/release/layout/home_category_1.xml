@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="5dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginLeft="5dp"
+    android:background="@color/colorWhite"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp">
+
+        <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/home_category_icon"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="5dp" />
+
+        <TextView
+            android:id="@+id/category_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:textColor="@color/colorPrimary"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <com.android.volley.toolbox.NetworkImageView
+        android:id="@+id/category1_big_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:paddingBottom="2dp"
+        android:background="@color/backgroundGrey"
+        android:adjustViewBounds="true"
+        android:src="@drawable/pre03"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/first_home_gridview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/backgroundGrey"/>
+</LinearLayout>

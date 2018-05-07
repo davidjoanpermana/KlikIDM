@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/address_street"
+            android:textSize="14dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text="Provinsi"/>
+
+        <TextView
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text=":"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/address_province"
+            android:textSize="14dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text="Kota"/>
+
+        <TextView
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text=":"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/address_city"
+            android:textSize="14dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text="Kecamatan"/>
+
+        <TextView
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text=":"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/adress_region"
+            android:textSize="14dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text="Kelurahan"/>
+
+        <TextView
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text=":"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/adress_district"
+            android:textSize="14dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text="Kode pos"/>
+
+        <TextView
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text=":"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/adress_postcode"
+            android:textSize="14dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text="Penerima"/>
+
+        <TextView
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text=":"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/address_receiver"
+            android:textSize="14dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text="Nomor Penerima"/>
+
+        <TextView
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text=":"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/address_phone"
+            android:textSize="14dp"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="2dp"
+    android:background="@color/colorWhite">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:padding="5dp"
+        android:background="@android:color/white">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/category_payment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="Transfer Bank"
+                android:textStyle="bold"
+                android:textColor="@android:color/black"/>
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/message_countdown"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorWhite"
+                android:visibility="gone"/>
+
+            <com.indomaret.klikindomaret.views.HeightAdjustableListView
+                android:id="@+id/list_payment_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"/>
+
+            <View
+                android:id="@+id/sparator"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@color/backgroundGrey"
+                android:visibility="gone"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

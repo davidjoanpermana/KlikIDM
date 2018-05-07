@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/header_menu"
+    android:weightSum="1">
+
+    <com.indomaret.klikindomaret.views.HeightAdjustableGridView
+        android:id="@+id/gridview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_marginBottom="15dp"
+        android:verticalSpacing="0dp"
+        android:horizontalSpacing="0dp"
+        android:stretchMode="columnWidth"
+        android:numColumns="4" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#C2C2C2"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp" />
+
+    <TextView
+        android:id="@+id/all_category"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="60dp"
+        android:text="SEMUA KATEGORI"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:textColor="#000000" />
+</LinearLayout>

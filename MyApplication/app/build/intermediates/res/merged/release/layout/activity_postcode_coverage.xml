@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundGrey"
+    tools:context="com.indomaret.klikindomaret.activity.PostcodeCoverageActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/postcode_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar2" />
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:id="@+id/search_coverage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/postcode_appbar"
+        android:background="@color/colorWhite"
+        android:layout_margin="5dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:gravity="center"
+            android:text="Temukan toko Indomaret terdekat dengan memasukkan Kode Pos atau Area Tempatmu"/>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/search_postcode"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:hint="Masukkan Kode Pos atau Area disini"
+                android:inputType="textNoSuggestions"
+                android:textSize="13sp"
+                android:paddingLeft="10dp"
+                android:paddingRight="30dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/edittext_style_1"/>
+
+            <ImageView
+                android:id="@+id/clear_text"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_vertical|right"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/icon_cross"
+                android:visibility="gone"/>
+        </FrameLayout>
+    </LinearLayout>
+
+    <com.indomaret.klikindomaret.views.HeightAdjustableListView
+        android:id="@+id/postcode_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_below="@id/search_coverage"
+        android:visibility="gone"/>
+
+    <com.indomaret.klikindomaret.views.HeightAdjustableListView
+        android:id="@+id/store_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_below="@id/search_coverage"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/not_coverage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/search_coverage"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:text="Area yang anda pilih tidak ter-coverage oleh toko kami"
+        android:visibility="gone"/>
+
+    <RelativeLayout
+        android:id="@+id/preloader"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/black"
+            android:alpha="0.5"/>
+
+        <ProgressBar
+            android:id="@+id/determinateBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

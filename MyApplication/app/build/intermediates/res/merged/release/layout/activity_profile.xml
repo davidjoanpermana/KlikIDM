@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context="com.indomaret.klikindomaret.activity.ProfileActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/profile_appbar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar4">
+        </include>
+    </android.support.design.widget.AppBarLayout>
+
+    <Spinner
+        android:layout_below="@+id/profile_appbar_layout"
+        android:id="@+id/spinner_menu"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_gravity="right"
+        android:layout_marginTop="10dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/spinner_style_1"
+        android:entries="@array/profile_menu"/>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/profile_viewpager"
+        android:layout_below="@id/spinner_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"  />
+</RelativeLayout>

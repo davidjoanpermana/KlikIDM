@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.indomaret.klikindomaret.activity.OrderSummaryActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/summary_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar2" />
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:id="@+id/summary_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        android:layout_below="@+id/summary_appbar"
+        android:layout_toRightOf="@+id/summary_preloader_shadow"
+        android:layout_toEndOf="@+id/summary_preloader_shadow">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/top_notif"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textColor="@android:color/black"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:id="@+id/top_date"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorPrimary"
+                    android:visibility="gone"/>
+
+                <TextView
+                    android:id="@+id/top_payment"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:textColor="@android:color/black"
+                    android:textStyle="bold"
+                    android:text="Lihat Cara Pembayaran"
+                    android:visibility="gone"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/top_information_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@color/colorWhite"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Nomor Order   "
+                        android:gravity="right"
+                        android:textColor="@android:color/black"/>
+
+                    <TextView
+                        android:id="@+id/OrderNumberTop"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textColor="@android:color/black"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Total Transaksi   "
+                        android:gravity="right"
+                        android:textColor="@android:color/black"/>
+
+                    <TextView
+                        android:id="@+id/totalTransactionTop"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textColor="@android:color/black"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Total Ongkos Kirim   "
+                        android:gravity="right"
+                        android:textColor="@android:color/black"/>
+
+                    <TextView
+                        android:id="@+id/totalShippingTop"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textColor="@android:color/black"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="TOTAL   "
+                        android:gravity="right"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"/>
+
+                    <TextView
+                        android:id="@+id/totalTop"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/savingCostTopInfo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="2"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Anda Menghemat   "
+                        android:gravity="right"
+                        android:textColor="@android:color/holo_red_dark"/>
+
+                    <TextView
+                        android:id="@+id/savingCostTop"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textColor="@android:color/holo_red_dark"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/payment_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@color/colorWhite">
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="15dp"
+                    android:background="@color/backgroundGrey"/>
+
+                <LinearLayout
+                    android:id="@+id/payment_method_container"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp">
+
+                    <ImageView
+                        android:layout_width="60dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/payment_03"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_weight="1"
+                        android:text="Pembayaran Pesanan"
+                        android:gravity="center_vertical"
+                        android:textColor="@android:color/black"
+                        android:textSize="15dp"
+                        android:textStyle="bold"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textColor="@android:color/black"
+                            android:text="Menggunakan metode pembayaran"/>
+
+                        <TextView
+                            android:id="@+id/payment_method"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textColor="@android:color/black"
+                            android:textStyle="bold"
+                            android:layout_weight="1"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:weightSum="2">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Status Pembayaran "
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/summary_status_payment"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textColor="@android:color/black"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/order_number_container"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:weightSum="2"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Nomor Order "
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/summary_order_number"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textStyle="bold"
+                            android:layout_weight="1"
+                            android:textColor="@android:color/black"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/transaction_code_container"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:weightSum="2">
+
+                        <TextView
+                            android:id="@+id/label_transaction_code"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Kode Transaksi "
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/summary_transaction_code"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textStyle="bold"
+                            android:textColor="@android:color/black"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:weightSum="2"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Total Transaksi : "
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/summary_total_transaction"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textColor="@android:color/black" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:weightSum="2"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Total Ongkos Kirim : "
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/summary_shipping_cost"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textColor="@android:color/black"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:weightSum="2">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Total   "
+                            android:textColor="@android:color/black"
+                            android:textSize="18dp"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:id="@+id/summary_total_price"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textColor="@android:color/black"
+                            android:textSize="18dp"
+                            android:textStyle="bold"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:weightSum="2">
+
+                        <TextView
+                            android:id="@+id/summary_saving_cost_info"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Anda Menghemat "
+                            android:textColor="@android:color/holo_red_light"
+                            android:textSize="16dp"
+                            android:textStyle="bold"
+                            android:visibility="gone"/>
+
+                        <TextView
+                            android:id="@+id/summary_saving_cost"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textColor="@android:color/holo_red_light"
+                            android:textSize="16dp"
+                            android:textStyle="bold"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linVoucherInfo"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:visibility="gone"
+                        android:weightSum="2">
+
+                        <TextView
+                            android:id="@+id/voucherInfo"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Voucher "
+                            android:textColor="@android:color/holo_red_light"
+                            android:textSize="16dp"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:id="@+id/voucherNominal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textColor="@android:color/holo_red_light"
+                            android:textSize="16dp"
+                            android:textStyle="bold"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="15dp"
+                android:background="@color/backgroundGrey"
+                android:visibility="gone"/>
+
+            <LinearLayout
+                android:id="@+id/customer_order_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp">
+
+                    <ImageView
+                        android:layout_width="60dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/profile_01"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_weight="1"
+                        android:text="Data Pemesan"
+                        android:gravity="center_vertical"
+                        android:textColor="@android:color/black"
+                        android:textSize="15dp"
+                        android:textStyle="bold"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:id="@+id/summary_firstname_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Nama Depan : "
+                            android:textStyle="bold"
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/summary_firstname"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@android:color/black"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linear_summary_lastname"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Nama Belakang : "
+                            android:textStyle="bold"
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/summary_lastname"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@android:color/black"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Email : "
+                            android:textStyle="bold"
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/summary_email"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@android:color/black"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Telp : "
+                            android:textStyle="bold"
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/summary_phone"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@android:color/black"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp"
+                android:background="@color/backgroundGrey"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:background="@color/colorWhite">
+
+                <ImageView
+                    android:layout_width="60dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/cart_02"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:layout_weight="1"
+                    android:text="Pengiriman/Pengambilan Pesanan"
+                    android:gravity="center_vertical"
+                    android:textColor="@android:color/black"
+                    android:textSize="15dp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/store_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="20dp"
+                android:layout_marginBottom="10dp"
+                android:orientation="vertical"
+                android:background="@color/colorWhite"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/so_toko_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="PESANAN PRODUK DIKIRIM DARI TOKO"
+                    android:textStyle="bold"
+                    android:textColor="@android:color/black"/>
+
+                <TextView
+                    android:id="@+id/info_deliver"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@android:color/black"/>
+
+                <TextView
+                    android:id="@+id/store_address"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textStyle="bold"
+                    android:textColor="@android:color/black"/>
+
+                <LinearLayout
+                    android:id="@+id/linear_identitas"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Penerima : "
+                            android:textStyle="bold"
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/summary_receiver_name"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@android:color/black"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Telp : "
+                            android:textStyle="bold"
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/summary_receiver_phone"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@android:color/black"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Alamat : "
+                            android:textStyle="bold"
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/summary_receiver_address"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@android:color/black"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/store_deliver_address"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/black"
+                        android:visibility="gone"/>
+
+                    <TextView
+                        android:id="@+id/store_deliver"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/black"/>
+
+                    <TextView
+                        android:id="@+id/date_time_deliver"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"/>
+
+                    <TextView
+                        android:id="@+id/time_deliver"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:visibility="gone"/>
+
+                    <LinearLayout
+                        android:id="@+id/LinearLayout_store_shipping"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Ongkos kirim : "
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/store_shipping_cost"
+                            android:layout_width="wrap_content"
+                            android:textStyle="bold"
+                            android:layout_height="wrap_content"
+                            android:textColor="@android:color/black"/>
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/store_deliver_time"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/black"
+                        android:visibility="gone"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:background="@drawable/customborder">
+
+                        <com.indomaret.klikindomaret.views.HeightAdjustableListView
+                            android:id="@+id/store_product_list"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp">
+                        </com.indomaret.klikindomaret.views.HeightAdjustableListView>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/non_store_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="20dp"
+                android:layout_marginBottom="10dp"
+                android:orientation="vertical"
+                android:background="@color/colorWhite"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/so_nontoko_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="PESANAN PRODUK DIKIRIM DARI NON TOKO"
+                    android:textStyle="bold"
+                    android:textColor="@android:color/black"/>
+
+                <RelativeLayout
+                    android:id="@+id/relIPP"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/margin10dp">
+
+                    <TextView
+                        android:id="@+id/tvHeaderInfo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Pesanan dikirim ke :"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"/>
+
+                    <TextView
+                        android:id="@+id/tvFieldPenerima"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Penerima"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvHeaderInfo"/>
+
+
+                    <TextView
+                        android:id="@+id/tvFieldPhoneNo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Telp"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvFieldPenerima"/>
+
+
+                    <TextView
+                        android:id="@+id/tvFieldAlamat"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Alamat"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvValuePhoneNo"/>
+
+
+                    <TextView
+                        android:id="@+id/tvFieldKeterangan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Keterangan"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvValueAlamat"/>
+
+
+                    <TextView
+                        android:id="@+id/titikPenerima"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" : "
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvHeaderInfo"
+                        android:layout_marginLeft="@dimen/margin4dp"
+                        android:layout_toRightOf="@id/tvFieldKeterangan"/>
+
+
+                    <TextView
+                        android:id="@+id/tvValuePenerima"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Penerima"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvHeaderInfo"
+                        android:layout_marginLeft="@dimen/margin15dp"
+                        android:layout_toRightOf="@id/titikPenerima"/>
+
+
+
+                    <TextView
+                        android:id="@+id/titikPhoneNo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" : "
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvValuePenerima"
+                        android:layout_marginLeft="@dimen/margin4dp"
+                        android:layout_toRightOf="@id/tvFieldKeterangan"/>
+
+
+                    <TextView
+                        android:id="@+id/tvValuePhoneNo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="08123456789"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvValuePenerima"
+                        android:layout_marginLeft="@dimen/margin15dp"
+                        android:layout_toRightOf="@id/titikPenerima"/>
+
+
+                    <TextView
+                        android:id="@+id/titikAlamat"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" : "
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvValuePhoneNo"
+                        android:layout_marginLeft="@dimen/margin4dp"
+                        android:layout_toRightOf="@id/tvFieldKeterangan"/>
+
+
+                    <TextView
+                        android:id="@+id/tvValueAlamat"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="alamat"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvValuePhoneNo"
+                        android:layout_marginLeft="@dimen/margin15dp"
+                        android:layout_toRightOf="@id/titikPenerima"/>
+
+
+                    <TextView
+                        android:id="@+id/titikKeterangan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" : "
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvValueAlamat"
+                        android:layout_marginLeft="@dimen/margin4dp"
+                        android:layout_toRightOf="@id/tvFieldKeterangan"/>
+
+
+                    <TextView
+                        android:id="@+id/tvValueKeterangan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="keterangan"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvValueAlamat"
+                        android:layout_marginLeft="@dimen/margin15dp"
+                        android:layout_toRightOf="@id/titikPenerima"/>
+
+                    <LinearLayout
+                        android:id="@+id/linTracking"
+                        android:layout_below="@id/tvValueKeterangan"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/tvFieldStatus"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Status :"
+                            android:textStyle="bold"
+                            android:textColor="@android:color/black"
+                            android:layout_marginTop="10dp"
+                            android:visibility="gone"/>
+
+                        <com.indomaret.klikindomaret.views.HeightAdjustableListView
+                            android:id="@+id/trackingList"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+                        </com.indomaret.klikindomaret.views.HeightAdjustableListView>
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/tvHeaderOpsiPengiriman"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Pengiriman Menggunakan"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/linTracking"
+                        android:layout_marginTop="@dimen/margin5dp"/>
+
+                    <ImageView
+                        android:id="@+id/iconIPP"
+                        android:background="@drawable/logoindopaket"
+                        android:layout_width="@dimen/widht_ic_ipp"
+                        android:layout_height="@dimen/height_ic_ipp"
+                        android:layout_below="@+id/linTracking"
+                        android:layout_marginLeft="@dimen/margin8dp"
+                        android:layout_toRightOf="@id/tvHeaderOpsiPengiriman"/>
+
+                    <TextView
+                        android:id="@+id/tvFieldLogistikName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Airway Bill"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/iconIPP"/>
+
+
+
+                    <TextView
+                        android:id="@+id/tvFieldDeliveryTime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Waktu Pengiriman"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvValueLogistikNo"/>
+
+
+                    <TextView
+                        android:id="@+id/tvFieldDeliveryCost"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Ongkos Kirim"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvValueDeliveryTime"/>
+
+
+                    <TextView
+                        android:id="@+id/titikLogistikName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" : "
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/iconIPP"
+                        android:layout_marginLeft="@dimen/margin4dp"
+                        android:layout_toRightOf="@id/tvFieldDeliveryTime"/>
+
+
+                    <TextView
+                        android:id="@+id/tvValueLogistikNo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="123456789"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/iconIPP"
+                        android:layout_marginLeft="@dimen/margin4dp"
+                        android:layout_toRightOf="@id/titikLogistikName"/>
+
+
+
+                    <TextView
+                        android:id="@+id/titikDeliveryTime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" : "
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvValueLogistikNo"
+                        android:layout_marginLeft="@dimen/margin4dp"
+                        android:layout_toRightOf="@id/tvFieldDeliveryTime"/>
+
+
+                    <TextView
+                        android:id="@+id/tvValueDeliveryTime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="123456789"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvValueLogistikNo"
+                        android:layout_marginLeft="@dimen/margin4dp"
+                        android:layout_toRightOf="@id/titikDeliveryTime"/>
+
+
+                    <TextView
+                        android:id="@+id/titikDeliveryCost"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" : "
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvValueDeliveryTime"
+                        android:layout_marginLeft="@dimen/margin4dp"
+                        android:layout_toRightOf="@id/tvFieldDeliveryTime"/>
+
+
+                    <TextView
+                        android:id="@+id/tvValueDeliveryCost"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="123456789"
+                        android:textColor="@android:color/black"
+                        android:layout_below="@+id/tvValueDeliveryTime"
+                        android:layout_marginLeft="@dimen/margin4dp"
+                        android:layout_toRightOf="@id/titikDeliveryCost"/>
+
+                    <LinearLayout
+                        android:layout_below="@id/tvValueDeliveryCost"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:background="@drawable/customborder">
+
+                        <com.indomaret.klikindomaret.views.HeightAdjustableListView
+                            android:id="@+id/ippList"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp">
+                        </com.indomaret.klikindomaret.views.HeightAdjustableListView>
+                    </LinearLayout>
+
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:id="@+id/linNotIPP"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Penerima : "
+                            android:textStyle="bold"
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/summary_receiver_name_nontoko"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@android:color/black"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Telp : "
+                            android:textStyle="bold"
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/summary_receiver_phone_nontoko"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@android:color/black"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Alamat : "
+                            android:textStyle="bold"
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/summary_receiver_address_nontoko"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@android:color/black"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout_paai"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Pengiriman dari Supplier"
+                            android:textColor="@android:color/black"/>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Waktu Pengiriman : "
+                                android:textColor="@android:color/black"/>
+
+                            <TextView
+                                android:id="@+id/date_paai"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@android:color/black"
+                                android:textStyle="bold"/>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/LinearLayout_paai_shipping"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Ongkos kirim : "
+                                android:textColor="@android:color/black"/>
+
+                            <TextView
+                                android:id="@+id/nonstore_paai_shipping"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginBottom="10dp"
+                                android:textColor="@android:color/black"/>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:background="@drawable/customborder">
+
+                            <com.indomaret.klikindomaret.views.HeightAdjustableListView
+                                android:id="@+id/nonstore_paai_product_list"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp">
+                            </com.indomaret.klikindomaret.views.HeightAdjustableListView>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <com.indomaret.klikindomaret.views.HeightAdjustableListView
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@android:color/darker_gray">
+                    </com.indomaret.klikindomaret.views.HeightAdjustableListView>
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout_non_paai"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Pengiriman Menggunakan"
+                                android:textColor="@android:color/black"/>
+
+                            <ImageView
+                                android:layout_width="30dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="10dp"
+                                android:src="@drawable/icon_jne"/>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Waktu Pengiriman : "
+                                android:textColor="@android:color/black"/>
+
+                            <TextView
+                                android:id="@+id/summary_date_non_store"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="2 - 3 hari kerja"
+                                android:textColor="@android:color/black"
+                                android:textStyle="bold"/>
+                        </LinearLayout>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="*gratis asuransi biaya kirim"
+                            android:textStyle="italic"
+                            android:textColor="@android:color/holo_red_dark"
+                            android:textSize="12sp"/>
+
+                        <LinearLayout
+                            android:id="@+id/LinearLayout_nonstore_shipping"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Ongkos kirim : "
+                                android:textColor="@android:color/black"/>
+
+                            <TextView
+                                android:id="@+id/nonstore_shipping"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginBottom="10dp"
+                                android:textColor="@android:color/black"/>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:background="@drawable/customborder">
+
+                            <com.indomaret.klikindomaret.views.HeightAdjustableListView
+                                android:id="@+id/nonstore_product_list"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp">
+                            </com.indomaret.klikindomaret.views.HeightAdjustableListView>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/virtual_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="20dp"
+                android:layout_marginBottom="10dp"
+                android:orientation="vertical"
+                android:background="@color/colorWhite"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/so_virtual_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="PESANAN PRODUK VIRTUAL"
+                    android:textStyle="bold"
+                    android:textColor="@android:color/black"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/send_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/black"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="1 x 24 Jam "
+                        android:textStyle="bold"
+                        android:textColor="@android:color/black"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@drawable/customborder">
+
+                    <com.indomaret.klikindomaret.views.HeightAdjustableListView
+                        android:id="@+id/virtual_product_list"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp">
+                    </com.indomaret.klikindomaret.views.HeightAdjustableListView>
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp"/>
+
+            <Button
+                android:id="@+id/btn_reorder"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="10dp"
+                android:text="Pesan Kembali"
+                android:textColor="@color/colorWhite"
+                android:textStyle="bold"
+                android:background="@drawable/button_style_1"/>
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/preloader"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/black"
+            android:alpha="0.5"/>
+
+        <ProgressBar
+            android:id="@+id/determinateBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

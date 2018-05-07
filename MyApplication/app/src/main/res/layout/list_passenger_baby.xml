@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:background="@color/colorWhite">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        android:background="@android:color/white">
+
+        <TextView
+            android:id="@+id/title_passenger"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bayi 1"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:textColor="@color/colorPrimary"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="sapaan"/>
+        <Spinner
+            android:id="@+id/input_gender"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/spinner_style_1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nama Lengkap"/>
+        <AutoCompleteTextView
+            android:id="@+id/input_name"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/edittext_height"
+            android:padding="10dp"
+            android:textSize="@dimen/edittext_text_size" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="(Sesuai dengan tanda pengenal)"
+            android:layout_marginTop="-5dp"
+            android:textSize="12dp"
+            android:layout_marginBottom="10dp"/>
+    </LinearLayout>
+</RelativeLayout>

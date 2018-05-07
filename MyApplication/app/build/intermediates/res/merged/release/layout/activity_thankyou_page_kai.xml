@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundGrey"
+    tools:context="com.indomaret.klikindomaret.activity.ThankyouPageKAIActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/payment_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar5" />
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/payment_appbar"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_marginBottom="20dp"
+            android:padding="10dp"
+            android:background="@android:color/white"
+            android:focusable="false"
+            android:focusableInTouchMode="true"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="visible">
+
+                <LinearLayout
+                    android:id="@+id/linear_info_error"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="visible">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Pembayaran Tidak Berhasil"
+                        android:textStyle="bold"
+                        android:textSize="15dp"
+                        android:layout_marginLeft="5dp"
+                        android:textColor="@android:color/holo_red_dark"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Mohon maaf, pembayaran untuk transaksi ini gagal"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"/>
+
+                    <TextView
+                        android:id="@+id/message_error"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Pembayaran Tidak Berhasil"
+                        android:textStyle="bold"
+                        android:textSize="15dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="10dp"
+                        android:paddingTop="20dp"
+                        android:paddingBottom="20dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:background="#f2b5b0"/>
+
+                    <Button
+                        android:id="@+id/btn_coba_lagi"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginLeft="5dp"
+                        android:text="Coba lagi"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="13dp"
+                        android:textStyle="bold"
+                        android:background="@drawable/button_style_1"
+                        android:textAllCaps="false"
+                        style="?android:attr/borderlessButtonStyle"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_info_success"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Terimah Kasih"
+                        android:textStyle="bold"
+                        android:textSize="15dp"
+                        android:layout_marginLeft="5dp"
+                        android:textColor="@android:color/holo_blue_light"/>
+
+                    <TextView
+                        android:id="@+id/info_payment"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp"
+                        android:text="Anda telah berhasil melakukan pemesanan dengan menggunakan metode pembayaran"
+                        android:textSize="13dp"
+                        android:layout_marginLeft="5dp"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="1. Lakukan pembayaran sebelum "
+                        android:textStyle="bold"
+                        android:textSize="15dp"
+                        android:layout_marginLeft="5dp"
+                        android:textColor="@android:color/holo_blue_light"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginBottom="10dp"
+                        android:padding="10dp"
+                        android:background="@drawable/border2">
+
+                        <TextView
+                            android:id="@+id/expired_date"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Senin, 30 mei 2017"
+                            android:textSize="13dp"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Selesaikan pembayaran Anda dalam waktu "
+                            android:textSize="13dp"/>
+
+                        <TextView
+                            android:id="@+id/expired_time"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="04 menit 25 detik"
+                            android:textStyle="bold"
+                            android:textSize="13dp"/>
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="2. Bayar via"
+                        android:textStyle="bold"
+                        android:textSize="15dp"
+                        android:layout_marginLeft="5dp"
+                        android:textColor="@android:color/holo_blue_light"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginBottom="10dp"
+                        android:padding="10dp"
+                        android:background="@drawable/border2">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                android:id="@+id/payment_name"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:text="Bank Transfer"
+                                android:textStyle="bold"
+                                android:textSize="15dp"/>
+
+                            <ImageView
+                                android:id="@+id/payment_image"
+                                android:layout_width="55dp"
+                                android:layout_height="35dp"
+                                android:layout_marginLeft="10dp"
+                                android:src="@drawable/transfer"
+                                android:visibility="visible"/>
+
+                            <com.android.volley.toolbox.NetworkImageView
+                                android:id="@+id/card_view_payment_network"
+                                android:layout_width="match_parent"
+                                android:layout_height="50dp"
+                                android:layout_gravity="center"
+                                android:adjustViewBounds="true"
+                                android:src="@drawable/pre03"
+                                android:visibility="gone"/>
+                        </LinearLayout>
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="1dp"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginTop="5dp"
+                            android:background="@color/backgroundGrey"/>
+
+                        <TextView
+                            android:id="@+id/payment_note"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Cara pembayaran dengan rekening ponsel CMIB niaga di website KlkIndomaret :"
+                            android:textSize="13dp"/>
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="1dp"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginTop="5dp"
+                            android:background="@color/backgroundGrey"/>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="Total Pembayaran"
+                                android:textStyle="bold"
+                                android:textSize="15dp"
+                                android:layout_marginLeft="5dp"
+                                android:textColor="@android:color/holo_blue_light"/>
+
+                            <TextView
+                                android:id="@+id/total_payment"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="Rp.435.000"
+                                android:textStyle="bold"
+                                android:textSize="15dp"
+                                android:layout_marginLeft="5dp"
+                                android:gravity="right"
+                                android:textColor="@android:color/holo_blue_light"/>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/btn_back_home"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginLeft="5dp"
+                        android:text="Kembali ke beranda"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="13dp"
+                        android:textStyle="bold"
+                        android:background="@drawable/button_style_1"
+                        android:textAllCaps="false"
+                        style="?android:attr/borderlessButtonStyle"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp"
+                android:layout_marginBottom="10dp"
+                android:background="@color/backgroundGrey"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Kode Pesanan"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="@android:color/holo_blue_light"/>
+
+                <EditText
+                    android:id="@+id/kode_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/edittext_height"
+                    android:singleLine="true"
+                    android:padding="10dp"
+                    android:enabled="false"
+                    android:textSize="@dimen/edittext_text_size" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Rincian Kereta"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="@android:color/holo_blue_light"/>
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/edittext_height"
+                    android:singleLine="true"
+                    android:padding="10dp"
+                    android:text="Tiket Pergi"
+                    android:enabled="false"
+                    android:textSize="@dimen/edittext_text_size" />
+
+                <TextView
+                    android:id="@+id/origin_train_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="kereta argo"
+                    android:textStyle="bold"
+                    android:textSize="17dp"
+                    android:layout_marginLeft="5dp"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:id="@+id/original_station1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Malang"
+                            android:textStyle="bold"
+                            android:textColor="@android:color/holo_blue_light"/>
+
+                        <ImageView
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:src="@drawable/r_sidearr"/>
+
+                        <TextView
+                            android:id="@+id/destination_station1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Jakarta"
+                            android:textStyle="bold"
+                            android:textSize="15dp"
+                            android:textColor="@android:color/holo_blue_light"/>
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/info_scedule"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Senin, 30 mei 2017"
+                        android:textSize="13dp"/>
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/origin_train_duration"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="3J 0M"
+                    android:gravity="center"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:weightSum="3"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/origin_train_time1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="08:30 WIB"
+                        android:gravity="center"
+                        android:textSize="17dp"
+                        android:textColor="@android:color/black"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="..................."
+                        android:gravity="center"
+                        android:textStyle="bold"
+                        android:layout_weight="1"
+                        android:textColor="@android:color/black"/>
+
+                    <TextView
+                        android:id="@+id/destination_train_time1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="11:47 WIB"
+                        android:gravity="center"
+                        android:textSize="17dp"
+                        android:textColor="@android:color/black"/>
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/backgroundGrey"/>
+
+                <LinearLayout
+                    android:id="@+id/linear_destination"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/edittext_height"
+                        android:singleLine="true"
+                        android:padding="10dp"
+                        android:text="Tiket Pulang"
+                        android:enabled="false"
+                        android:textSize="@dimen/edittext_text_size" />
+
+                    <TextView
+                        android:id="@+id/destination_train_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="kereta argo"
+                        android:textStyle="bold"
+                        android:textSize="17dp"
+                        android:layout_marginLeft="5dp"/>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/original_station2"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Malang"
+                                android:textStyle="bold"
+                                android:textColor="@android:color/holo_blue_light"/>
+
+                            <ImageView
+                                android:layout_width="20dp"
+                                android:layout_height="20dp"
+                                android:layout_marginLeft="5dp"
+                                android:layout_marginRight="5dp"
+                                android:src="@drawable/r_sidearr"/>
+
+                            <TextView
+                                android:id="@+id/destination_station2"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Jakarta"
+                                android:textStyle="bold"
+                                android:textSize="15dp"
+                                android:textColor="@android:color/holo_blue_light"/>
+                        </LinearLayout>
+
+                        <TextView
+                            android:id="@+id/info_scedule2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Senin, 30 mei 2017"
+                            android:textSize="13dp"/>
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/destination_train_duration"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="3J 0M"
+                        android:gravity="center"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp"
+                        android:weightSum="3"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/origin_train_time2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="08:30 WIB"
+                            android:gravity="center"
+                            android:textSize="17dp"
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="..................."
+                            android:gravity="center"
+                            android:textStyle="bold"
+                            android:layout_weight="1"
+                            android:textColor="@android:color/black"/>
+
+                        <TextView
+                            android:id="@+id/destination_train_time2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="11:47 WIB"
+                            android:gravity="center"
+                            android:textSize="17dp"
+                            android:textColor="@android:color/black"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/backgroundGrey"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Daftar Penumpang"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="@android:color/holo_blue_light"/>
+
+                <com.indomaret.klikindomaret.views.HeightAdjustableListView
+                    android:id="@+id/list_passenger"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

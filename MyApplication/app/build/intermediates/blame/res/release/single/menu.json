@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\menu\\category_menu.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\menu\\category_menu.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\menu\\address_menu.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\menu\\address_menu.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\menu\\cart_menu.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\menu\\cart_menu.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\menu\\area_menu.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\menu\\area_menu.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\menu\\search_menu.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\menu\\search_menu.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\menu\\add_address_menu.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\menu\\add_address_menu.xml"
+    }
+]

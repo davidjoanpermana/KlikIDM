@@ -1,0 +1,48 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="font_default">18dp</dimen>
+    <dimen name="font_small">12dp</dimen>
+    <dimen name="offset_default">3dp</dimen>
+    <dimen name="padding_default">8dp</dimen>
+
+    <dimen name="data_item_row_height">35dp</dimen>
+    <dimen name="data_item_row_padding">5dp</dimen>
+
+    <dimen name="level_beam_line_width">8dp</dimen>
+    <dimen name="level_beam_line_offset">1dp</dimen>
+    <dimen name="plus_sign_width">15dp</dimen>
+    <dimen name="plus_sign_heigth">15dp</dimen>
+    <dimen name="edittext_height">40dp</dimen>
+    <dimen name="edittext_text_size">14dp</dimen>
+
+    <dimen name="badge_text_size">15dp</dimen>
+    <dimen name="margin2dp">2dp</dimen>
+    <dimen name="margin3dp">3dp</dimen>
+    <dimen name="margin4dp">4dp</dimen>
+    <dimen name="margin5dp">5dp</dimen>
+    <dimen name="margin8dp">8dp</dimen>
+    <dimen name="margin10dp">10dp</dimen>
+    <dimen name="margin15dp">15dp</dimen>
+    <dimen name="margin25dp">25dp</dimen>
+    <dimen name="margin50dp">50dp</dimen>
+    <dimen name="small_ic_place">20dp</dimen>
+    <dimen name="size_ic_places">80dp</dimen>
+    <dimen name="widht_rel_maps">130dp</dimen>
+    <dimen name="height_rel_maps">75dp</dimen>
+    <dimen name="height_maps">300dp</dimen>
+    <dimen name="half_height_maps">200dp</dimen>
+    <dimen name="widht_ic_ipp">40dp</dimen>
+    <dimen name="height_ic_ipp">35dp</dimen>
+
+    <dimen name="height_search">30dp</dimen>
+    <dimen name="widht_search">200dp</dimen>
+    <dimen name="text_size_search_address">12sp</dimen>
+
+</resources>

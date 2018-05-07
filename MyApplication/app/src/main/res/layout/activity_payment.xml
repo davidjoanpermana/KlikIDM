@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="beforeDescendants"
+    android:focusableInTouchMode="true"
+    tools:context="com.indomaret.klikindomaret.activity.PaymentActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/payment_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar8" />
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:id="@+id/button_list_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shadow"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:id="@+id/footer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:layout_marginBottom="5dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/linear_total"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:orientation="horizontal"
+                android:padding="5dp">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/image_arrow"
+                        android:layout_width="15dp"
+                        android:layout_height="10dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@mipmap/icon_show" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Total Pembayaran"
+                        android:textColor="@android:color/black"
+                        android:textSize="15dp" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/total_transaction"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Rp.0"
+                    android:textColor="@android:color/black"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="5dp"
+                android:layout_marginRight="10dp"
+                android:gravity="right">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="Anda menghemat" />
+
+                <TextView
+                    android:id="@+id/total_discount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Rp 0"
+                    android:textColor="@color/colorOrange"
+                    android:layout_marginLeft="10dp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/discount_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:paddingLeft="35dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Biaya Pengiriman"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Total Potongan"
+                            android:visibility="gone"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Voucher dan Promo" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:paddingRight="35dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/total_ongkir"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="right"
+                            android:text="Rp 0"
+                            android:layout_marginLeft="30dp"/>
+
+                        <TextView
+                            android:id="@+id/total_potongan"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="right"
+                            android:text="Rp 0"
+                            android:layout_marginLeft="30dp"
+                            android:visibility="gone"/>
+
+                        <TextView
+                            android:id="@+id/total_voucher"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="right"
+                            android:text="Rp 0"
+                            android:layout_marginLeft="30dp"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <com.indomaret.klikindomaret.views.HeightAdjustableListView
+                    android:id="@+id/coupon_list"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="30dp"
+                    android:layout_marginTop="5dp"
+                    android:divider="@android:color/transparent"
+                    android:visibility="visible">
+                </com.indomaret.klikindomaret.views.HeightAdjustableListView>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="#b1b2b5"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingRight="15dp"
+                android:paddingLeft="15dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="6">
+
+                    <EditText
+                        android:id="@+id/voucher_text"
+                        android:layout_weight="2"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:background="@drawable/edittext_style_1"
+                        android:padding="10dp"
+                        android:textSize="14dp"
+                        android:inputType="textNoSuggestions"
+                        android:hint="Masukan i-Kupon/IVoucher"/>
+
+                    <Button
+                        android:id="@+id/btn_voucher"
+                        android:layout_weight="4"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginLeft="-1dp"
+                        android:text="Gunakan"
+                        android:textAllCaps="false"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="@color/colorPrimary"
+                        android:background="@drawable/button_style_6"
+                        style="?android:attr/borderlessButtonStyle"/>
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/info_voucher"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:visibility="gone"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btn_buy"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:textColor="@color/colorWhite"
+            android:background="@drawable/button_style_1"
+            android:text="Bayar"
+            android:textAllCaps="false"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/payment_appbar"
+        android:layout_above="@id/button_list_container"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:scrollbarStyle="outsideOverlay"
+        android:background="@color/backgroundGrey"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:id="@+id/linear_payment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:orientation="vertical"
+            android:layout_marginBottom="20dp">
+
+            <com.indomaret.klikindomaret.views.HeightAdjustableListView
+                android:id="@+id/list_payment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <LinearLayout
+                android:id="@+id/linear_list_payment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="@color/backgroundGrey"/>
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/preloader"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/black"
+            android:alpha="0.5"/>
+
+        <ProgressBar
+            android:id="@+id/determinateBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

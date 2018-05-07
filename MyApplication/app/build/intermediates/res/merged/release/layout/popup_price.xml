@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="30dp"
+    android:background="@android:color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RadioGroup
+        android:id="@+id/radioPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/all_price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Semua Harga"/>
+
+        <RadioButton
+            android:id="@+id/lower"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""/>
+
+        <RadioButton
+            android:id="@+id/low"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""/>
+
+        <RadioButton
+            android:id="@+id/high"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""/>
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/startPrice"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:textSize="13sp"
+            android:inputType="number"
+            android:background="@drawable/edittext_style_1"
+            android:ellipsize="start"
+            android:gravity="center"
+            android:hint="Harga Minimum"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:gravity="center"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:text="s/d"/>
+
+        <EditText
+            android:id="@+id/endPrice"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:inputType="number"
+            android:textSize="13sp"
+            android:background="@drawable/edittext_style_1"
+            android:ellipsize="start"
+            android:gravity="center"
+            android:hint="Harga Maksimum"/>
+    </LinearLayout>
+</LinearLayout>

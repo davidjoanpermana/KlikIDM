@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundGrey"
+    tools:context="com.indomaret.klikindomaret.fragment.OrderStatusFragment">
+
+    <TextView
+        android:id="@+id/status_order_code"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="@drawable/button_style_3"
+        android:gravity="center"
+        android:text="apa"
+        android:textStyle="bold"
+        android:textColor="@android:color/black" />
+</RelativeLayout>

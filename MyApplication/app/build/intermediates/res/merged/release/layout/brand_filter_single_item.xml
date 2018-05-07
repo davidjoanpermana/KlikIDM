@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linear_brand"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/check_brand"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/checkbox_null"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="2dp"/>
+
+        <TextView
+            android:id="@+id/brand_name"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:textSize="16dp"
+            android:text="lalala"
+            android:textColor="@android:color/black"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="10dp"/>
+    </LinearLayout>
+</RelativeLayout>

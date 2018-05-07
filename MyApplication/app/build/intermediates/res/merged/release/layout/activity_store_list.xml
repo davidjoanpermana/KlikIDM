@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundGrey"
+    tools:context="com.indomaret.klikindomaret.activity.StoreListActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/storelist_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar2" />
+    </android.support.design.widget.AppBarLayout>
+
+    <TextView
+        android:id="@+id/region_text"
+        android:layout_below="@id/storelist_appbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Silahkan pilih wilayah pengambilan :"
+        android:textColor="@android:color/black"
+        android:layout_margin="5dp"
+        android:layout_marginBottom="0dp"
+        android:textSize="15sp"/>
+
+    <Spinner
+        android:id="@+id/spinner_region"
+        android:layout_below="@id/region_text"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="10dp"
+        android:focusable="false"
+        android:background="@drawable/spinner_style_1"
+        android:layout_weight="1"/>
+
+    <com.indomaret.klikindomaret.views.HeightAdjustableListView
+        android:id="@+id/store_list"
+        android:layout_below="@id/spinner_region"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+        android:padding="5dp"
+        android:divider="@android:color/transparent"
+        android:clipToPadding="false"
+        android:dividerHeight="5dp">
+    </com.indomaret.klikindomaret.views.HeightAdjustableListView>
+
+    <TextView
+        android:id="@+id/out_of_range"
+        android:layout_below="@+id/storelist_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:text="Mohon Maaf Daerah Anda Diluar Jangkauan Toko Kami"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:visibility="gone"/>
+</RelativeLayout>

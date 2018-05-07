@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context="com.indomaret.klikindomaret.fragment.FacebookFragment">
+
+    <LinearLayout
+        android:id="@+id/virtual_facebookCredit"
+        android:layout_below="@id/voucher_virtual_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="@color/colorWhite"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <Spinner
+            android:id="@+id/nominal_facebookCredit"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/spinner_style_1"></Spinner>
+
+        <LinearLayout
+            android:id="@+id/btn_buy_facebookCredit"
+            android:background="@drawable/button_style_4"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="5dp"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:textColor="@android:color/black"
+                android:text="BELI" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

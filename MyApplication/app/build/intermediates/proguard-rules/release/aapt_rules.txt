@@ -1,0 +1,643 @@
+# view res/layout/design_navigation_item.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/activity_activation_account.xml #generated:10
+# view res/layout/activity_add_adress.xml #generated:9
+# view res/layout/activity_addressctivity.xml #generated:10
+# view res/layout/activity_brand.xml #generated:8
+# view res/layout/activity_cart.xml #generated:12
+# view res/layout/activity_category.xml #generated:9
+# view res/layout/activity_category_hero.xml #generated:8
+# view res/layout/activity_category_level1.xml #generated:9
+# view res/layout/activity_cek_ticket.xml #generated:11
+# view res/layout/activity_change_password.xml #generated:9
+# view res/layout/activity_change_profile.xml #generated:8
+# view res/layout/activity_chat.xml #generated:8
+# view res/layout/activity_choose_sit.xml #generated:10
+# view res/layout/activity_direct_login.xml #generated:10
+# view res/layout/activity_filter.xml #generated:9
+# view res/layout/activity_filter_kai.xml #generated:9
+# view res/layout/activity_forgot_password.xml #generated:8
+# view res/layout/activity_list_ticket_kai.xml #generated:11
+# view res/layout/activity_login.xml #generated:8
+# view res/layout/activity_map_plaza.xml #generated:9
+# view res/layout/activity_menu_profile.xml #generated:9
+# view res/layout/activity_merge_cart.xml #generated:10
+# view res/layout/activity_my_ticket_list.xml #generated:9
+# view res/layout/activity_new_profile_kai.xml #generated:9
+# view res/layout/activity_notification.xml #generated:10
+# view res/layout/activity_order_summary.xml #generated:8
+# view res/layout/activity_order_summary_kai.xml #generated:9
+# view res/layout/activity_passenger.xml #generated:9
+# view res/layout/activity_payment.xml #generated:11
+# view res/layout/activity_payment_electronic.xml #generated:10
+# view res/layout/activity_payment_electronic_kai.xml #generated:10
+# view res/layout/activity_payment_kai.xml #generated:9
+# view res/layout/activity_payment_list.xml #generated:8
+# view res/layout/activity_payment_third_party.xml #generated:8
+# view res/layout/activity_postcode_coverage.xml #generated:10
+# view res/layout/activity_product.xml #generated:10
+# view res/layout/activity_profile.xml #generated:10
+# view res/layout/activity_profile_kai.xml #generated:9
+# view res/layout/activity_refund.xml #generated:8
+# view res/layout/activity_register.xml #generated:8
+# view res/layout/activity_retur.xml #generated:8
+# view res/layout/activity_review.xml #generated:10
+# view res/layout/activity_scanner.xml #generated:9
+# view res/layout/activity_search_result.xml #generated:9
+# view res/layout/activity_shipping.xml #generated:11
+# view res/layout/activity_shipping_list_time.xml #generated:10
+# view res/layout/activity_shipping_time.xml #generated:9
+# view res/layout/activity_store_list.xml #generated:9
+# view res/layout/activity_success_verifivation.xml #generated:10
+# view res/layout/activity_thankyou_page.xml #generated:9
+# view res/layout/activity_thankyou_page_kai.xml #generated:9
+# view res/layout/activity_verification_phone.xml #generated:10
+# view res/layout/activity_virtual_category.xml #generated:12
+# view res/layout/activity_web_view.xml #generated:9
+# view res/layout/activity_wishlist.xml #generated:10
+# view res/layout/app_bar_main.xml #generated:10
+# view res/layout/app_bar_main_hotel.xml #generated:10
+# view res/layout/app_bar_main_kai.xml #generated:10
+# view res/layout/map_layout.xml #generated:9
+-keep class android.support.design.widget.AppBarLayout { <init>(...); }
+
+# view res/layout/app_bar_main.xml #generated:2
+# view res/layout/app_bar_main_hotel.xml #generated:2
+# view res/layout/app_bar_main_kai.xml #generated:2
+# view res/layout/design_bottom_sheet_dialog.xml #generated:17
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# view res/layout/activity_category.xml #generated:198
+# view res/layout/activity_wishlist.xml #generated:95
+# view res/layout/fragment_wishlist.xml #generated:75
+-keep class android.support.design.widget.FloatingActionButton { <init>(...); }
+
+# view res/layout/design_layout_snackbar.xml #generated:18
+# view sw600dp-v13\res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view res/layout/activity_virtual_category.xml #generated:103
+# view res/layout/activity_virtual_category.xml #generated:108
+# view res/layout/activity_virtual_category.xml #generated:114
+# view res/layout/activity_virtual_category.xml #generated:85
+# view res/layout/activity_virtual_category.xml #generated:91
+# view res/layout/activity_virtual_category.xml #generated:97
+-keep class android.support.design.widget.TabItem { <init>(...); }
+
+# view res/layout/activity_cart.xml #generated:574
+# view res/layout/activity_product.xml #generated:454
+# view res/layout/activity_promo_item.xml #generated:35
+# view res/layout/activity_virtual_category.xml #generated:75
+# view res/layout/content_main.xml #generated:130
+# view res/layout/fragment_order_history.xml #generated:10
+# view res/layout/listview_promo_payment.xml #generated:33
+-keep class android.support.design.widget.TabLayout { <init>(...); }
+
+# view res/layout/activity_cart.xml #generated:607
+# view res/layout/activity_full_screen_image.xml #generated:9
+# view res/layout/activity_product.xml #generated:192
+# view res/layout/activity_profile.xml #generated:33
+# view res/layout/activity_promo_item.xml #generated:47
+# view res/layout/content_main.xml #generated:145
+# view res/layout/fragment_order_history.xml #generated:22
+# view res/layout/listview_promo_payment.xml #generated:45
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/activity_hotel.xml #generated:2
+# view res/layout/activity_kai.xml #generated:2
+# view res/layout/activity_main.xml #generated:2
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:75
+# view res/layout/activity_product.xml #generated:88
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:40
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/activity_category.xml #generated:177
+# view res/layout/activity_category_hero.xml #generated:19
+# view res/layout/activity_chat.xml #generated:19
+# view res/layout/activity_payment_list.xml #generated:24
+# view res/layout/activity_payment_third_party.xml #generated:19
+# view res/layout/activity_web_view.xml #generated:20
+# view res/layout/content_hotel.xml #generated:11
+-keep class android.support.v4.widget.SwipeRefreshLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/activity_change_password.xml #generated:109
+# view res/layout/activity_change_password.xml #generated:128
+# view res/layout/activity_change_profile.xml #generated:141
+# view res/layout/activity_change_profile.xml #generated:160
+-keep class android.support.v7.widget.AppCompatButton { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:48
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/activity_cart_promo_single_list_item.xml #generated:199
+# view res/layout/activity_cart_single_product_listview.xml #generated:270
+# view res/layout/activity_cart_single_product_listview.xml #generated:326
+# view res/layout/activity_map_plaza.xml #generated:102
+# view res/layout/activity_map_plaza.xml #generated:277
+# view res/layout/activity_product.xml #generated:469
+# view res/layout/category_payment.xml #generated:33
+# view res/layout/content_main.xml #generated:153
+# view res/layout/fragment_description.xml #generated:8
+# view res/layout/fragment_order_history_single.xml #generated:355
+# view res/layout/fragment_order_history_single.xml #generated:507
+# view res/layout/fragment_order_history_single.xml #generated:608
+# view res/layout/home_category_1.xml #generated:43
+# view res/layout/list_payment.xml #generated:112
+# view res/layout/map_layout.xml #generated:101
+# view res/layout/map_layout.xml #generated:261
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# view res/layout/activity_map_plaza.xml #generated:90
+# view res/layout/app_bar_main.xml #generated:29
+# view res/layout/map_layout.xml #generated:90
+-keep class android.support.v7.widget.SearchView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:78
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/app_bar_main.xml #generated:20
+# view res/layout/toolbar.xml #generated:2
+# view res/layout/toolbar2.xml #generated:2
+# view res/layout/toolbar3.xml #generated:2
+# view res/layout/toolbar4.xml #generated:2
+# view res/layout/toolbar5.xml #generated:2
+# view res/layout/toolbar6.xml #generated:2
+# view res/layout/toolbar7.xml #generated:2
+# view res/layout/toolbar8.xml #generated:2
+# view res/layout/toolbar_yellow.xml #generated:2
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view res/layout/activity_payment_list_card.xml #generated:11
+# view res/layout/activity_product_related_single.xml #generated:15
+# view res/layout/activity_thankyou_page_kai.xml #generated:202
+# view res/layout/activity_wishlist_single_item.xml #generated:16
+# view res/layout/category_gridview_single_item.xml #generated:12
+# view res/layout/fragment_home_gridview_single_item.xml #generated:8
+# view res/layout/home_category_1.xml #generated:17
+# view res/layout/home_category_1.xml #generated:33
+# view res/layout/home_category_2.xml #generated:17
+# view res/layout/home_category_2.xml #generated:34
+# view res/layout/home_category_2.xml #generated:55
+# view res/layout/home_category_2.xml #generated:68
+# view res/layout/home_category_2.xml #generated:82
+# view res/layout/list_payment.xml #generated:78
+# view res/layout/list_payment_kai.xml #generated:53
+# view res/layout/pager_item_product.xml #generated:8
+-keep class com.android.volley.toolbox.NetworkImageView { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class com.facebook.CustomTabActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class com.facebook.FacebookActivity { <init>(...); }
+
+# view res/layout/intro_layout.xml #generated:6
+# view res/layout/intro_layout2.xml #generated:10
+# view v21\res/layout-v21/intro_layout.xml #generated:7
+# view v21\res/layout-v21/intro_layout2.xml #generated:10
+-keep class com.github.paolorotolo.appintro.AppIntroViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:361
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:365
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:368
+-keep class com.google.android.gms.appinvite.PreviewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:387
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(...); }
+
+# view AndroidManifest.xml #generated:378
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:175
+-keep class com.google.android.gms.gcm.GcmReceiver { <init>(...); }
+
+# view res/layout/activity_add_adress.xml #generated:187
+# view res/layout/activity_map_plaza.xml #generated:83
+# view res/layout/map_layout.xml #generated:82
+-keep class com.google.android.gms.location.places.ui.PlaceAutocompleteFragment { <init>(...); }
+
+# view res/layout/activity_add_adress.xml #generated:201
+# view res/layout/activity_map_plaza.xml #generated:119
+# view res/layout/map_layout.xml #generated:117
+-keep class com.google.android.gms.maps.SupportMapFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:392
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:397
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:405
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(...); }
+
+# view AndroidManifest.xml #generated:90
+-keep class com.indomaret.klikindomaret.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:286
+-keep class com.indomaret.klikindomaret.activity.ActivationAccountActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:142
+-keep class com.indomaret.klikindomaret.activity.AddAdressActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:358
+-keep class com.indomaret.klikindomaret.activity.AddressActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:216
+-keep class com.indomaret.klikindomaret.activity.BrandActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:244
+-keep class com.indomaret.klikindomaret.activity.CartActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:224
+-keep class com.indomaret.klikindomaret.activity.CategoryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:241
+-keep class com.indomaret.klikindomaret.activity.CategoryHeroActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:342
+-keep class com.indomaret.klikindomaret.activity.CategoryLevel1Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:339
+-keep class com.indomaret.klikindomaret.activity.CekTicketActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:137
+-keep class com.indomaret.klikindomaret.activity.ChangePasswordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:132
+-keep class com.indomaret.klikindomaret.activity.ChangeProfileActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:169
+-keep class com.indomaret.klikindomaret.activity.ChatActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:315
+-keep class com.indomaret.klikindomaret.activity.ChooseSeatActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:290
+-keep class com.indomaret.klikindomaret.activity.DirectLoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:344
+-keep class com.indomaret.klikindomaret.activity.ErrorPageActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:281
+-keep class com.indomaret.klikindomaret.activity.FilterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:335
+-keep class com.indomaret.klikindomaret.activity.FilterKAIActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:122
+-keep class com.indomaret.klikindomaret.activity.ForgotPasswordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:168
+-keep class com.indomaret.klikindomaret.activity.FullScreenImageActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:295
+-keep class com.indomaret.klikindomaret.activity.HomeKAIActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:147
+-keep class com.indomaret.klikindomaret.activity.HotelActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:164
+-keep class com.indomaret.klikindomaret.activity.IntroActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:299
+-keep class com.indomaret.klikindomaret.activity.ListTicketKAIActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:117
+-keep class com.indomaret.klikindomaret.activity.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:354
+-keep class com.indomaret.klikindomaret.activity.MapActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:355
+-keep class com.indomaret.klikindomaret.activity.MapPlazaActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:349
+-keep class com.indomaret.klikindomaret.activity.MenuProfileActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:265
+-keep class com.indomaret.klikindomaret.activity.MergeCartActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:331
+-keep class com.indomaret.klikindomaret.activity.MyTicketListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:307
+-keep class com.indomaret.klikindomaret.activity.NewProfileKAIActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:345
+-keep class com.indomaret.klikindomaret.activity.NotificationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:249
+-keep class com.indomaret.klikindomaret.activity.OrderSummaryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:319
+-keep class com.indomaret.klikindomaret.activity.OrderSummaryKAIActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:311
+-keep class com.indomaret.klikindomaret.activity.PassengerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:357
+-keep class com.indomaret.klikindomaret.activity.PaymentActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:257
+-keep class com.indomaret.klikindomaret.activity.PaymentElectronicActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:323
+-keep class com.indomaret.klikindomaret.activity.PaymentKAIActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:253
+-keep class com.indomaret.klikindomaret.activity.PaymentListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:277
+-keep class com.indomaret.klikindomaret.activity.PaymentThirdPartyActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:151
+-keep class com.indomaret.klikindomaret.activity.PostcodeCoverageActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:228
+-keep class com.indomaret.klikindomaret.activity.ProductActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:127
+-keep class com.indomaret.klikindomaret.activity.ProfileActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:303
+-keep class com.indomaret.klikindomaret.activity.ProfileKAIActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:351
+-keep class com.indomaret.klikindomaret.activity.PromoItemActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:347
+-keep class com.indomaret.klikindomaret.activity.RefundActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:220
+-keep class com.indomaret.klikindomaret.activity.RegisterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:346
+-keep class com.indomaret.klikindomaret.activity.ReturActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:261
+-keep class com.indomaret.klikindomaret.activity.ReviewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:156
+-keep class com.indomaret.klikindomaret.activity.ScannerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:160
+-keep class com.indomaret.klikindomaret.activity.SearchResultActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:356
+-keep class com.indomaret.klikindomaret.activity.ShippingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:359
+-keep class com.indomaret.klikindomaret.activity.ShippingListTimeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:269
+-keep class com.indomaret.klikindomaret.activity.ShippingTimeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:206
+-keep class com.indomaret.klikindomaret.activity.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:273
+-keep class com.indomaret.klikindomaret.activity.StoreListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:291
+-keep class com.indomaret.klikindomaret.activity.SuccessVerifivationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:343
+-keep class com.indomaret.klikindomaret.activity.ThankyouPageActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:327
+-keep class com.indomaret.klikindomaret.activity.ThankyouPageKAIActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:282
+-keep class com.indomaret.klikindomaret.activity.VerificationPhoneActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:237
+-keep class com.indomaret.klikindomaret.activity.VirtualCategoryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:350
+-keep class com.indomaret.klikindomaret.activity.WebViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:233
+-keep class com.indomaret.klikindomaret.activity.WishlistActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:348
+-keep class com.indomaret.klikindomaret.activity.YahooActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.indomaret.klikindomaret.app.AppController { <init>(...); }
+
+# view AndroidManifest.xml #generated:193
+-keep class com.indomaret.klikindomaret.gcm.GcmIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:186
+-keep class com.indomaret.klikindomaret.gcm.MyGcmPushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:77
+-keep class com.indomaret.klikindomaret.helper.KeepRunning { <init>(...); }
+
+# view res/layout/activity_category.xml #generated:183
+-keep class com.indomaret.klikindomaret.views.HeaderGridView { <init>(...); }
+
+# view res/layout/activity_wishlist.xml #generated:81
+# view res/layout/footer_layout.xml #generated:14
+# view res/layout/fragment_wishlist.xml #generated:60
+# view res/layout/header_layout.xml #generated:8
+-keep class com.indomaret.klikindomaret.views.HeightAdjustableGridView { <init>(...); }
+
+# view res/layout/activity_add_adress.xml #generated:234
+# view res/layout/activity_addressctivity.xml #generated:27
+# view res/layout/activity_cart.xml #generated:174
+# view res/layout/activity_cart.xml #generated:315
+# view res/layout/activity_cart.xml #generated:398
+# view res/layout/activity_cart.xml #generated:482
+# view res/layout/activity_cart_check_stock.xml #generated:25
+# view res/layout/activity_category_level1.xml #generated:47
+# view res/layout/activity_choose_sit.xml #generated:139
+# view res/layout/activity_choose_sit.xml #generated:149
+# view res/layout/activity_filter_brand.xml #generated:23
+# view res/layout/activity_filter_kai.xml #generated:97
+# view res/layout/activity_hotel.xml #generated:16
+# view res/layout/activity_kai.xml #generated:21
+# view res/layout/activity_list_ticket_kai.xml #generated:404
+# view res/layout/activity_map_plaza.xml #generated:149
+# view res/layout/activity_merge_cart.xml #generated:104
+# view res/layout/activity_merge_cart.xml #generated:125
+# view res/layout/activity_my_ticket_list.xml #generated:20
+# view res/layout/activity_notification.xml #generated:21
+# view res/layout/activity_order_summary.xml #generated:1067
+# view res/layout/activity_order_summary.xml #generated:1197
+# view res/layout/activity_order_summary.xml #generated:1206
+# view res/layout/activity_order_summary.xml #generated:1292
+# view res/layout/activity_order_summary.xml #generated:1346
+# view res/layout/activity_order_summary.xml #generated:741
+# view res/layout/activity_order_summary.xml #generated:933
+# view res/layout/activity_order_summary_kai.xml #generated:516
+# view res/layout/activity_passenger.xml #generated:669
+# view res/layout/activity_passenger.xml #generated:679
+# view res/layout/activity_payment.xml #generated:175
+# view res/layout/activity_payment.xml #generated:275
+# view res/layout/activity_payment_kai.xml #generated:543
+# view res/layout/activity_payment_kai.xml #generated:866
+# view res/layout/activity_postcode_coverage.xml #generated:67
+# view res/layout/activity_postcode_coverage.xml #generated:76
+# view res/layout/activity_product_description.xml #generated:13
+# view res/layout/activity_profile_kai.xml #generated:68
+# view res/layout/activity_refund.xml #generated:210
+# view res/layout/activity_retur.xml #generated:225
+# view res/layout/activity_review.xml #generated:38
+# view res/layout/activity_shipping.xml #generated:172
+# view res/layout/activity_shipping_list_time.xml #generated:30
+# view res/layout/activity_shipping_product_list.xml #generated:7
+# view res/layout/activity_shipping_time.xml #generated:20
+# view res/layout/activity_store_list.xml #generated:43
+# view res/layout/activity_thankyou_page_kai.xml #generated:552
+# view res/layout/category_payment.xml #generated:40
+# view res/layout/contact.xml #generated:8
+# view res/layout/content_main.xml #generated:236
+# view res/layout/fragmen_notification.xml #generated:11
+# view res/layout/fragment_address_list.xml #generated:50
+# view res/layout/fragment_order_history_single.xml #generated:663
+# view res/layout/fragment_order_history_tabbed.xml #generated:8
+# view res/layout/fragment_order_status.xml #generated:49
+# view res/layout/list_passenger_dialog.xml #generated:35
+# view res/layout/map_layout.xml #generated:147
+# view res/layout/my_ticket.xml #generated:181
+-keep class com.indomaret.klikindomaret.views.HeightAdjustableListView { <init>(...); }
+
+# view res/layout/data_item.xml #generated:12
+# view res/layout/data_item_menu.xml #generated:12
+-keep class com.indomaret.klikindomaret.views.LevelBeamView { <init>(...); }
+
+# view res/layout/activity_cart_promo_payment_single_list_item.xml #generated:81
+# view res/layout/activity_cart_promo_single_list_item.xml #generated:78
+# view res/layout/activity_cart_single_product_listview.xml #generated:30
+# view res/layout/activity_merge_cart_product.xml #generated:14
+# view res/layout/brand_item.xml #generated:10
+# view res/layout/full_image_product.xml #generated:6
+-keep class com.indomaret.klikindomaret.views.NetworkImagesView { <init>(...); }
+
+# view res/layout/pager_item.xml #generated:8
+-keep class com.indomaret.klikindomaret.views.ProportionalImageView { <init>(...); }
+
+# view res/layout/grid_item.xml #generated:8
+-keep class com.indomaret.klikindomaret.views.SquareImageView { <init>(...); }
+
+# view res/layout/activity_category_level1.xml #generated:35
+# view res/layout/activity_choose_sit.xml #generated:255
+# view res/layout/activity_virtual_category.xml #generated:31
+# view res/layout/activity_virtual_category.xml #generated:55
+# view res/layout/content_main.xml #generated:167
+# view res/layout/content_main.xml #generated:29
+# view res/layout/promo_banner.xml #generated:22
+# view res/layout/view_pager_header.xml #generated:10
+-keep class com.indomaret.klikindomaret.views.WrapContentViewPager { <init>(...); }
+
+# view res/layout/merge_camera_preview_view_finder.xml #generated:3
+-keep class me.dm7.barcodescannerview.CameraPreview { <init>(...); }
+
+# view res/layout/merge_camera_preview_view_finder.xml #generated:7
+-keep class me.dm7.barcodescannerview.ViewFinderView { <init>(...); }
+
+# view res/layout/grid_item.xml #generated:16
+-keep class me.grantland.widget.AutofitTextView { <init>(...); }
+
+# view res/layout/activity_filter_category.xml #generated:19
+# view res/layout/activity_main.xml #generated:22
+# view res/layout/list_menu.xml #generated:33
+-keep class pl.openrnd.multilevellistview.MultiLevelListView { <init>(...); }
+
+# onClick res/layout/activity_success_verifivation.xml #generated:49
+-keepclassmembers class * { *** backHome(...); }
+
+# onClick res/layout/activity_register.xml #generated:139
+-keepclassmembers class * { *** birthDate(...); }
+
+# onClick res/layout/activity_error_page.xml #generated:57
+-keepclassmembers class * { *** goToHome(...); }
+
+# onClick res/layout/activity_login.xml #generated:145
+# onClick res/layout/activity_login.xml #generated:160
+# onClick res/layout/activity_login.xml #generated:174
+# onClick res/layout/activity_login.xml #generated:67
+-keepclassmembers class * { *** loginAccount(...); }
+
+# onClick res/layout/activity_refund.xml #generated:324
+-keepclassmembers class * { *** saveRefund(...); }
+
+# onClick res/layout/activity_retur.xml #generated:232
+-keepclassmembers class * { *** saveRetur(...); }
+
+# onClick res/layout/activity_shipping.xml #generated:1195
+-keepclassmembers class * { *** sendDate(...); }
+
+# onClick res/layout/activity_forgot_password.xml #generated:56
+-keepclassmembers class * { *** sendEmail(...); }
+
+# onClick res/layout/activity_register.xml #generated:193
+-keepclassmembers class * { *** sendRegister(...); }
+
+# onClick res/layout/activity_change_profile.xml #generated:102
+-keepclassmembers class * { *** setDate(...); }
+
+# onClick res/layout/activity_login.xml #generated:86
+-keepclassmembers class * { *** toForgotPassword(...); }
+
+# onClick res/layout/activity_login.xml #generated:189
+# onClick res/layout/activity_login.xml #generated:96
+-keepclassmembers class * { *** toRegister(...); }
+

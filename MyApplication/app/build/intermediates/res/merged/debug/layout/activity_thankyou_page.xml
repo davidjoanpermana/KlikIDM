@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    tools:context="com.indomaret.klikindomaret.activity.ThankyouPageActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/thankyouPage_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar4" />
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/thankyouPage_appbar"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:scrollbarStyle="outsideOverlay"
+        android:background="@color/backgroundGrey">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/linear_info_success"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="visible">
+
+                <TextView
+                    android:id="@+id/status_payment"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:textSize="20dp"
+                    android:textStyle="bold"
+                    android:text=""
+                    android:textColor="@android:color/holo_green_light"/>
+
+                <TextView
+                    android:id="@+id/info_payment"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:gravity="center"
+                    android:text=""/>
+
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_gravity="center"
+                    android:background="#c6e7ff"
+                    android:orientation="vertical"
+                    android:padding="5dp"
+                    android:weightSum="2">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:weightSum="2">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:paddingRight="5dp"
+                            android:gravity="right"
+                            android:text="Kode Pembayaran : "/>
+
+                        <TextView
+                            android:id="@+id/transaction_code"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:paddingLeft="5dp"
+                            android:textStyle="bold"
+                            android:text=": 566552682825526"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linear_price"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:weightSum="2"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:paddingRight="5dp"
+                            android:gravity="right"
+                            android:text="Sebesar : "/>
+
+                        <TextView
+                            android:id="@+id/total_price"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:paddingLeft="5dp"
+                            android:text=": 500000"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linear_date"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:weightSum="2"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:paddingRight="5dp"
+                            android:gravity="right"
+                            android:text="Tanggal Pesanan : "/>
+
+                        <TextView
+                            android:id="@+id/payment_date"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:paddingLeft="5dp"
+                            android:text=": 500000"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linear_before_date"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:weightSum="2"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:paddingRight="5dp"
+                            android:gravity="right"
+                            android:text="Sebelum : "/>
+
+                        <TextView
+                            android:id="@+id/payment_before_date"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:paddingLeft="5dp"
+                            android:text=": 500000"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp"
+                        android:weightSum="2"
+                        android:visibility="visible"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_info_error"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="GAGAL"
+                        android:textStyle="bold"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:textSize="20dp"
+                        android:textColor="@android:color/holo_red_dark"/>
+
+                    <TextView
+                        android:id="@+id/message_error"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Pembayaran Tidak Berhasil"
+                        android:layout_margin="10dp"
+                        android:paddingTop="20dp"
+                        android:paddingBottom="20dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:background="#f2b5b0"
+                        android:gravity="center"
+                        android:textStyle=""/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/detail_payment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:textColor="@color/colorPrimary"
+                android:text="Lihat Detail Pesanan"/>
+
+            <TextView
+                android:id="@+id/back_home"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:textColor="@color/colorPrimary"
+                android:text="Kembali ke Beranda"/>
+
+            <LinearLayout
+                android:id="@+id/footer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_margin="5dp"
+                    android:background="@color/backgroundGrey"/>
+
+                <TextView
+                    android:id="@+id/footer_body"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="body"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/preloader"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/black"
+            android:alpha="0.5"/>
+
+        <ProgressBar
+            android:id="@+id/determinateBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

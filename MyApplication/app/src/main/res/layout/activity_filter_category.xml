@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.indomaret.klikindomaret.activity.ReviewActivity">
+
+    <TextView
+        android:id="@+id/semua_kategori"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Semua Kategori"
+        android:textSize="15dp"
+        android:paddingLeft="22dp"
+        android:textColor="@android:color/black"
+        android:gravity="center_vertical"/>
+
+    <pl.openrnd.multilevellistview.MultiLevelListView
+        android:layout_below="@id/semua_kategori"
+        android:id="@+id/listViewFilter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:scrollbars="vertical"
+        app:alwaysExtended="false"
+        android:paddingLeft="22dp"
+        app:nestType="multiple" >
+    </pl.openrnd.multilevellistview.MultiLevelListView>
+</RelativeLayout>

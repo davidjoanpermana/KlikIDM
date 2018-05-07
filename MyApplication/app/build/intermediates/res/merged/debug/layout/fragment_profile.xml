@@ -1,0 +1,381 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:background="@color/backgroundGrey"
+    tools:context="com.indomaret.klikindomaret.fragment.ProfileFragment">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:layout_marginTop="5dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_margin="5dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:text="Informasi Akun"
+                        android:textColor="@android:color/black"
+                        android:textSize="16dp"
+                        android:textStyle="bold"
+                        android:gravity="center_vertical"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="14dp"
+                        android:text="Nama"
+                        android:textStyle="bold"/>
+
+                    <EditText
+                        android:id="@+id/edittext_profile_first_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginBottom="5dp"
+                        android:hint="Nama Depan"
+                        android:padding="5dp"
+                        android:background="@drawable/edittext_style_1"
+                        android:inputType="textNoSuggestions"
+                        android:textSize="@dimen/edittext_text_size"/>
+
+                    <EditText
+                        android:id="@+id/edittext_profile_last_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginBottom="5dp"
+                        android:padding="5dp"
+                        android:hint="Nama Belakang"
+                        android:background="@drawable/edittext_style_1"
+                        android:inputType="textNoSuggestions"
+                        android:textSize="@dimen/edittext_text_size"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:textSize="14dp"
+                        android:inputType="date"
+                        android:text="Tanggal Lahir"
+                        android:textStyle="bold"/>
+
+                    <EditText
+                        android:id="@+id/edittext_profile_birthdate"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginBottom="5dp"
+                        android:padding="5dp"
+                        android:background="@drawable/edittext_style_1"
+                        android:enabled="false"
+                        android:textSize="@dimen/edittext_text_size"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:textSize="14dp"
+                        android:text="Jenis Kelamin"
+                        android:textStyle="bold"/>
+
+                    <RadioGroup
+                        android:id="@+id/radioSex"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <RadioButton
+                            android:id="@+id/radioMale"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Laki - laki"
+                            android:checked="true" />
+
+                        <RadioButton
+                            android:id="@+id/radioFemale"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="30dp"
+                            android:text="Perempuan" />
+
+                    </RadioGroup>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:textSize="14dp"
+                        android:text="No Hanphone"
+                        android:textStyle="bold"/>
+
+                    <EditText
+                        android:id="@+id/edittext_phone_number"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:focusable="false"
+                        android:layout_marginBottom="5dp"
+                        android:padding="5dp"
+                        android:inputType="number"
+                        android:background="@drawable/edittext_style_1"
+                        android:textSize="@dimen/edittext_text_size"
+                        android:maxLength="15"/>
+
+                    <TextView
+                        android:id="@+id/verified_number"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:textSize="12dp"
+                        android:textStyle="italic"/>
+
+                    <Button
+                        android:id="@+id/btn_change_nomor"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginBottom="5dp"
+                        android:text="Ubah Nomor"
+                        android:textStyle="bold"
+                        android:textSize="13dp"
+                        android:gravity="center"
+                        android:paddingLeft="5dp"
+                        android:textColor="@color/colorWhite"
+                        android:background="@drawable/button_style_1"
+                        style="?android:attr/borderlessButtonStyle"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:textSize="14dp"
+                        android:text="Email"
+                        android:textStyle="bold"
+                        android:layout_weight="3"/>
+
+                    <TextView
+                        android:id="@+id/profile_email"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:editable="false"
+                        android:focusable="false"
+                        android:textSize="14dp"
+                        android:gravity="center_vertical"
+                        android:text="email@gmail.com"
+                        android:layout_weight="1"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:textSize="14dp"
+                        android:text="Kata Sandi"
+                        android:textStyle="bold"
+                        android:layout_weight="3"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/text_old_pass"
+                            android:layout_width="match_parent"
+                            android:layout_height="35dp"
+                            android:editable="false"
+                            android:focusable="false"
+                            android:textSize="14dp"
+                            android:gravity="center_vertical"
+                            android:text="******"
+                            android:layout_weight="1"/>
+
+                        <TextView
+                            android:id="@+id/btn_profile_change_password"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="right"
+                            android:text="Ubah Kata Sandi"
+                            android:textColor="@color/colorPrimary"
+                            android:textSize="16dp"/>
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/btn_save_profile"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginTop="10dp"
+                        android:text="Simpan"
+                        android:textStyle="bold"
+                        android:textSize="13dp"
+                        android:gravity="center"
+                        android:paddingLeft="5dp"
+                        android:textAllCaps="false"
+                        android:enabled="false"
+                        android:textColor="@android:color/black"
+                        android:background="@drawable/button_style_4"
+                        style="?android:attr/borderlessButtonStyle"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:text="Informasi Akun"
+                        android:textColor="@android:color/black"
+                        android:textSize="16dp"
+                        android:textStyle="bold"
+                        android:gravity="center_vertical"/>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginBottom="5dp"
+                        android:background="@color/backgroundGrey"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="14dp"
+                        android:text="Atas Nama"
+                        android:textStyle="bold"/>
+
+                    <EditText
+                        android:id="@+id/username_bank"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginBottom="5dp"
+                        android:hint="Nama Lengkap"
+                        android:padding="5dp"
+                        android:background="@drawable/edittext_style_1"
+                        android:inputType="textNoSuggestions"
+                        android:textSize="@dimen/edittext_text_size"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:textSize="14dp"
+                        android:text="Nama Bank"
+                        android:textStyle="bold"/>
+
+                    <EditText
+                        android:id="@+id/name_bank"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginBottom="5dp"
+                        android:hint="Nama Bank"
+                        android:padding="5dp"
+                        android:background="@drawable/edittext_style_1"
+                        android:inputType="textNoSuggestions"
+                        android:textSize="@dimen/edittext_text_size"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:textSize="14dp"
+                        android:text="No Rekening"
+                        android:textStyle="bold"/>
+
+                    <EditText
+                        android:id="@+id/rek_bank"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginBottom="5dp"
+                        android:hint="No Rekening"
+                        android:padding="5dp"
+                        android:background="@drawable/edittext_style_1"
+                        android:inputType="textNoSuggestions"
+                        android:textSize="@dimen/edittext_text_size"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:textSize="14dp"
+                        android:text="Cabang Bank"
+                        android:textStyle="bold"/>
+
+                    <EditText
+                        android:id="@+id/branch_bank"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginBottom="5dp"
+                        android:hint="Cabang Bank"
+                        android:padding="5dp"
+                        android:background="@drawable/edittext_style_1"
+                        android:inputType="textNoSuggestions"
+                        android:textSize="@dimen/edittext_text_size"/>
+
+                    <Button
+                        android:id="@+id/btn_save_profile_bank"
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginTop="10dp"
+                        android:text="Simpan"
+                        android:textStyle="bold"
+                        android:textSize="13dp"
+                        android:gravity="center"
+                        android:paddingLeft="5dp"
+                        android:textAllCaps="false"
+                        android:enabled="false"
+                        android:textColor="@android:color/black"
+                        android:background="@drawable/button_style_4"
+                        style="?android:attr/borderlessButtonStyle"/>
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:layout_marginTop="5dp">
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:layout_marginTop="5dp">
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/preloader"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/black"
+            android:alpha="0.5"/>
+
+        <ProgressBar
+            android:id="@+id/determinateBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

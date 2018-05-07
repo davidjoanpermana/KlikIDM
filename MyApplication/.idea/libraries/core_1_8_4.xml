@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="core-1.8.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/0d082607a9a81c3814dacec4cf7d8d3babfdc1f3/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/0d082607a9a81c3814dacec4cf7d8d3babfdc1f3/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

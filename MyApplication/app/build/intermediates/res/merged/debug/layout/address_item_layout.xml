@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/address_single_item"
+    android:background="@drawable/card_product_style_1">
+
+    <LinearLayout
+        android:id="@+id/title_item_background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:layout_marginBottom="-2dp"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/title_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="titel"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/address_item_background"
+        android:layout_below="@id/title_item_background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/receiver_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/street"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""/>
+
+                <TextView
+                    android:id="@+id/city"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""/>
+
+                <TextView
+                    android:id="@+id/zipcode"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Telp : "
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:id="@+id/mobile_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/icon_place"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/icon_place_black"/>
+                <TextView
+                    android:id="@+id/info_place"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxLines="1"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/btn_edit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:text="Ubah"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="17dp"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="|"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="18dp"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:id="@+id/btn_delete"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="Hapus"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="17dp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <CheckBox
+        android:id="@+id/icon_check_blue"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="4dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:checked="true"
+        android:enabled="false"
+        app:buttonTint="@color/backgroundGrey"/>
+</RelativeLayout>

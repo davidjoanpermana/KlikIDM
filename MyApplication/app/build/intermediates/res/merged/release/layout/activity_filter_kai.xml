@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    tools:context="com.indomaret.klikindomaret.activity.ReviewActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/filter_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar2" />
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:layout_below="@id/filter_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingTop="5dp"
+            android:background="#e0e0e0">
+
+            <TextView
+                android:id="@+id/time"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="Waktu Pergi"
+                android:textColor="@android:color/black"
+                android:background="#ffffff"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:layout_alignParentTop="true"/>
+
+            <TextView
+                android:id="@+id/class_train"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="Kelas"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:layout_below="@id/time"/>
+
+            <TextView
+                android:id="@+id/train"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="Kereta"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:layout_below="@id/class_train"/>
+
+            <TextView
+                android:id="@+id/price"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="Rentang Harga"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:layout_below="@id/train"/>
+
+            <Button
+                android:id="@+id/reset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hapus"
+                android:layout_alignParentBottom="true"
+                android:textColor="@android:color/white"
+                android:background="@android:color/black"
+                style="?android:attr/borderlessButtonStyle"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.indomaret.klikindomaret.views.HeightAdjustableListView
+                android:id="@+id/list_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/selector_list"/>
+
+            <Button
+                android:id="@+id/search"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cari"
+                android:layout_alignParentBottom="true"
+                android:textColor="@android:color/white"
+                android:background="@drawable/button_style_1"
+                style="?android:attr/borderlessButtonStyle"/>
+
+
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

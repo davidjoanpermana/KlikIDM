@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relative_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.indomaret.klikindomaret.activity.AddAdressActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/add_address_appbar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar"/>
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:id="@+id/container_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:id="@+id/btn_save_update"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:textColor="@color/colorWhite"
+            android:background="@drawable/button_style_1"
+            android:text="Simpan dan Pilih Alamat"
+            android:textAllCaps="false"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/add_address_appbar_layout"
+        android:layout_above="@id/container_button"
+        android:layout_alignParentStart="true"
+        android:scrollbarStyle="outsideOverlay"
+        android:layout_marginBottom="5dp">
+
+        <LinearLayout
+            android:id="@+id/linear_parent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="15dp">
+
+            <EditText
+                android:id="@+id/initial_address"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:background="@drawable/edittext_style_1"
+                android:inputType="textNoSuggestions"
+                android:hint="Nama alamat contoh (rumah, kantor, dsb)"
+                android:padding="10dp"
+                android:textSize="14dp"/>
+
+            <EditText
+                android:id="@+id/receiver_name"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/edittext_style_1"
+                android:inputType="textNoSuggestions"
+                android:hint="Nama Penerima"
+                android:maxLength="50"
+                android:padding="10dp"
+                android:textSize="14dp" />
+
+            <EditText
+                android:id="@+id/receiver_mobile"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/edittext_style_1"
+                android:hint="Telepon Penerima"
+                android:inputType="number"
+                android:maxLength="15"
+                android:padding="10dp"
+                android:textSize="14dp"/>
+
+            <Spinner
+                android:id="@+id/region_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/spinner_style_1"/>
+
+            <Spinner
+                android:id="@+id/city_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/spinner_style_1"
+                android:visibility="gone"/>
+
+            <Spinner
+                android:id="@+id/district_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/spinner_style_1"
+                android:visibility="gone"/>
+
+            <Spinner
+                android:id="@+id/subdistrict_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/spinner_style_1"
+                android:visibility="gone"/>
+
+            <EditText
+                android:id="@+id/address"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/edittext_style_1"
+                android:inputType="textNoSuggestions"
+                android:gravity="start"
+                android:maxLength="30"
+                android:padding="10dp"
+                android:hint="Alamat Penerima"
+                android:visibility="gone"
+                android:textSize="14dp"/>
+
+            <EditText
+                android:id="@+id/address2"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/edittext_style_1"
+                android:inputType="textNoSuggestions"
+                android:gravity="start"
+                android:maxLength="30"
+                android:padding="10dp"
+                android:hint="Alamat Penerima"
+                android:singleLine="true"
+                android:visibility="gone"
+                android:textSize="14dp"/>
+
+            <EditText
+                android:id="@+id/address3"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/edittext_style_1"
+                android:inputType="textNoSuggestions"
+                android:gravity="start"
+                android:maxLength="30"
+                android:padding="10dp"
+                android:hint="Alamat Penerima"
+                android:singleLine="true"
+                android:visibility="gone"
+                android:textSize="14dp"/>
+
+            <EditText
+                android:id="@+id/zipcode"
+                android:layout_width="200dp"
+                android:layout_height="@dimen/edittext_height"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/edittext_style_1"
+                android:enabled="false"
+                android:hint="Kode Pos"
+                android:padding="10dp"
+                android:visibility="gone"
+                android:textSize="14dp"/>
+
+            <LinearLayout
+                android:id="@+id/linear_search_map"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:visibility="gone">
+
+                <fragment
+                    android:id="@+id/place_autocomplete_fragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:name="com.google.android.gms.location.places.ui.PlaceAutocompleteFragment"/>
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/relativeMap"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:visibility="gone">
+
+                <fragment
+                    android:id="@+id/map"
+                    android:name="com.google.android.gms.maps.SupportMapFragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/height_maps"
+                    tools:context=".activity.AddAdressActivity" />
+
+
+                <LinearLayout
+                    android:id="@+id/linSearchAddress"
+                    android:layout_width="@dimen/widht_search"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_margin="@dimen/margin10dp">
+
+                    <EditText
+                        android:id="@+id/etSearchAddress"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/height_search"
+                        android:background="@drawable/edittext_style_1"
+                        android:inputType="textNoSuggestions"
+                        android:hint="@string/search_address"
+                        android:padding="@dimen/margin4dp"
+                        android:singleLine="true"
+                        android:visibility="gone"
+                        android:textSize="@dimen/text_size_search_address" />
+
+                    <LinearLayout
+                        android:id="@+id/linListSearch"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <com.indomaret.klikindomaret.views.HeightAdjustableListView
+                            android:id="@+id/searchAddressList"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+                        </com.indomaret.klikindomaret.views.HeightAdjustableListView>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/imagetrans"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/map"
+                    android:layout_alignEnd="@+id/map"
+                    android:layout_alignLeft="@+id/map"
+                    android:layout_alignRight="@+id/map"
+                    android:layout_alignStart="@+id/map"
+                    android:layout_alignTop="@+id/map"
+                    android:background="@android:color/transparent" />
+
+                <RelativeLayout
+                    android:id="@+id/relInfoLocation"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/height_maps">
+
+                    <ImageView
+                        android:id="@+id/imagePlace"
+                        android:layout_width="@dimen/size_ic_places"
+                        android:layout_height="@dimen/size_ic_places"
+                        android:layout_centerInParent="true"
+                        android:src="@drawable/pick_location" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="10dp"
+                android:background="#fafafa">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/map">
+
+                    <ImageView
+                        android:id="@+id/ic_loc"
+                        android:layout_width="@dimen/small_ic_place"
+                        android:layout_height="@dimen/small_ic_place"
+                        android:src="@drawable/ic_place" />
+
+                    <TextView
+                        android:id="@+id/tvAlamatToko"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/margin3dp"
+                        android:layout_marginRight="@dimen/margin3dp"
+                        android:layout_toRightOf="@+id/ic_loc"
+                        android:layout_toLeftOf="@+id/btn_edit_map"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/btn_edit_map"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorPrimary"
+                        android:text="Ubah"/>
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="Keterangan Tambahan Alamat"
+                    android:textColor="@android:color/black"
+                    android:textSize="14dp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/etKetTambahAlamat"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/edittext_height"
+                    android:background="@drawable/edittext_style_1"
+                    android:hint="@string/add_info"
+                    android:padding="10dp"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/preloader"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/black"
+            android:alpha="0.5"/>
+
+        <ProgressBar
+            android:id="@+id/determinateBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

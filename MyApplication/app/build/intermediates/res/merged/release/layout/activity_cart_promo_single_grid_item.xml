@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/border"
+    android:orientation="vertical"
+    android:paddingTop="5dp"
+    android:id="@+id/promo_product_container"
+    android:padding="10dp"
+    android:tag="promo_fragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/promo_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:text="BELANJA ITEM GROCERY TOKO 50.000 (KECUALI PRODUK TERTENTU) DAPAT TEBUS 1PC KUNCI MAS MINYAK GORENG 1L."
+            android:textColor="@color/colorPrimary"/>
+
+        <TextView
+            android:id="@+id/btn_detail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="5dp"
+            android:gravity="center"
+            android:text="Baca Selengkapnya"
+            android:textColor="@android:color/holo_blue_dark"/>
+
+        <TextView
+            android:id="@+id/maks_promo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="5dp"
+            android:text="Anda hanya dapat memilih maksimal ()"/>
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <GridView
+                        android:id="@+id/grid_product"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:columnWidth="180dp"
+                        android:gravity="center"
+                        android:numColumns="9"
+                        android:horizontalSpacing="5dp"
+                        android:scrollbarAlwaysDrawHorizontalTrack="true"
+                        android:scrollbarAlwaysDrawVerticalTrack="true"
+                        android:scrollbars="horizontal"
+                        android:stretchMode="none"
+                        android:verticalSpacing="5dp">
+                    </GridView>
+                </LinearLayout>
+            </FrameLayout>
+        </HorizontalScrollView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="right"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginBottom="5dp"
+            android:gravity="right"
+            android:text="Sisa produk yang dapat dipilih : "/>
+
+        <TextView
+            android:id="@+id/sisa_promo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_gravity="right"
+            android:text="7"
+            android:textColor="@color/colorPrimary"/>
+    </LinearLayout>
+</RelativeLayout>

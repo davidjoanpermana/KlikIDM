@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\icon_add.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\icon_add.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\icon_delete_blue.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\icon_delete_blue.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\splash_image.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\splash_image.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\icon_back.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\icon_back.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\logo_idm.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\logo_idm.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\icon_delete_black.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\icon_delete_black.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\icon_hide.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\icon_hide.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\launcher.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\launcher.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\icon_filter.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\icon_filter.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\icon_back_arrow.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\icon_back_arrow.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\icon_close.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\icon_close.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\icon_show.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\icon_show.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\icon_search.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\icon_barcode_search.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\icon_barcode_search.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\icon_edit.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\ic_action_plus.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_plus.png"
+    }
+]

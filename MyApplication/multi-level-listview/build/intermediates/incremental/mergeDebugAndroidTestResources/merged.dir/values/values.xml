@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MultiLevelListView"><attr name="nestType">
+            <enum name="single" value="0"/>
+            <enum name="multiple" value="1"/>
+        </attr><attr format="boolean" name="alwaysExtended"/><attr format="reference" name="list"/></declare-styleable>
+    <string name="app_name">multi-level-listview</string>
+</resources>

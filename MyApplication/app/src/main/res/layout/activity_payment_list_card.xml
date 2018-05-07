@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/card_container"
+    android:background="@color/colorWhite"
+    android:padding="5dp"
+    tools:context="com.indomaret.klikindomaret.activity.PaymentListActivity">
+
+    <com.android.volley.toolbox.NetworkImageView
+        android:id="@+id/card_view_payment_network"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:adjustViewBounds="true"
+        android:src="@drawable/pre03"
+        android:visibility="gone"/>
+
+    <ImageView
+        android:id="@+id/card_view_payment"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:adjustViewBounds="true"
+        android:visibility="gone"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </RelativeLayout>
+</RelativeLayout>

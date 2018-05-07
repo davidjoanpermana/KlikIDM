@@ -1,0 +1,1154 @@
+[
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_storeidm.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_storeidm.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line2.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\line2.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cs.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\cs.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tix.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\tix.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train01.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\train01.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gkupon1.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\gkupon1.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_flat_selector.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\btn_flat_selector.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border2.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\border2.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\category.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_image.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\no_image.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_01.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\profile_01.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_keranjang_intro.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_keranjang_intro.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\travel_logo.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\travel_logo.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\daftar_belanja.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\daftar_belanja.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ckids.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\ckids.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_arrow_right.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_arrow_right.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_scan_barcode.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_scan_barcode.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_sidearr.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\r_sidearr.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_virtual_01.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logo_virtual_01.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transparantlogo.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\transparantlogo.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_blue.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logo_blue.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebookcredit_klikindomaret.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\facebookcredit_klikindomaret.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frisian.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\frisian.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gkupon.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\gkupon.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selecteditem_dot.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\selecteditem_dot.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_close_black.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_close_black.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_info1.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\image_info1.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bcaklikpay.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\bcaklikpay.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_trash_white.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\ico_trash_white.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_02h.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\cart_02h.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_product_nonstore.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\ico_product_nonstore.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_refresh.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\image_refresh.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\subs.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\subs.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_countdown.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_countdown.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\list.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_linear.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\shadow_linear.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_wishlist_plus.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_wishlist_plus.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xl_tunai.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\xl_tunai.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apka.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\apka.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\merchant.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\merchant.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\isaku_header.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\isaku_header.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\d2509563c250f312cf42d8a8e97273ff58a559e2\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_null.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\checkbox_null.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_style_2.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\edittext_style_2.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_product_style_2.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\card_product_style_2.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_background.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\toolbar_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_blue_background.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\rounded_blue_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_check_blue_trans.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_check_blue_trans.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_style_1.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\spinner_style_1.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_dot_grey.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\drawable\\indicator_dot_grey.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\example_product.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\example_product.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\payment_03h.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\payment_03h.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_arr.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\up_arr.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\example_featured.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\example_featured.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_order_list.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logo_order_list.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_place_black.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_place_black.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\google_play.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\google_play.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_arrow_filter.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_arrow_filter.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_plus.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_plus.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_grey.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\checkbox_grey.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\example_promo.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\example_promo.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style_4.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\button_style_4.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voucher_game_klikindomaret_new.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\voucher_game_klikindomaret_new.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_01h.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\profile_01h.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\intro_scan_barcode.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\intro_scan_barcode.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\asset.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\asset.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_close.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_close.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mandiriklikpay.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\mandiriklikpay.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_arr.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\down_arr.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_bar_hotel.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logo_bar_hotel.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kredit.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\kredit.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_promo_04.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_promo_04.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_delete_grey.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\image_delete_grey.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bkkcn.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\bkkcn.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_dot_white.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\3b9129d24d818504275c273c3449c7b0a1351759\\output\\res\\drawable\\indicator_dot_white.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_filter.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_filter.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_error.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\image_error.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_cimb.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logo_cimb.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style_2.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\button_style_2.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_blue.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\bg_blue.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bca_virtual.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\bca_virtual.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\notification.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_place.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\ic_place.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\verification_success.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\verification_success.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_next.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\arrow_next.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_product_style_1.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\card_product_style_1.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_check_blue.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_check_blue.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_minus.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_minus.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidomar_wakwaw.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\sidomar_wakwaw.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heroes_banner.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\heroes_banner.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trx.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\trx.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner_kai2.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\banner_kai2.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\warning.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_style_1.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\edittext_style_1.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_background_blue.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\toolbar_background_blue.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_non_store_02.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logo_non_store_02.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_virtual_02.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logo_virtual_02.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_rate.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_rate.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_address.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\add_address.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\not_found.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\not_found.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_02.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\cart_02.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rkpon.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\rkpon.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_up_white.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\arrow_up_white.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dewasa.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\dewasa.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style_3.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\button_style_3.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\berangkat.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\berangkat.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_flat_unselector.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\btn_flat_unselector.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cod.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\cod.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\payment_03.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\payment_03.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_next.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_next.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_background_selected.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\tab_background_selected.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_arr_colp.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\up_arr_colp.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left_arr.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\left_arr.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_virtual.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\ico_virtual.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_linearlayout.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\border_linearlayout.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paket_internet.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\paket_internet.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_full_blue_background.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\rounded_full_blue_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logoindopaket.JPG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logoindopaket.JPG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adult.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\adult.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_plus_blue.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_plus_blue.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_product_style_1_grey.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\card_product_style_1_grey.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow2.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\arrow2.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\badge_circle.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\badge_circle.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line1.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\line1.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_full_grey_background.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\rounded_full_grey_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_jne.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_jne.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_circle_blue.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_circle_blue.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_circle_grey.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_circle_grey.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_background_hotel.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\toolbar_background_hotel.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pre_hero.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\pre_hero.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voucher_game_klikindomaret.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\voucher_game_klikindomaret.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\calendar.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_share.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_share.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timeout.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\timeout.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icons_filter.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icons_filter.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_cursor.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\custom_cursor.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_cart.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\ic_menu_cart.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_list.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\selector_list.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bppid.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\bppid.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_back.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\arrow_back.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_virtual.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logo_virtual.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_non_store.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logo_non_store.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cart.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_cart.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logoklikindomaret_white.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logoklikindomaret_white.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\children.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\children.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_arr_colp.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\down_arr_colp.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_barcode.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_barcode.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icons_sorting.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icons_sorting.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_arr.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\right_arr.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style_1.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\button_style_1.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pick_image.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\pick_image.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_background_travel.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\toolbar_background_travel.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pick_location.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\pick_location.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_image.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\splash_image.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_category.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\image_category.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preloader.gif",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\preloader.gif"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nonselecteditem_dot.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\nonselecteditem_dot.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pre03.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\pre03.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back_arrow_black.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_back_arrow_black.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_background_unselected.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\tab_background_unselected.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stick_01.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\stick_01.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_non_store_01.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logo_non_store_01.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_bca.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logo_bca.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_white.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logo_white.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_product_style_2_grey.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\card_product_style_2_grey.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_product_style_2_blue.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\card_product_style_2_blue.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border3.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\border3.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_image.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\send_image.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_next2.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_next2.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\train02.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\train02.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_loading.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\image_loading.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\psgr.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\psgr.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_store_01.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logo_store_01.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keranjang.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\keranjang.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_info3.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\image_info3.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_house.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\image_house.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_filled.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\checkbox_filled.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart01.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\cart01.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\isaku_logo.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\isaku_logo.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\intro_keranjang_belanja.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\intro_keranjang_belanja.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kontak.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\kontak.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l_sidearr_small.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\l_sidearr_small.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cs_blue.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\cs_blue.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transfer.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\transfer.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_add.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_add.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_promo_03.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_promo_03.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loader.gif",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\loader.gif"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_background.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\tab_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cari2.JPG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\cari2.JPG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style_5.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\button_style_5.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\5475c2986d7364d9964e2d6b165fda3cd1a51964\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_blue.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\list_blue.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar2.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\calendar2.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\t_cash.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\t_cash.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_gkupon.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_gkupon.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_promo_01.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_promo_01.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_store_02.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logo_store_02.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_delete_blue.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\image_delete_blue.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\417b2093178601a04d9c69e9b0fa42418404ce2b\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l_sidearr.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\l_sidearr.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_store.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\logo_store.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balita.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\balita.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_berhasil_simpan.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_berhasil_simpan.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_product_store.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\ico_product_store.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\intro_pengiriman_fleksibel.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\intro_pengiriman_fleksibel.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\time.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\time.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\line.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loader_default.gif",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\loader_default.gif"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bantuan.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\bantuan.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kai.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\kai.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style_yellow.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\button_style_yellow.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_store_location.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\ic_store_location.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tujuan.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\tujuan.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner_kai.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\banner_kai.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stick_02.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\stick_02.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_sidearr_small.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\r_sidearr_small.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_place.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_place.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_info2.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\image_info2.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\577091452ee51f16dc10b83321ae42c274ac55a9\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_write.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_write.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back_arrow.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_back_arrow.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\group.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\group.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\489a1f8766374ce61aa17f9e81561515da9e2035\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pulsa_klikindomaret.jpg",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\pulsa_klikindomaret.jpg"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_promo_02.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_promo_02.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_place_red.PNG",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\icon_place_red.PNG"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\st.png",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\st.png"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\USER\\.android\\build-cache\\1be958c5998a424c84864acc2a7a289f05093a30\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_background_yellow.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\toolbar_background_yellow.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style_6.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\drawable\\button_style_6.xml"
+    }
+]

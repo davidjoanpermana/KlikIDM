@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    tools:context="com.indomaret.klikindomaret.activity.ReviewActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/header_review"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal"/>
+
+        <ScrollView
+            android:id="@+id/scroll_view"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:background="@color/backgroundGrey">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/linearlayout_text"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/content_review1"
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:text=""
+                    android:gravity="start"
+                    android:maxLength="200"
+                    android:padding="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_alignParentTop="true"
+                    android:enabled="false"
+                    android:textColor="@android:color/black"
+                    android:background="@drawable/card_product_style_1"
+                    android:visibility="gone"/>
+
+                <EditText
+                    android:id="@+id/content_review2"
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:text=""
+                    android:gravity="start"
+                    android:maxLength="200"
+                    android:padding="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:enabled="false"
+                    android:textColor="@android:color/black"
+                    android:layout_below="@id/content_review1"
+                    android:background="@drawable/card_product_style_1"
+                    android:visibility="gone"/>
+
+                <EditText
+                    android:id="@+id/content_review3"
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:text=""
+                    android:gravity="start"
+                    android:maxLength="200"
+                    android:padding="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:enabled="false"
+                    android:textColor="@android:color/black"
+                    android:layout_below="@id/content_review2"
+                    android:background="@drawable/card_product_style_1"
+                    android:visibility="gone"/>
+            </RelativeLayout>
+        </ScrollView>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            >
+
+            <Button
+                android:id="@+id/btn_ok"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:text="Ok"
+                android:layout_alignParentRight="true"
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimary"
+                android:background="@drawable/button_style_3"/>
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

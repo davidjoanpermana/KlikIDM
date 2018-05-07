@@ -1,0 +1,86 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '25.0.0'
+
+    dexOptions {
+        javaMaxHeapSize "4g"
+//        incremental = true;
+//        preDexLibraries = false
+    }
+
+    defaultConfig {
+        applicationId 'com.indomaret.klikindomaret'
+        minSdkVersion 17
+        targetSdkVersion 23
+        versionCode 98
+        versionName "18.04.2.00"
+        multiDexEnabled true
+    }
+
+    signingConfigs {
+        release {
+            storeFile file('/Users/madearyawisnuwardana/Documents/IDM/KlikIndomaret/keystores/klikindomaretWebApp.jks')
+            storePassword 'indomaret'
+            keyAlias 'KlikIndomaretWebApp'
+            keyPassword 'indomaret'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for erro rs in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+}
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile project(':volley')
+    compile project(':multi-level-listview')
+    //    compile 'org.apache.httpcomponents:httpmime:4.5.1'
+//    compile('com.facebook.android:facebook-android-sdk:4.17.0') {
+//        exclude module: 'support-v4'
+//        exclude group: 'com.android.support'
+//    }
+    compile 'com.facebook.android:facebook-android-sdk:4.7.0'
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:design:23.4.0'
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.android.support:recyclerview-v7:23.4.0'
+    compile 'com.android.support:animated-vector-drawable:23.4.0'
+    compile 'com.android.support:cardview-v7:23.4.0'
+    compile 'com.google.android.gms:play-services:8.4.0'
+    compile 'com.google.android.gms:play-services-location:8.4.0'
+    compile 'com.google.android.gms:play-services-auth:8.4.0'
+    compile 'com.github.paolorotolo:appintro:3.4.0'
+    compile 'me.grantland:autofittextview:0.2.+'
+    compile 'me.dm7.barcodescanner:zxing:1.8.4'
+    compile 'pl.droidsonroids.gif:android-gif-drawable:1.2.3'
+    compile 'com.github.aakira:expandable-layout:1.4.2@aar'
+    compile 'com.android.support:multidex:1.0.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    testCompile 'junit:junit:4.12'
+}
+
+
+
+
+
+
+apply plugin: 'com.google.gms.google-services'

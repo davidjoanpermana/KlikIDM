@@ -1,0 +1,5 @@
+password : 1Marco@prisma
+alias : KlikIndomaretKeyStore
+SH1 : 5C:7C:08:E2:D2:1C:B7:4E:2A:66:22:92:E9:31:68:8F:09:41:2F:72
+
+MD5 : B3:BF:BA:4B:66:EB:AF:28:96:DE:CD:52:E9:44:47:F9

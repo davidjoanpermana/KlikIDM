@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    tools:context="com.indomaret.klikindomaret.activity.ReviewActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Harga minimal"
+            android:textSize="14dp"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rp "
+                android:textSize="14dp"
+                android:textColor="@android:color/black"/>
+
+            <EditText
+                android:id="@+id/min_text"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:background="@drawable/edittext_style_1"
+                android:hint="Harga minimal"
+                android:inputType="number"
+                android:textSize="14dp"
+                android:padding="10dp"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Harga maksimal"
+            android:textSize="14dp"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rp "
+                android:textSize="14dp"
+                android:textColor="@android:color/black"/>
+
+            <EditText
+                android:id="@+id/max_text"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:background="@drawable/edittext_style_1"
+                android:hint="Harga maksimal"
+                android:textSize="14dp"
+                android:inputType="number"
+                android:padding="10dp"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml\\global_tracker.xml",
+        "source": "D:\\Project\\KlikIDM\\MyApplication\\app\\build\\generated\\res\\google-services\\debug\\xml\\global_tracker.xml"
+    }
+]

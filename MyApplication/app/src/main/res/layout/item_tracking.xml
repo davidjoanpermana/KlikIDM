@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/margin4dp"
+    tools:context="com.indomaret.klikindomaret.activity.ReviewActivity">
+
+
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Status"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"/>
+
+
+    <TextView
+        android:layout_below="@+id/tvStatus"
+        android:id="@+id/tvDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tanggal : 17 Agustus 1945"
+        android:textColor="@android:color/holo_blue_light"/>
+
+    
+</RelativeLayout>

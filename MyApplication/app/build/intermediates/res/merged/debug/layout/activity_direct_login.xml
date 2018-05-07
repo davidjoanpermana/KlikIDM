@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context="com.indomaret.klikindomaret.activity.DirectLoginActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/activation_account_appbar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar4" />
+    </android.support.design.widget.AppBarLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@+id/activation_account_appbar_layout"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:id="@+id/text_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="50dp"
+            android:gravity="center"
+            android:text="Aktivasi akun david@gmail.com berhasil"/>
+
+        <Button
+            android:id="@+id/btn_skip"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:text="Mulai Belanja"
+            android:textColor="@color/colorWhite"
+            android:textAllCaps="false"
+            android:textSize="13dp"
+            android:textStyle="bold"
+            android:background="@drawable/button_style_1"
+            android:layout_gravity="center"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:enabled="false"
+            style="?android:attr/borderlessButtonStyle"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/preloader"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/black"
+            android:alpha="0.5"/>
+
+        <ProgressBar
+            android:id="@+id/determinateBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

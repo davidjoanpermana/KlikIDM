@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="@dimen/data_item_row_height"
+    android:padding="@dimen/data_item_row_padding"
+    android:layout_width="match_parent"
+    android:background="#fff092b0"
+    android:clipChildren="false"
+    android:animationCache="true"
+    android:id="@+id/bg_view">
+
+    <com.indomaret.klikindomaret.views.LevelBeamView
+        android:id="@+id/dataItemLevelBeam"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/data_item_row_height" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:gravity="left|center_vertical"
+        android:layout_toLeftOf="@+id/dataItemArrow"
+        android:layout_toRightOf="@+id/imageIcon"
+        android:layout_marginLeft="@dimen/offset_default"
+        android:layout_marginRight="@dimen/offset_default"
+        android:id="@+id/linearLayout">
+        <TextView
+            android:id="@+id/dataItemName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="@android:color/black"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/dataItemArrow"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/arrow_down"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentLeft="false" />
+</RelativeLayout>

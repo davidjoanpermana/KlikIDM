@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    tools:context="com.indomaret.klikindomaret.activity.MergeCartActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp">
+
+        <com.indomaret.klikindomaret.views.NetworkImagesView
+            android:id="@+id/cart_image"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/pre03"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/cart_product_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nama Produk"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:id="@+id/cart_quantity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kuantitas : 1"
+                android:textColor="@android:color/black"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

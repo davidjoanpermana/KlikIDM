@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:background="@color/colorWhite">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        android:background="@android:color/white">
+
+        <TextView
+            android:id="@+id/passenger_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. david (Dewasa)"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:textColor="@android:color/black"/>
+
+        <TextView
+            android:id="@+id/infant_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"
+            android:text="-"/>
+
+        <LinearLayout
+            android:id="@+id/linear_passenger"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="12dp"
+                    android:text="No. Identitas"/>
+                <TextView
+                    android:id="@+id/identitas"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:textSize="12dp"
+                    android:text=": 4564564565"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="12dp"
+                    android:text="Pergi"/>
+                <TextView
+                    android:id="@+id/original_train_info"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:textSize="12dp"
+                    android:text=": Gerbong 3/ Kursi 2A"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linear_destination"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:orientation="horizontal"
+                android:visibility="gone">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="12dp"
+                    android:text="Pulang"/>
+                <TextView
+                    android:id="@+id/destination_train_info"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="12dp"
+                    android:layout_weight="1"
+                    android:text=": Gerbong 3/ Kursi 2A"/>
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

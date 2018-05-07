@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context="com.indomaret.klikindomaret.activity.VerificationPhoneActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/verification_phone_appbar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar4" />
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:layout_below="@id/verification_phone_appbar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:textSize="14dp"
+                android:gravity="center"
+                android:text="Verifikasi No. Handphone"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/verified_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:textSize="12dp"
+                android:text=""
+                android:textStyle="italic"/>
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/edittext_phone_number"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:focusable="false"
+            android:layout_marginBottom="5dp"
+            android:padding="5dp"
+            android:inputType="number"
+            android:background="@drawable/edittext_style_1"
+            android:textSize="@dimen/edittext_text_size"
+            android:maxLength="15"/>
+
+        <LinearLayout
+            android:id="@+id/second_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp">
+
+            <Button
+                android:id="@+id/btn_send_code"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_weight="1"
+                android:layout_marginRight="5dp"
+                android:text="Kirim Kode"
+                android:textColor="@color/colorWhite"
+                android:textAllCaps="false"
+                android:textSize="13dp"
+                android:textStyle="bold"
+                android:background="@drawable/button_style_1"
+                android:layout_gravity="right"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                style="?android:attr/borderlessButtonStyle"/>
+
+            <Button
+                android:id="@+id/btn_change_number"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_weight="1"
+                android:layout_marginLeft="5dp"
+                android:text="Ubah Nomor"
+                android:textSize="13dp"
+                android:textStyle="bold"
+                android:textColor="@color/colorWhite"
+                android:textAllCaps="false"
+                android:background="@drawable/button_style_1"
+                android:layout_gravity="right"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                style="?android:attr/borderlessButtonStyle"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/first_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone">
+
+            <Button
+                android:id="@+id/btn_change_number_cancel"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_weight="1"
+                android:layout_marginRight="5dp"
+                android:text="Batal"
+                android:textColor="@color/colorAccent"
+                android:textSize="13dp"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:background="@drawable/button_style_3"
+                android:layout_gravity="right"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                style="?android:attr/borderlessButtonStyle"/>
+
+            <Button
+                android:id="@+id/btn_change_number_save"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_weight="1"
+                android:layout_marginLeft="5dp"
+                android:text="Simpan"
+                android:textColor="@color/colorAccent"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="13dp"
+                android:background="@drawable/button_style_3"
+                android:layout_gravity="right"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                style="?android:attr/borderlessButtonStyle"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/otp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textSize="10dp"
+            android:textColor="@android:color/holo_red_light"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="5dp"
+            android:textSize="14dp"
+            android:text="Masukan kode OTP"
+            android:textStyle="bold"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp">
+
+            <EditText
+                android:id="@+id/otp_code_1"
+                android:layout_width="50dp"
+                android:layout_height="80dp"
+                android:layout_marginRight="20dp"
+                android:gravity="center"
+                android:maxLength="1"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:inputType="number"
+                android:background="@drawable/edittext_style_1"/>
+
+            <EditText
+                android:id="@+id/otp_code_2"
+                android:layout_width="50dp"
+                android:layout_height="80dp"
+                android:layout_marginRight="20dp"
+                android:gravity="center"
+                android:maxLength="1"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:inputType="number"
+                android:background="@drawable/edittext_style_1"/>
+
+            <EditText
+                android:id="@+id/otp_code_3"
+                android:layout_width="50dp"
+                android:layout_height="80dp"
+                android:layout_marginRight="20dp"
+                android:gravity="center"
+                android:maxLength="1"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:inputType="number"
+                android:background="@drawable/edittext_style_1"/>
+
+            <EditText
+                android:id="@+id/otp_code_4"
+                android:layout_width="50dp"
+                android:layout_height="80dp"
+                android:gravity="center"
+                android:maxLength="1"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:inputType="number"
+                android:background="@drawable/edittext_style_1"/>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btn_verification_number"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:text="Verifikasi"
+            android:textColor="@color/colorWhite"
+            android:textAllCaps="false"
+            android:textSize="13dp"
+            android:textStyle="bold"
+            android:background="@drawable/button_style_1"
+            android:layout_gravity="right"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            style="?android:attr/borderlessButtonStyle"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/profile_preloader_shadow"
+        android:layout_below="@id/verification_phone_appbar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/black"
+        android:alpha="0.5"
+        android:visibility="gone">
+
+        <ProgressBar
+            android:id="@+id/determinateBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

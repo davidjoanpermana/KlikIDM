@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Klik Indomaret</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- ACTION TOP BUTTONS-->
+    <string name="action_cari">Cari</string>
+    <string name="action_keranjang">Keranjang</string>
+    <string name="action_user">User</string>
+
+    <!-- COOKIES -->
+    <string name="pref_key">com.indomaret.klikindomaret</string>
+    <string name="login_token_key">com.indomaret.klikindomaret.logintoken</string>
+    <string name="categories_key">com.indomaret.klikindomaret.categories</string>
+    <string name="username">com.indomaret.klikindomaret.username</string>
+
+    <!-- HEADER BUTTONS -->
+    <string name="beranda_menu">Beranda</string>
+    <string name="akun_saya_menu">Akun&#10;Saya</string>
+    <string name="login_daftar_menu">Login/&#10;Daftar</string>
+    <string name="cakupan_kodepos_menu">Cakupan&#10;Kode Pos</string>
+    <string name="cara_memesan_menu">Cara&#10;Memesan</string>
+    <string name="status_pemesanan_menu">Status&#10;Pemesanan</string>
+    <string name="tanya_jawab_menu">Tanya&#10;Jawab</string>
+    <string name="chat_bantuan_menu">Chat&#10;Bantuan</string>
+    <string name="layanan_pelanggan_menu">Layanan&#10;Pelanggan</string>
+    <string name="wishlist_menu">Wish list</string>
+
+    <!-- FOOTER BUTTONS -->
+    <string name="kebijakan_privasi_menu">Kebijakan&#10;Privasi</string>
+    <string name="kebijakan_pengembalian_menu">Kebijakan&#10;Pengembalian</string>
+    <string name="tentang_kami_menu">Tentang&#10;Kami</string>
+    <string name="semua_merek_menu">Semua&#10;Merek</string>
+    <string name="sitemap_menu">Sitemap</string>
+    <string name="pullToRefreshText">Loading...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_activity_label">Login Activity</string>
+    <string name="ikupon"><u>Ada i-kupon?</u></string>
+    <string name="shopping_voucher"><u>Ada voucher belanja?</u></string>
+    <string name="order_content"><u>Lihat isi pesanan</u></string>
+
+    <!-- Sorting Spinner Content -->
+    <string-array name="sorting_array">
+        <item>ALFABET (A-Z)</item>
+        <item>ALFABET (Z-A)</item>
+        <item>HARGA TERMURAH</item>
+        <item>HARGA TERMAHAL</item>
+        <item>PROMO</item>
+        <item>POPULER</item>
+        <item>TERBARU</item>
+    </string-array>
+
+    <string-array name="sorting_history">
+        <item>- Urut Berdasarkan : ALFABET (A-Z)</item>
+        <item>- Urut Berdasarkan : ALFABET (Z-A)</item>
+        <item>- Urut Berdasarkan : HARGA TERMURAH</item>
+        <item>- Urut Berdasarkan : HARGA TERMAHAL</item>
+        <item>- Urut Berdasarkan : PROMO</item>
+        <item>- Urut Berdasarkan : POPULER</item>
+        <item>- Urut Berdasarkan : TERBARU</item>
+    </string-array>
+
+    <string-array name="profile_menu">
+        <item>Informasi Akun</item>
+        <item>Buku Alamat</item>
+        <item>Daftar Transaksi</item>
+        <item>Wishlist</item>
+        <item>Notifikasi</item>
+    </string-array>
+
+    <string-array name="sorting_kai">
+        <item>Berangkat</item>
+        <item>Tiba</item>
+        <item>Durasi</item>
+        <item>Harga</item>
+    </string-array>
+
+    <string-array name="gendre_array">
+        <item>-- Pilih Title --</item>
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+
+    <string-array name="search_mode">
+        <item>Area Wilayah</item>
+        <item>Kode Toko</item>
+    </string-array>
+
+    <string name="mycart"><b>PERHATIAN!</b> Produk terbagi atas <b>"Produk dikirim dari Toko"</b>, <b>"Produk dikirim dari Non Toko"</b> dan <b>"Produk Virtual"</b>.</string>
+    <string name="title_activity_postcode_coverage">PostcodeCoverageActivity</string>
+    <string name="forgot_password">Lupa Kata Sandi?</string>
+    <string name="single_category">com.indomaret.klikindomaret.singlecategory</string>
+    <string name="refresh_cart">Perbarui\nKeranjang</string>
+    <string name="title_activity_verification_number_phone">VerificationNumberPhoneActivity</string>
+    <string name="title_activity_verification_phone">VerificationPhoneActivity</string>
+    <string name="title_activity_success_verifivation">SuccessVerifivationActivity</string>
+    <string name="title_activity_home_kai">HomeKAIActivity</string>
+    <string name="title_activity_list_ticket_kai">ListTicketKAIActivity</string>
+    <string name="title_activity_profile_kai">ProfileKAIActivity</string>
+    <string name="title_activity_new_profile_kai">NewProfileKAIActivity</string>
+    <string name="title_activity_passenger">PassengerActivity</string>
+    <string name="title_activity_choose_sit">chooseSitActivity</string>
+    <string name="title_activity_summary_kai">SummaryKAIActivity</string>
+    <string name="title_activity_order_summary_kai">OrderSummaryKAIActivity</string>
+    <string name="title_activity_payment_kai">PaymentKAIActivity</string>
+    <string name="title_activity_thankyou_page_kai">ThankyouPageKAIActivity</string>
+    <string name="title_activity_my_ticket_list">MyTicketListActivity</string>
+    <string name="title_activity_beranda_kai">BerandaKAIActivity</string>
+    <string name="title_activity_main_kai">MainKAIActivity</string>
+    <string name="title_activity_cek_ticket">CekTicketActivity</string>
+
+    <string name="facebook_app_id">106628580085081</string>
+    <string name="fb_login_protocol_scheme">fb106628580085081</string>
+
+    <string name="default_web_client_id">392977234683-e7bt0f5d7qb1pf9lsp0lrbeca2frkv61.apps.googleusercontent.com</string>
+
+    <string name="pleace_pick_location">Mohon tandai lokasi pada peta agar memudahkan pengantaran produk anda</string>
+    <string name="mark_on_maps">Tandai pada peta</string>
+    <string name="please_select_store">Toko belum dipilih, silahkan pilih toko terlebih dahulu</string>
+    <string name="add_info">Mohon berikan informasi tambahan</string>
+    <string name="search_address">Search</string>
+
+</resources>

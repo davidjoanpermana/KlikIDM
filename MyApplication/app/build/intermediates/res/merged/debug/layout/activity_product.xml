@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundGrey"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.indomaret.klikindomaret.activity.ProductActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/product_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/toolbar2" />
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout
+        android:id="@+id/button_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <LinearLayout
+            android:id="@+id/btn_single_category_buy"
+            android:background="@drawable/button_style_1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="18dp"
+                android:textColor="@color/colorWhite"
+                android:text="BELI" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/btn_single_category_empty"
+            android:background="@drawable/button_style_4"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="18dp"
+                android:textColor="@color/colorWhite"
+                android:text="HABIS" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/btn_single_category_empty_promo"
+            android:background="@drawable/button_style_4"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="18dp"
+                android:textColor="@color/colorWhite"
+                android:text="BELI" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/empty_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/product_appbar"
+        android:text="Barang Tidak Ditemukan"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:visibility="gone"/>
+
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/product_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true"
+        android:layout_below="@+id/product_appbar"
+        android:layout_above="@id/button_container">
+
+        <LinearLayout
+            android:id="@+id/linear_detail_product"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:focusableInTouchMode="true"
+            android:visibility="visible">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_weight="1"
+                    android:visibility="invisible">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Dijual Oleh:"/>
+
+                    <TextView
+                        android:id="@+id/merchant_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Merchant Name"
+                        android:textColor="@android:color/black"
+                        android:textStyle="bold"/>
+
+                    <RatingBar
+                        android:id="@+id/product_rating"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:numStars="5"
+                        android:stepSize="1"
+                        android:isIndicator="true"
+                        style="?android:attr/ratingBarStyleSmall"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="3">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Share"/>
+
+                    <LinearLayout
+                        android:id="@+id/share_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="25dp"
+                            android:layout_height="25dp"
+                            android:src="@drawable/icon_share"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="@color/colorWhite"
+                android:visibility="visible">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_margin="5dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <LinearLayout
+                            android:id="@+id/view_flipper"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <android.support.v4.view.ViewPager
+                                android:id="@+id/pager_image_product"
+                                android:layout_width="match_parent"
+                                android:layout_height="250dp"
+                                tools:listitem="@layout/pager_item" />
+
+                            <RelativeLayout
+                                android:id="@+id/viewPagerIndicatorProduct"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="5dp"
+                                android:layout_marginTop="5dp"
+                                android:gravity="center">
+
+                                <LinearLayout
+                                    android:id="@+id/viewPagerCountDotsProduct"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerHorizontal="true"
+                                    android:gravity="center"
+                                    android:orientation="horizontal" />
+                            </RelativeLayout>
+                        </LinearLayout>
+
+                        <TextView
+                            android:id="@+id/product_name"
+                            android:layout_below="@id/view_flipper"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="10dp"
+                            android:text=""
+                            android:layout_margin="10dp"
+                            android:textSize="17dp"
+                            android:textStyle="bold"
+                            android:textColor="@android:color/black"
+                            android:gravity="center"/>
+                    </RelativeLayout>
+                </LinearLayout>
+            </RelativeLayout>
+
+            <Spinner
+                android:id="@+id/satuan_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/spinner_style_1"></Spinner>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="5dp"
+                android:gravity="center_vertical"
+                android:text="Harga"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:background="@color/colorWhite"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1dp"
+                android:background="@color/colorWhite">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/single_product_price"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@android:color/holo_red_dark"
+                            android:textSize="25dp"
+                            android:textStyle="bold"/>
+
+                        <RelativeLayout
+                            android:id="@+id/product_promotion"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/colorWhite"
+                            android:layout_marginLeft="10dp"
+                            android:visibility="gone">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+                                <TextView
+                                    android:id="@+id/product_discount"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginRight="5dp"
+                                    android:padding="5dp"
+                                    android:textColor="@android:color/white"
+                                    android:background="@android:color/holo_red_dark"
+                                    android:visibility="gone"/>
+
+                                <TextView
+                                    android:id="@+id/product_installment"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:padding="5dp"
+                                    android:textColor="@android:color/white"
+                                    android:background="@color/colorPrimary"
+                                    android:visibility="gone"/>
+                            </LinearLayout>
+                        </RelativeLayout>
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/single_product_initial_price"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="16dp"
+                        android:textStyle="bold"
+                        android:visibility="gone"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:id="@+id/product_send_from"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="5dp"/>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="50dp">
+
+                            <RelativeLayout
+                                android:id="@+id/qty_minus"
+                                android:layout_width="50dp"
+                                android:layout_height="35dp"
+                                android:background="#CCC">
+
+                                <ImageView
+                                    android:layout_width="20dp"
+                                    android:layout_height="20dp"
+                                    android:layout_centerInParent="true"
+                                    android:src="@drawable/icon_minus"/>
+                            </RelativeLayout>
+
+                            <EditText
+                                android:id="@+id/product_quantity"
+                                android:layout_width="match_parent"
+                                android:layout_height="35dp"
+                                android:layout_weight="1"
+                                android:focusable="false"
+                                android:focusableInTouchMode="false"
+                                android:text="1"
+                                android:gravity="center"
+                                android:background="@drawable/edittext_style_1"/>
+
+                            <RelativeLayout
+                                android:id="@+id/qty_plus"
+                                android:layout_width="50dp"
+                                android:layout_height="35dp"
+                                android:background="#CCC">
+
+                                <ImageView
+                                    android:layout_width="20dp"
+                                    android:layout_height="20dp"
+                                    android:layout_centerInParent="true"
+                                    android:src="@drawable/icon_plus"/>
+                            </RelativeLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="5dp"
+                android:gravity="center_vertical"
+                android:text="Silakan pilih spesifikasi produk"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1dp"
+                android:background="@color/colorWhite">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/text_color"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:text="Warna"
+                        android:textColor="@android:color/black"
+                        android:visibility="gone"/>
+
+                    <GridView
+                        android:id="@+id/product_color"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:columnWidth="120dp"
+                        android:gravity="left"
+                        android:numColumns="10"
+                        android:horizontalSpacing="-50dp"
+                        android:scrollbarAlwaysDrawHorizontalTrack="true"
+                        android:scrollbarAlwaysDrawVerticalTrack="true"
+                        android:scrollbars="horizontal"
+                        android:stretchMode="none"
+                        android:verticalSpacing="5dp"
+                        android:visibility="gone"/>
+
+                    <TextView
+                        android:id="@+id/text_size"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:text="Ukuran"
+                        android:textColor="@android:color/black"
+                        android:visibility="gone"/>
+
+                    <GridView
+                        android:id="@+id/product_size"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:columnWidth="50dp"
+                        android:gravity="left"
+                        android:numColumns="10"
+                        android:horizontalSpacing="5dp"
+                        android:scrollbarAlwaysDrawHorizontalTrack="true"
+                        android:scrollbarAlwaysDrawVerticalTrack="true"
+                        android:scrollbars="horizontal"
+                        android:stretchMode="none"
+                        android:verticalSpacing="5dp"
+                        android:visibility="visible"/>
+                </LinearLayout>
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/linear_tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="visible">
+
+                <android.support.design.widget.TabLayout
+                    android:id="@+id/tabs"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="@color/colorPrimary"
+                    app:tabGravity="fill"
+                    app:tabMode="scrollable"
+                    app:tabTextAppearance="@style/TabLayoutTextStyle"
+                    app:tabTextColor="@android:color/white" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:background="@color/backgroundGrey"/>
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/product_description_list"
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:background="@android:color/white"
+                    android:scrollbars="vertical"/>
+
+                <TextView
+                    android:id="@+id/empty_desc"
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:textStyle="bold"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:background="@android:color/white"
+                    android:text="Tidak Deskripsi"
+                    android:visibility="gone"/>
+
+                <TextView
+                    android:id="@+id/empty_promo"
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:textStyle="bold"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:background="@android:color/white"
+                    android:text="Tidak ada promo"
+                    android:visibility="gone"/>
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp">
+
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:orientation="vertical">
+
+                   <TextView
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:layout_marginTop="5dp"
+                       android:layout_marginBottom="5dp"
+                       android:layout_marginLeft="5dp"
+                       android:text="Produk Pasangan"
+                       android:textColor="@android:color/black"
+                       android:textStyle="bold"/>
+
+                   <View
+                       android:layout_width="match_parent"
+                       android:layout_height="1dp"
+                       android:background="@color/backgroundGrey"/>
+
+                   <HorizontalScrollView
+                       android:layout_width="match_parent"
+                       android:layout_height="match_parent"
+                       android:layout_below="@+id/seatLegendLayout">
+
+                       <FrameLayout
+                           android:layout_width="match_parent"
+                           android:layout_height="match_parent">
+
+                           <LinearLayout
+                               android:id="@+id/linearLayout_gridtableLayout"
+                               android:layout_width="380dp"
+                               android:layout_height="match_parent"
+                               android:orientation="horizontal">
+
+                               <GridView
+                                   android:id="@+id/related_product"
+                                   android:layout_width="match_parent"
+                                   android:layout_height="match_parent"
+                                   android:layout_margin="5dp"
+                                   android:columnWidth="120dp"
+                                   android:gravity="center"
+                                   android:numColumns="9"
+                                   android:horizontalSpacing="5dp"
+                                   android:scrollbarAlwaysDrawHorizontalTrack="true"
+                                   android:scrollbarAlwaysDrawVerticalTrack="true"
+                                   android:scrollbars="horizontal"
+                                   android:stretchMode="none"
+                                   android:verticalSpacing="5dp">
+                               </GridView>
+                           </LinearLayout>
+                       </FrameLayout>
+                   </HorizontalScrollView>
+               </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+    <RelativeLayout
+        android:id="@+id/preloader"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/black"
+            android:alpha="0.5"/>
+
+        <ProgressBar
+            android:id="@+id/determinateBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

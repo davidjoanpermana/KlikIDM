@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.indomaret.klikindomaret"
+      android:versionCode="99"
+      android:versionName="18.04.2.01"
+      split="lib_slice_8_apk">
+</manifest>

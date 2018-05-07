@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context="com.indomaret.klikindomaret.fragment.PulsaFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/phone_number"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:paddingLeft="5dp"
+                android:layout_weight="1"
+                android:hint="  Masukkan No Handphone"
+                android:inputType="number"
+                android:textSize="16dp"
+                android:maxLength="15"
+                android:background="@drawable/edittext_style_1"/>
+
+            <ImageView
+                android:id="@+id/contact"
+                android:layout_width="@dimen/edittext_height"
+                android:layout_height="@dimen/edittext_height"
+                android:background="@drawable/border"
+                android:src="@drawable/kontak"/>
+        </LinearLayout>
+
+        <Spinner
+            android:id="@+id/nominal_pulsa"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/spinner_style_1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="*Maksimal transaksi Rp 500.000 per nomor handphone"
+            android:textSize="10dp"
+            android:textColor="@color/colorPrimary"/>
+
+        <TextView
+            android:id="@+id/price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="Harga Jual : Rp. 20.000"
+            android:textColor="@android:color/black"
+            android:visibility="gone"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/btn_buy_pulsa"
+        android:background="@drawable/button_style_4"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="5dp"
+        android:layout_alignParentBottom="true"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:textColor="@android:color/black"
+            android:text="BELI" />
+    </LinearLayout>
+</RelativeLayout>
